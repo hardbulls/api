@@ -97,6 +97,16 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/calendars?round=&team=26067&date=',
             ]
+        },
+        {
+            year: 2023,
+            name: 'Vorarlberger Slowpitch League',
+            shortName: 'VSL',
+            slug: 'vsl',
+            standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2023/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2023/calendars?round=&team=26071&date='
+            ]
         }
     ]
 }

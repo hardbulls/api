@@ -1,0 +1,38 @@
+[
+  {
+    "position": 1,
+    "team": "Hard Bulls Bandidas U13",
+    "wins": 10,
+    "loses": 2,
+    "ties": 0,
+    "winsPercentage": 0.833,
+    "gamesBehind": 0
+  },
+  {
+    "position": 2,
+    "team": "Feldkirch Cardinals U13",
+    "wins": 10,
+    "loses": 2,
+    "ties": 0,
+    "winsPercentage": 0.833,
+    "gamesBehind": 0
+  },
+  {
+    "position": 3,
+    "team": "Hard Bulls U13",
+    "wins": 4,
+    "loses": 8,
+    "ties": 0,
+    "winsPercentage": 0.333,
+    "gamesBehind": 6
+  },
+  {
+    "position": 4,
+    "team": "Dornbirn Little Indians U13",
+    "wins": 0,
+    "loses": 12,
+    "ties": 0,
+    "winsPercentage": 0,
+    "gamesBehind": 10
+  }
+]

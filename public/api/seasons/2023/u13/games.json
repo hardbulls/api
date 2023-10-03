@@ -1,0 +1,245 @@
+[
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 8,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-04-23T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 8,
+    "homeScore": 11,
+    "status": "finished",
+    "date": "2023-04-23T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 9,
+    "homeScore": 18,
+    "status": "finished",
+    "date": "2023-05-07T11:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 20,
+    "homeScore": 11,
+    "status": "finished",
+    "date": "2023-05-07T13:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 5,
+    "homeScore": 6,
+    "status": "finished",
+    "date": "2023-05-21T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 15,
+    "homeScore": 12,
+    "status": "finished",
+    "date": "2023-05-21T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 16,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-06-11T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 14,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-06-11T12:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 15,
+    "homeScore": 3,
+    "status": "finished",
+    "date": "2023-06-24T10:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 25,
+    "homeScore": 21,
+    "status": "finished",
+    "date": "2023-06-24T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Dornbirn Little Indians U13",
+    "awayScore": 8,
+    "homeScore": 18,
+    "status": "finished",
+    "date": "2023-09-17T11:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Dornbirn Little Indians U13",
+    "awayScore": 12,
+    "homeScore": 13,
+    "status": "finished",
+    "date": "2023-09-17T13:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 25,
+    "homeScore": 24,
+    "status": "finished",
+    "date": "2023-09-30T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 20,
+    "homeScore": 13,
+    "status": "finished",
+    "date": "2023-10-01T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 8,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-04-23T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bandidas U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 8,
+    "homeScore": 11,
+    "status": "finished",
+    "date": "2023-04-23T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Dornbirn Little Indians U13",
+    "awayScore": 8,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-05-06T10:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Dornbirn Little Indians U13",
+    "awayScore": 0,
+    "homeScore": 6,
+    "status": "finished",
+    "date": "2023-05-20T10:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 16,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-06-11T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Hard Bulls Bandidas U13",
+    "awayScore": 14,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-06-11T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 15,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-06-25T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Feldkirch Cardinals U13",
+    "awayScore": 20,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-06-25T12:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 15,
+    "homeScore": 0,
+    "status": "finished",
+    "date": "2023-07-09T10:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 15,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-07-09T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 6,
+    "homeScore": 16,
+    "status": "finished",
+    "date": "2023-09-17T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U13",
+    "away": "Hard Bulls U13",
+    "awayScore": 2,
+    "homeScore": 12,
+    "status": "finished",
+    "date": "2023-09-17T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U13",
+    "away": "Dornbirn Little Indians U13",
+    "awayScore": 13,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-09-30T10:00:00.000Z"
+  }
+]

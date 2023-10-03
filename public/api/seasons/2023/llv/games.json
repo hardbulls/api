@@ -1,0 +1,56 @@
+[
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals 2",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 6,
+    "homeScore": 16,
+    "status": "finished",
+    "date": "2023-05-07T15:30:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Indians 3",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 3,
+    "homeScore": 14,
+    "status": "finished",
+    "date": "2023-06-24T14:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Feldkirch Cardinals 2",
+    "awayScore": 15,
+    "homeScore": 3,
+    "status": "finished",
+    "date": "2023-07-09T11:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals 2",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "canceled",
+    "date": "2023-09-23T16:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Dornbirn Indians 3",
+    "awayScore": 8,
+    "homeScore": 4,
+    "status": "finished",
+    "date": "2023-09-30T13:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Dornbirn Indians 3",
+    "awayScore": 13,
+    "homeScore": 5,
+    "status": "finished",
+    "date": "2023-09-30T16:00:00.000Z"
+  }
+]

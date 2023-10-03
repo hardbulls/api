@@ -1,0 +1,47 @@
+[
+  {
+    "position": 1,
+    "team": "Traiskirchen Grasshoppers",
+    "wins": 4,
+    "loses": 2,
+    "ties": 0,
+    "winsPercentage": 0.667,
+    "gamesBehind": 0
+  },
+  {
+    "position": 2,
+    "team": "Hard Bulls",
+    "wins": 2,
+    "loses": 1,
+    "ties": 0,
+    "winsPercentage": 0.667,
+    "gamesBehind": 0.5
+  },
+  {
+    "position": 3,
+    "team": "ASAK Athletics",
+    "wins": 2,
+    "loses": 2,
+    "ties": 0,
+    "winsPercentage": 0.5,
+    "gamesBehind": 1
+  },
+  {
+    "position": 3,
+    "team": "Stock City Cubs",
+    "wins": 1,
+    "loses": 1,
+    "ties": 0,
+    "winsPercentage": 0.5,
+    "gamesBehind": 1
+  },
+  {
+    "position": 5,
+    "team": "Feldkirch Cardinals",
+    "wins": 0,
+    "loses": 3,
+    "ties": 0,
+    "winsPercentage": 0,
+    "gamesBehind": 2.5
+  }
+]

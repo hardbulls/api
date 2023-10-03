@@ -4,6 +4,7 @@
   "private": true,
   "description": "Static API",
   "main": "dist/index.js",
+  "homepage": "https://api.hardbulls.com",
   "scripts": {
     "build": "tsc --project .",
     "start": "node ./dist/index.js",
@@ -18,7 +19,11 @@
     "api",
     "hard bulls"
   ],
-  "author": "Arjan Frans",
+  "author": {
+    "name": "Arjan Frans",
+    "email": "arjan@arjanfrans.com",
+    "url": "https://arjanfrans.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hardbulls/api/issues"
@@ -26,7 +31,6 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/hardbulls/api#readme",
   "dependencies": {
     "@hardbulls/wbsc-crawler": "^0.0.5",
     "@touch4it/ical-timezones": "^1.9.0",

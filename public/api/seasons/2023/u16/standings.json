@@ -1,0 +1,29 @@
+[
+  {
+    "position": 1,
+    "team": "SG Indians - Vikings U16",
+    "wins": 9,
+    "loses": 3,
+    "ties": 0,
+    "winsPercentage": 0.75,
+    "gamesBehind": 0
+  },
+  {
+    "position": 2,
+    "team": "Hard Bulls U16",
+    "wins": 5,
+    "loses": 7,
+    "ties": 0,
+    "winsPercentage": 0.417,
+    "gamesBehind": 4
+  },
+  {
+    "position": 3,
+    "team": "Feldkirch Cardinals U16",
+    "wins": 4,
+    "loses": 8,
+    "ties": 0,
+    "winsPercentage": 0.333,
+    "gamesBehind": 5
+  }
+]

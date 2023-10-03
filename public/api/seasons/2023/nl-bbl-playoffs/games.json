@@ -1,0 +1,56 @@
+[
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals",
+    "away": "Hard Bulls",
+    "awayScore": 6,
+    "homeScore": 2,
+    "status": "finished",
+    "date": "2023-08-26T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls",
+    "away": "ASAK Athletics",
+    "awayScore": 0,
+    "homeScore": 7,
+    "status": "finished",
+    "date": "2023-09-02T13:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls",
+    "away": "ASAK Athletics",
+    "awayScore": 3,
+    "homeScore": 2,
+    "status": "finished",
+    "date": "2023-09-02T15:30:00.000Z"
+  },
+  {
+    "venue": "Cubsfield, Stockerau",
+    "home": "Stock City Cubs",
+    "away": "Hard Bulls",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "canceled",
+    "date": "2023-09-09T12:00:00.000Z"
+  },
+  {
+    "venue": "Cubsfield, Stockerau",
+    "home": "Stock City Cubs",
+    "away": "Hard Bulls",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "canceled",
+    "date": "2023-09-09T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals",
+    "away": "Hard Bulls",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "canceled",
+    "date": "2023-09-23T14:00:00.000Z"
+  }
+]

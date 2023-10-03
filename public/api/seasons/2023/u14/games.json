@@ -1,0 +1,137 @@
+[
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Feldkirch Cardinals U14",
+    "awayScore": 2,
+    "homeScore": 15,
+    "status": "finished",
+    "date": "2023-04-30T11:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Feldkirch Cardinals U14",
+    "awayScore": 6,
+    "homeScore": 11,
+    "status": "finished",
+    "date": "2023-04-30T13:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Indians Ponies U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 14,
+    "homeScore": 5,
+    "status": "finished",
+    "date": "2023-05-14T11:00:00.000Z"
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Indians Ponies U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 11,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-05-18T13:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Dornbirn Indians Ponies U14",
+    "awayScore": 4,
+    "homeScore": 14,
+    "status": "finished",
+    "date": "2023-06-04T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Dornbirn Indians Ponies U14",
+    "awayScore": 9,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-06-04T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 7,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-06-18T10:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 24,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-06-18T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Kufstein Vikings U14",
+    "awayScore": 9,
+    "homeScore": 8,
+    "status": "finished",
+    "date": "2023-07-02T12:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Kufstein Vikings U14",
+    "awayScore": 18,
+    "homeScore": 2,
+    "status": "finished",
+    "date": "2023-07-02T14:00:00.000Z"
+  },
+  {
+    "venue": "Erich Silverio Field, Ebbs",
+    "home": "Kufstein Vikings U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 8,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2023-09-09T12:00:00.000Z"
+  },
+  {
+    "venue": "Erich Silverio Field, Ebbs",
+    "home": "Kufstein Vikings U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 14,
+    "homeScore": 4,
+    "status": "finished",
+    "date": "2023-09-09T14:00:00.000Z"
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U14",
+    "away": "Feldkirch Cardinals U14",
+    "awayScore": 9,
+    "homeScore": 17,
+    "status": "finished",
+    "date": "2023-09-23T12:00:00.000Z"
+  },
+  {
+    "venue": "Erich Silverio Field, Ebbs",
+    "home": "Kufstein Vikings U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 2,
+    "homeScore": 6,
+    "status": "finished",
+    "date": "2023-09-24T12:00:00.000Z"
+  },
+  {
+    "venue": "Erich Silverio Field, Ebbs",
+    "home": "Kufstein Vikings U14",
+    "away": "Hard Bulls U14",
+    "awayScore": 8,
+    "homeScore": 12,
+    "status": "finished",
+    "date": "2023-09-24T14:00:00.000Z"
+  }
+]

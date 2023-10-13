@@ -1,47 +1,97 @@
 [
   {
-    "position": 1,
-    "team": "Feldkirch Cardinals",
-    "wins": 11,
-    "loses": 5,
-    "ties": 0,
-    "winsPercentage": 0.688,
-    "gamesBehind": 0
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Feldkirch Cardinals",
+        "wins": 11,
+        "loses": 5,
+        "ties": 0,
+        "winsPercentage": 0.688
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians 2",
+        "wins": 10,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.625
+      },
+      {
+        "position": 3,
+        "team": "Schwaz Tigers",
+        "wins": 9,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.563
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls Bandidos",
+        "wins": 6,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.375
+      },
+      {
+        "position": 5,
+        "team": "Pirmoser Vikings",
+        "wins": 4,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.25
+      }
+    ]
   },
   {
-    "position": 2,
-    "team": "Dornbirn Indians 2",
-    "wins": 10,
-    "loses": 6,
-    "ties": 0,
-    "winsPercentage": 0.625,
-    "gamesBehind": 1
-  },
-  {
-    "position": 3,
-    "team": "Schwaz Tigers",
-    "wins": 9,
-    "loses": 7,
-    "ties": 0,
-    "winsPercentage": 0.563,
-    "gamesBehind": 2
-  },
-  {
-    "position": 4,
-    "team": "Hard Bulls Bandidos",
-    "wins": 6,
-    "loses": 10,
-    "ties": 0,
-    "winsPercentage": 0.375,
-    "gamesBehind": 5
-  },
-  {
-    "position": 5,
-    "team": "Pirmoser Vikings",
-    "wins": 4,
-    "loses": 12,
-    "ties": 0,
-    "winsPercentage": 0.25,
-    "gamesBehind": 7
+    "type": "REGULAR",
+    "results": [
+      {
+        "position": 1,
+        "team": "Feldkirch Cardinals",
+        "wins": 11,
+        "loses": 5,
+        "ties": 0,
+        "winsPercentage": 0.688,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians 2",
+        "wins": 10,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.625,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Schwaz Tigers",
+        "wins": 9,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.563,
+        "gamesBehind": 2
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls Bandidos",
+        "wins": 6,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.375,
+        "gamesBehind": 5
+      },
+      {
+        "position": 5,
+        "team": "Pirmoser Vikings",
+        "wins": 4,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.25,
+        "gamesBehind": 7
+      }
+    ]
   }
 ]

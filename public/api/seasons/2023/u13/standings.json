@@ -1,38 +1,80 @@
 [
   {
-    "position": 1,
-    "team": "Hard Bulls Bandidas U13",
-    "wins": 10,
-    "loses": 2,
-    "ties": 0,
-    "winsPercentage": 0.833,
-    "gamesBehind": 0
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Feldkirch Cardinals U13",
+        "wins": 13,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.867
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls Bandidas U13",
+        "wins": 10,
+        "loses": 4,
+        "ties": 0,
+        "winsPercentage": 0.714
+      },
+      {
+        "position": 3,
+        "team": "Dornbirn Little Indians U13",
+        "wins": 1,
+        "loses": 13,
+        "ties": 0,
+        "winsPercentage": 0.071
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls U13",
+        "wins": 4,
+        "loses": 9,
+        "ties": 0,
+        "winsPercentage": 0.308
+      }
+    ]
   },
   {
-    "position": 2,
-    "team": "Feldkirch Cardinals U13",
-    "wins": 10,
-    "loses": 2,
-    "ties": 0,
-    "winsPercentage": 0.833,
-    "gamesBehind": 0
-  },
-  {
-    "position": 3,
-    "team": "Hard Bulls U13",
-    "wins": 4,
-    "loses": 8,
-    "ties": 0,
-    "winsPercentage": 0.333,
-    "gamesBehind": 6
-  },
-  {
-    "position": 4,
-    "team": "Dornbirn Little Indians U13",
-    "wins": 0,
-    "loses": 12,
-    "ties": 0,
-    "winsPercentage": 0,
-    "gamesBehind": 10
+    "type": "REGULAR",
+    "results": [
+      {
+        "position": 1,
+        "team": "Hard Bulls Bandidas U13",
+        "wins": 10,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.833,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Feldkirch Cardinals U13",
+        "wins": 10,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.833,
+        "gamesBehind": 0
+      },
+      {
+        "position": 3,
+        "team": "Hard Bulls U13",
+        "wins": 4,
+        "loses": 8,
+        "ties": 0,
+        "winsPercentage": 0.333,
+        "gamesBehind": 6
+      },
+      {
+        "position": 4,
+        "team": "Dornbirn Little Indians U13",
+        "wins": 0,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 10
+      }
+    ]
   }
 ]

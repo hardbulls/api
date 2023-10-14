@@ -1,0 +1,66 @@
+[
+  {
+    "type": "GROUP_A",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Wanderers U16",
+        "wins": 2,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Feldkirch Cardinals U16",
+        "wins": 1,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Diving Ducks U16 Wr. Neustadt",
+        "wins": 0,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 2
+      }
+    ]
+  },
+  {
+    "type": "GROUP_B",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Metrostars U16",
+        "wins": 2,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "SG Indians - Vikings U16",
+        "wins": 1,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Hard Bulls U16",
+        "wins": 0,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 2
+      }
+    ]
+  }
+]

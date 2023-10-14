@@ -107,6 +107,28 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2023/calendars?round=&team=26071&date='
             ]
+        },
+        {
+            year: 2023,
+            name: 'Baseball Österreichische Meisterschaften Pony U14 2023',
+            shortName: 'U14 ÖM',
+            slug: 'u14-oem',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=3190&team=Filtern+nach+Team&date=',
+                'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=2690&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
+            ]
+        },
+        {
+            year: 2023,
+            name: 'Baseball Österreichische Meisterschaften Jugend U16 2023',
+            shortName: 'U16 ÖM',
+            slug: 'u16-oem',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=3192&team=Filtern+nach+Team&date=',
+                'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=2585&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
+            ]
         }
     ]
 }

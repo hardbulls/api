@@ -6,7 +6,7 @@
     "awayScore": 8,
     "homeScore": 4,
     "status": "finished",
-    "date": "2023-04-30T14:00:00.000Z"
+    "date": "2023-04-30T12:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -15,7 +15,7 @@
     "awayScore": 3,
     "homeScore": 14,
     "status": "finished",
-    "date": "2023-04-30T16:30:00.000Z"
+    "date": "2023-04-30T14:30:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -24,7 +24,7 @@
     "awayScore": 4,
     "homeScore": 14,
     "status": "finished",
-    "date": "2023-06-04T13:00:00.000Z"
+    "date": "2023-06-04T11:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -33,7 +33,7 @@
     "awayScore": 1,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-06-04T15:30:00.000Z"
+    "date": "2023-06-04T13:30:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -42,7 +42,7 @@
     "awayScore": 4,
     "homeScore": 6,
     "status": "finished",
-    "date": "2023-06-07T18:30:00.000Z"
+    "date": "2023-06-07T16:30:00.000Z"
   },
   {
     "venue": "Erich Silverio Field, Ebbs",
@@ -51,7 +51,7 @@
     "awayScore": 14,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-06-11T13:00:00.000Z"
+    "date": "2023-06-11T11:00:00.000Z"
   },
   {
     "venue": "Erich Silverio Field, Ebbs",
@@ -60,7 +60,7 @@
     "awayScore": 0,
     "homeScore": 12,
     "status": "finished",
-    "date": "2023-06-11T15:30:00.000Z"
+    "date": "2023-06-11T13:30:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -69,7 +69,7 @@
     "awayScore": 8,
     "homeScore": 4,
     "status": "finished",
-    "date": "2023-06-17T13:00:00.000Z"
+    "date": "2023-06-17T11:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -78,7 +78,7 @@
     "awayScore": 13,
     "homeScore": 11,
     "status": "finished",
-    "date": "2023-06-17T15:30:00.000Z"
+    "date": "2023-06-17T13:30:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -87,7 +87,7 @@
     "awayScore": 3,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-06-27T18:30:00.000Z"
+    "date": "2023-06-27T16:30:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -96,7 +96,7 @@
     "awayScore": 14,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-07-02T13:00:00.000Z"
+    "date": "2023-07-02T11:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -105,7 +105,7 @@
     "awayScore": 6,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-07-02T15:30:00.000Z"
+    "date": "2023-07-02T13:30:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -114,7 +114,7 @@
     "awayScore": 8,
     "homeScore": 18,
     "status": "finished",
-    "date": "2023-07-15T13:00:00.000Z"
+    "date": "2023-07-15T11:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -123,7 +123,7 @@
     "awayScore": 6,
     "homeScore": 7,
     "status": "finished",
-    "date": "2023-07-15T15:30:00.000Z"
+    "date": "2023-07-15T13:30:00.000Z"
   },
   {
     "venue": "Tigersfield, Schwaz",
@@ -132,7 +132,7 @@
     "awayScore": 10,
     "homeScore": 20,
     "status": "finished",
-    "date": "2023-08-13T13:00:00.000Z"
+    "date": "2023-08-13T11:00:00.000Z"
   },
   {
     "venue": "Tigersfield, Schwaz",
@@ -141,6 +141,6 @@
     "awayScore": 7,
     "homeScore": 17,
     "status": "finished",
-    "date": "2023-08-13T15:30:00.000Z"
+    "date": "2023-08-13T13:30:00.000Z"
   }
 ]

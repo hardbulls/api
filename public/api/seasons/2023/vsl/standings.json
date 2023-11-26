@@ -6,19 +6,19 @@
         "position": 1,
         "team": "Dornbirn Bears",
         "wins": 7,
-        "loses": 0,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": 1,
+        "winsPercentage": 0.875,
         "gamesBehind": 0
       },
       {
-        "position": 2,
+        "position": 1,
         "team": "Dornbirn Legends",
-        "wins": 6,
+        "wins": 7,
         "loses": 1,
         "ties": 0,
-        "winsPercentage": 0.857,
-        "gamesBehind": 1
+        "winsPercentage": 0.875,
+        "gamesBehind": 0
       },
       {
         "position": 3,
@@ -27,7 +27,7 @@
         "loses": 5,
         "ties": 0,
         "winsPercentage": 0.375,
-        "gamesBehind": 4.5
+        "gamesBehind": 4
       },
       {
         "position": 4,
@@ -36,7 +36,7 @@
         "loses": 6,
         "ties": 0,
         "winsPercentage": 0.25,
-        "gamesBehind": 5.5
+        "gamesBehind": 5
       },
       {
         "position": 5,
@@ -45,7 +45,7 @@
         "loses": 7,
         "ties": 0,
         "winsPercentage": 0.125,
-        "gamesBehind": 6.5
+        "gamesBehind": 6
       }
     ]
   }

@@ -32,8 +32,8 @@ export const IcalGenerator = {
             const summary = description
 
             calendar.createEvent({
-                start: changeTimezone(game.date, "UTC"),
-                end: changeTimezone(end, "UTC"),
+                start: changeTimezone(game.date, "Europe/Vienna"),
+                end: changeTimezone(end, "Europe/Vienna"),
                 summary,
                 description,
                 location,

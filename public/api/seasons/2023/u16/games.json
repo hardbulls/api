@@ -6,7 +6,7 @@
     "awayScore": 2,
     "homeScore": 12,
     "status": "finished",
-    "date": "2023-04-23T11:00:00.000Z"
+    "date": "2023-04-23T09:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -15,7 +15,7 @@
     "awayScore": 6,
     "homeScore": 4,
     "status": "finished",
-    "date": "2023-04-23T13:00:00.000Z"
+    "date": "2023-04-23T11:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -24,7 +24,7 @@
     "awayScore": 8,
     "homeScore": 1,
     "status": "finished",
-    "date": "2023-05-21T14:00:00.000Z"
+    "date": "2023-05-21T12:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -33,7 +33,7 @@
     "awayScore": 9,
     "homeScore": 10,
     "status": "finished",
-    "date": "2023-05-21T16:00:00.000Z"
+    "date": "2023-05-21T14:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -42,7 +42,7 @@
     "awayScore": 1,
     "homeScore": 11,
     "status": "finished",
-    "date": "2023-06-08T12:00:00.000Z"
+    "date": "2023-06-08T10:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -51,7 +51,7 @@
     "awayScore": 9,
     "homeScore": 12,
     "status": "finished",
-    "date": "2023-06-08T14:00:00.000Z"
+    "date": "2023-06-08T12:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -60,7 +60,7 @@
     "awayScore": 7,
     "homeScore": 4,
     "status": "finished",
-    "date": "2023-07-09T14:00:00.000Z"
+    "date": "2023-07-09T12:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -69,7 +69,7 @@
     "awayScore": 6,
     "homeScore": 7,
     "status": "finished",
-    "date": "2023-07-09T16:00:00.000Z"
+    "date": "2023-07-09T14:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -78,7 +78,7 @@
     "awayScore": 8,
     "homeScore": 6,
     "status": "finished",
-    "date": "2023-09-03T11:00:00.000Z"
+    "date": "2023-09-03T09:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -87,7 +87,7 @@
     "awayScore": 9,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-09-03T13:00:00.000Z"
+    "date": "2023-09-03T11:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -96,7 +96,7 @@
     "awayScore": 7,
     "homeScore": 0,
     "status": "finished",
-    "date": "2023-09-17T10:00:00.000Z"
+    "date": "2023-09-17T08:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -105,7 +105,7 @@
     "awayScore": 15,
     "homeScore": 2,
     "status": "finished",
-    "date": "2023-09-17T12:00:00.000Z"
+    "date": "2023-09-17T10:00:00.000Z"
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -114,6 +114,6 @@
     "awayScore": 12,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-09-30T10:00:00.000Z"
+    "date": "2023-09-30T08:00:00.000Z"
   }
 ]

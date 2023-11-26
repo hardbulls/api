@@ -15,7 +15,7 @@ const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 
 
     for (const league of leagues) {
         const leagueName = `${league.name} ${league.year}`
-        const games = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl)))).flat()
+        const games = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat()
         const standings = await StandingsCrawler.crawl(league.standings)
 
         const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));

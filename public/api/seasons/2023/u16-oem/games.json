@@ -6,7 +6,7 @@
     "awayScore": 3,
     "homeScore": 6,
     "status": "finished",
-    "date": "2023-10-14T11:00:00.000Z"
+    "date": "2023-10-14T09:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -15,7 +15,7 @@
     "awayScore": 7,
     "homeScore": 5,
     "status": "finished",
-    "date": "2023-10-14T11:00:00.000Z"
+    "date": "2023-10-14T09:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -24,7 +24,7 @@
     "awayScore": 6,
     "homeScore": 7,
     "status": "finished",
-    "date": "2023-10-14T13:00:00.000Z"
+    "date": "2023-10-14T11:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -33,7 +33,7 @@
     "awayScore": 0,
     "homeScore": 10,
     "status": "finished",
-    "date": "2023-10-14T13:00:00.000Z"
+    "date": "2023-10-14T11:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -42,7 +42,7 @@
     "awayScore": 14,
     "homeScore": 7,
     "status": "finished",
-    "date": "2023-10-14T15:00:00.000Z"
+    "date": "2023-10-14T13:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -51,51 +51,51 @@
     "awayScore": 16,
     "homeScore": 5,
     "status": "finished",
-    "date": "2023-10-14T15:00:00.000Z"
+    "date": "2023-10-14T13:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
     "home": "Vienna Wanderers U16",
     "away": "SG Indians - Vikings U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2023-10-15T10:00:00.000Z"
+    "awayScore": 1,
+    "homeScore": 4,
+    "status": "finished",
+    "date": "2023-10-15T08:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Vienna Metrostars U16",
     "away": "Feldkirch Cardinals U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2023-10-15T10:00:00.000Z"
+    "awayScore": 1,
+    "homeScore": 19,
+    "status": "finished",
+    "date": "2023-10-15T08:00:00.000Z"
   },
   {
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U16",
     "away": "Diving Ducks U16 Wr. Neustadt",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2023-10-15T12:00:00.000Z"
+    "awayScore": 9,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-10-15T10:00:00.000Z"
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Verlierer Semifinale 1",
-    "away": "Verlierer Semifinale 2",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "home": "SG Indians - Vikings U16",
+    "away": "Feldkirch Cardinals U16",
+    "awayScore": 9,
+    "homeScore": 10,
+    "status": "finished",
+    "date": "2023-10-15T11:30:00.000Z"
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Vienna Wanderers U16",
+    "away": "Vienna Metrostars U16",
+    "awayScore": 10,
+    "homeScore": 1,
+    "status": "finished",
     "date": "2023-10-15T13:30:00.000Z"
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Gewinner Semifinale 1",
-    "away": "Gewinner Semifinale 2",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2023-10-15T15:30:00.000Z"
   }
 ]

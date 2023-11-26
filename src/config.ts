@@ -15,7 +15,8 @@ export interface Config {
 
 export const CONFIG: Config = {
     output: '../public/api/',
-    crawlYears: [2023],
+    // crawlYears: [2023],
+    crawlYears: [],
     timezone: 'Europe/Vienna',
     defaultGameDuration: 120,
     leagues: [

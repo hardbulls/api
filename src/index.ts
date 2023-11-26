@@ -7,15 +7,26 @@ import {IcalGenerator} from "./Calendar/IcalGenerator";
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
 
+interface ApiGame extends Game{
+    league: string,
+    season: number,
+}
+
 (async () => {
     const leagues = CONFIG.leagues.filter(v => CONFIG.crawlYears.includes(v.year))
     const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
-    const upcomingWeekGames: Game[] = [];
+    const upcomingWeekGames: ApiGame[] = [];
     const baseOutputDir = path.join(__dirname, CONFIG.output)
 
     for (const league of leagues) {
         const leagueName = `${league.name} ${league.year}`
-        const games = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat()
+        const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
+            return {
+                ...game,
+                league: league.slug,
+                season: league.year
+            }
+        })
         const standings = await StandingsCrawler.crawl(league.standings)
 
         const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
@@ -28,7 +39,11 @@ const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 
 
         for (const game of games) {
             if (game.date > today && game.date < nextWeek && game.status === GameStatus.SCHEDULED) {
-                upcomingWeekGames.push(game);
+                upcomingWeekGames.push({
+                    ...game,
+                    league: league.slug,
+                    season: league.year
+                });
             }
         }
 

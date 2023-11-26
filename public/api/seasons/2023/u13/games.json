@@ -6,7 +6,9 @@
     "awayScore": 8,
     "homeScore": 9,
     "status": "finished",
-    "date": "2023-04-23T10:00:00.000Z"
+    "date": "2023-04-23T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -15,7 +17,9 @@
     "awayScore": 8,
     "homeScore": 11,
     "status": "finished",
-    "date": "2023-04-23T12:00:00.000Z"
+    "date": "2023-04-23T12:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -24,7 +28,9 @@
     "awayScore": 9,
     "homeScore": 18,
     "status": "finished",
-    "date": "2023-05-07T09:00:00.000Z"
+    "date": "2023-05-07T09:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -33,7 +39,9 @@
     "awayScore": 20,
     "homeScore": 11,
     "status": "finished",
-    "date": "2023-05-07T11:00:00.000Z"
+    "date": "2023-05-07T11:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -42,7 +50,9 @@
     "awayScore": 5,
     "homeScore": 6,
     "status": "finished",
-    "date": "2023-05-21T08:00:00.000Z"
+    "date": "2023-05-21T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -51,7 +61,9 @@
     "awayScore": 15,
     "homeScore": 12,
     "status": "finished",
-    "date": "2023-05-21T10:00:00.000Z"
+    "date": "2023-05-21T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -60,7 +72,9 @@
     "awayScore": 16,
     "homeScore": 10,
     "status": "finished",
-    "date": "2023-06-11T08:00:00.000Z"
+    "date": "2023-06-11T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -69,7 +83,9 @@
     "awayScore": 14,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-06-11T10:00:00.000Z"
+    "date": "2023-06-11T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -78,7 +94,9 @@
     "awayScore": 15,
     "homeScore": 3,
     "status": "finished",
-    "date": "2023-06-24T08:00:00.000Z"
+    "date": "2023-06-24T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -87,7 +105,9 @@
     "awayScore": 25,
     "homeScore": 21,
     "status": "finished",
-    "date": "2023-06-24T10:00:00.000Z"
+    "date": "2023-06-24T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -96,7 +116,9 @@
     "awayScore": 8,
     "homeScore": 18,
     "status": "finished",
-    "date": "2023-09-17T09:00:00.000Z"
+    "date": "2023-09-17T09:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -105,7 +127,9 @@
     "awayScore": 12,
     "homeScore": 13,
     "status": "finished",
-    "date": "2023-09-17T11:00:00.000Z"
+    "date": "2023-09-17T11:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -114,7 +138,9 @@
     "awayScore": 25,
     "homeScore": 24,
     "status": "finished",
-    "date": "2023-09-30T12:00:00.000Z"
+    "date": "2023-09-30T12:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -123,7 +149,9 @@
     "awayScore": 20,
     "homeScore": 13,
     "status": "finished",
-    "date": "2023-10-01T08:00:00.000Z"
+    "date": "2023-10-01T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -132,7 +160,9 @@
     "awayScore": 8,
     "homeScore": 9,
     "status": "finished",
-    "date": "2023-04-23T10:00:00.000Z"
+    "date": "2023-04-23T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -141,7 +171,9 @@
     "awayScore": 8,
     "homeScore": 11,
     "status": "finished",
-    "date": "2023-04-23T12:00:00.000Z"
+    "date": "2023-04-23T12:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -150,7 +182,9 @@
     "awayScore": 8,
     "homeScore": 9,
     "status": "finished",
-    "date": "2023-05-06T08:30:00.000Z"
+    "date": "2023-05-06T08:30:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -159,7 +193,9 @@
     "awayScore": 0,
     "homeScore": 6,
     "status": "finished",
-    "date": "2023-05-20T08:30:00.000Z"
+    "date": "2023-05-20T08:30:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -168,7 +204,9 @@
     "awayScore": 16,
     "homeScore": 10,
     "status": "finished",
-    "date": "2023-06-11T08:00:00.000Z"
+    "date": "2023-06-11T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -177,7 +215,9 @@
     "awayScore": 14,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-06-11T10:00:00.000Z"
+    "date": "2023-06-11T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -186,7 +226,9 @@
     "awayScore": 15,
     "homeScore": 9,
     "status": "finished",
-    "date": "2023-06-25T08:00:00.000Z"
+    "date": "2023-06-25T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -195,7 +237,9 @@
     "awayScore": 20,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-06-25T10:00:00.000Z"
+    "date": "2023-06-25T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -204,7 +248,9 @@
     "awayScore": 15,
     "homeScore": 0,
     "status": "finished",
-    "date": "2023-07-09T08:00:00.000Z"
+    "date": "2023-07-09T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
@@ -213,7 +259,9 @@
     "awayScore": 15,
     "homeScore": 8,
     "status": "finished",
-    "date": "2023-07-09T10:00:00.000Z"
+    "date": "2023-07-09T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -222,7 +270,9 @@
     "awayScore": 6,
     "homeScore": 16,
     "status": "finished",
-    "date": "2023-09-17T08:00:00.000Z"
+    "date": "2023-09-17T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark Feldkirch, Feldkirch",
@@ -231,7 +281,9 @@
     "awayScore": 2,
     "homeScore": 12,
     "status": "finished",
-    "date": "2023-09-17T10:00:00.000Z"
+    "date": "2023-09-17T10:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -240,6 +292,8 @@
     "awayScore": 13,
     "homeScore": 10,
     "status": "finished",
-    "date": "2023-09-30T08:00:00.000Z"
+    "date": "2023-09-30T08:00:00.000Z",
+    "league": "u13",
+    "season": 2023
   }
 ]

@@ -1,0 +1,311 @@
+[
+  {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Wanderers",
+        "wins": 35,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.854
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians",
+        "wins": 28,
+        "loses": 11,
+        "ties": 0,
+        "winsPercentage": 0.718
+      },
+      {
+        "position": 3,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 20,
+        "loses": 14,
+        "ties": 0,
+        "winsPercentage": 0.588
+      },
+      {
+        "position": 4,
+        "team": "Vienna Metrostars",
+        "wins": 16,
+        "loses": 22,
+        "ties": 0,
+        "winsPercentage": 0.421
+      },
+      {
+        "position": 5,
+        "team": "ASAK Athletics",
+        "wins": 18,
+        "loses": 15,
+        "ties": 0,
+        "winsPercentage": 0.545
+      },
+      {
+        "position": 6,
+        "team": "Hard Bulls",
+        "wins": 13,
+        "loses": 18,
+        "ties": 0,
+        "winsPercentage": 0.419
+      },
+      {
+        "position": 7,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 12,
+        "loses": 19,
+        "ties": 0,
+        "winsPercentage": 0.387
+      },
+      {
+        "position": 8,
+        "team": "Schwechat Blue Bats",
+        "wins": 9,
+        "loses": 22,
+        "ties": 0,
+        "winsPercentage": 0.29
+      },
+      {
+        "position": 9,
+        "team": "Feldkirch Cardinals",
+        "wins": 2,
+        "loses": 26,
+        "ties": 0,
+        "winsPercentage": 0.071
+      }
+    ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Wanderers",
+        "wins": 26,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.929,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 17,
+        "loses": 11,
+        "ties": 0,
+        "winsPercentage": 0.607,
+        "gamesBehind": 9
+      },
+      {
+        "position": 3,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 12,
+        "loses": 16,
+        "ties": 0,
+        "winsPercentage": 0.429,
+        "gamesBehind": 14
+      },
+      {
+        "position": 4,
+        "team": "Vienna Metrostars",
+        "wins": 11,
+        "loses": 17,
+        "ties": 0,
+        "winsPercentage": 0.393,
+        "gamesBehind": 15
+      },
+      {
+        "position": 5,
+        "team": "Schwechat Blue Bats",
+        "wins": 9,
+        "loses": 19,
+        "ties": 0,
+        "winsPercentage": 0.321,
+        "gamesBehind": 17
+      }
+    ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": 1,
+        "team": "Dornbirn Indians",
+        "wins": 20,
+        "loses": 8,
+        "ties": 0,
+        "winsPercentage": 0.714,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "ASAK Athletics",
+        "wins": 16,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.571,
+        "gamesBehind": 4
+      },
+      {
+        "position": 3,
+        "team": "Hard Bulls",
+        "wins": 13,
+        "loses": 15,
+        "ties": 0,
+        "winsPercentage": 0.464,
+        "gamesBehind": 7
+      },
+      {
+        "position": 4,
+        "team": "Feldkirch Cardinals",
+        "wins": 2,
+        "loses": 26,
+        "ties": 0,
+        "winsPercentage": 0.071,
+        "gamesBehind": 18
+      }
+    ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": 1,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 3,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Dornbirn Indians",
+        "wins": 3,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Vienna Wanderers",
+        "wins": 3,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 4,
+        "team": "Vienna Metrostars",
+        "wins": 3,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.6,
+        "gamesBehind": 1
+      },
+      {
+        "position": 5,
+        "team": "ASAK Athletics",
+        "wins": 2,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.4,
+        "gamesBehind": 2
+      },
+      {
+        "position": 6,
+        "team": "Schwechat Blue Bats",
+        "wins": 0,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 3
+      },
+      {
+        "position": 6,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 0,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 3
+      },
+      {
+        "position": 6,
+        "team": "Hard Bulls",
+        "wins": 0,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 3
+      }
+    ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": 1,
+        "team": "Dornbirn Indians",
+        "wins": 3,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Vienna Wanderers",
+        "wins": 3,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.6,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Vienna Metrostars",
+        "wins": 2,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.4,
+        "gamesBehind": 2
+      },
+      {
+        "position": 4,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 0,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 3
+      }
+    ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Wanderers",
+        "wins": 3,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.6,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians",
+        "wins": 2,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.4,
+        "gamesBehind": 1
+      }
+    ]
+  }
+]

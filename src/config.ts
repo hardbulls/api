@@ -45,6 +45,14 @@ export const CONFIG: Config = {
             games: ['https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/calendars?round=&team=20357&date=']
         },
         {
+            year: 2021,
+            name: 'Baseball Bundesliga',
+            shortName: 'BBL',
+            slug: 'bbl',
+            standings: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/standings',
+            games: ['https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/calendars?round=&team=2572&date=']
+        },
+        {
             year: 2023,
             name: 'Baseball 2. Bundesliga West',
             shortName: '2. BLW',

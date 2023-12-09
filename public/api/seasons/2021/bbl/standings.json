@@ -75,5 +75,96 @@
         "winsPercentage": 0.111
       }
     ]
+  },
+  {
+    "type": "DIVISION_EAST",
+    "results": [
+      {
+        "position": 1,
+        "team": "Wr. Neustadt Diving Ducks",
+        "wins": 21,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.75,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Vienna Metrostars",
+        "wins": 21,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.75,
+        "gamesBehind": 0
+      },
+      {
+        "position": 3,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 19,
+        "loses": 9,
+        "ties": 0,
+        "winsPercentage": 0.679,
+        "gamesBehind": 2
+      },
+      {
+        "position": 4,
+        "team": "Vienna Wanderers",
+        "wins": 17,
+        "loses": 11,
+        "ties": 0,
+        "winsPercentage": 0.607,
+        "gamesBehind": 4
+      },
+      {
+        "position": 5,
+        "team": "Blue Bats Schwechat",
+        "wins": 3,
+        "loses": 24,
+        "ties": 0,
+        "winsPercentage": 0.111,
+        "gamesBehind": 17.5
+      }
+    ]
+  },
+  {
+    "type": "DIVISION_WEST",
+    "results": [
+      {
+        "position": 1,
+        "team": "Dornbirn Indians",
+        "wins": 19,
+        "loses": 9,
+        "ties": 0,
+        "winsPercentage": 0.679,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls",
+        "wins": 6,
+        "loses": 22,
+        "ties": 0,
+        "winsPercentage": 0.214,
+        "gamesBehind": 13
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Cardinals",
+        "wins": 4,
+        "loses": 24,
+        "ties": 0,
+        "winsPercentage": 0.143,
+        "gamesBehind": 15
+      },
+      {
+        "position": 4,
+        "team": "ASAK Athletics",
+        "wins": 15,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.556,
+        "gamesBehind": 3.5
+      }
+    ]
   }
 ]

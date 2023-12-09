@@ -1,8 +1,9 @@
 import {Game, GameCrawler, GameStatus, StandingsCrawler, StatisticsCrawler} from "@hardbulls/wbsc-crawler";
-import {CONFIG} from "./config";
+import {CONFIG, FixNamesConfig} from "./config";
 import * as fs from 'fs/promises'
 import * as path from "path";
 import {IcalGenerator} from "./Calendar/IcalGenerator";
+import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatistics";
 
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
@@ -10,6 +11,21 @@ const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 
 interface ApiGame extends Game {
     league: string,
     season: number,
+}
+
+const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]): PlayerStatistics[] => {
+    return statistics.map(playerStatistics => {
+        for (const {name, corrections} of fixNames) {
+            if (corrections.includes(playerStatistics.name)) {
+                return {
+                    ...playerStatistics,
+                    name: name
+                }
+            }
+        }
+
+        return playerStatistics;
+    })
 }
 
 (async () => {
@@ -51,7 +67,11 @@ interface ApiGame extends Game {
             }
 
             if (league.statistics) {
-                const statistics = await StatisticsCrawler.crawl(league.statistics)
+                let statistics = await StatisticsCrawler.crawl(league.statistics)
+
+                if (CONFIG.fixNames) {
+                    statistics = correctNames(statistics, CONFIG.fixNames)
+                }
 
                 await fs.writeFile(statisticsFile, JSON.stringify(statistics, null, 2));
             }
@@ -71,7 +91,6 @@ interface ApiGame extends Game {
 
         for (const season of seasonsDirectory) {
             const previousSeasons: string[] = seasonsDirectory.map(v => v).sort().reverse().slice(0, CONFIG.aggregateYears);
-            console.log(previousSeasons)
 
             try {
                 const statistics = JSON.parse(await fs.readFile(path.resolve(baseOutputDir, 'seasons', season, leagueSlug, 'statistics.json'), {encoding: "utf8"}));

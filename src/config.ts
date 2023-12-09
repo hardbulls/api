@@ -1,3 +1,5 @@
+import exp from "node:constants";
+
 export interface Config {
     output: string;
     aggregateYears: number;
@@ -15,8 +17,14 @@ export interface Config {
             fielding?: string;
         }
     }>,
+    fixNames?: Array<FixNamesConfig>,
     timezone: string;
     crawlYears: number[]
+}
+
+export type FixNamesConfig = {
+    name: string,
+    corrections: string[]
 }
 
 export const CONFIG: Config = {
@@ -26,6 +34,32 @@ export const CONFIG: Config = {
     aggregateYears: 2,
     timezone: 'Europe/Vienna',
     defaultGameDuration: 120,
+    fixNames: [
+        {
+            name: "Luca Mäser",
+            corrections: ["Luca Eliah Mäser"]
+        },
+        {
+            name: "Clayton Carson",
+            corrections: ["Clayton Reese Carson"]
+        },
+        {
+            name: "Erwin Frias",
+            corrections: ["Erwin Eduardo Vals Frias"]
+        },
+        {
+            name: "Marvin Glassen",
+            corrections: ["Marvin-Sebastian Glassen"]
+        },
+        {
+            name: "Jonas Zimmermann",
+            corrections: ["Jonas Michael Zimmermann"]
+        },
+        {
+            name: "Richard Kranabetter",
+            corrections: ["Jonas Michael Zimmermann"]
+        }
+    ],
     leagues: [
         {
             year: 2023,

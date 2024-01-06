@@ -30,7 +30,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -86,7 +86,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -142,7 +142,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -198,7 +198,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -227,7 +227,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -283,7 +283,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -339,7 +339,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -368,7 +368,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -397,7 +397,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -426,7 +426,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -482,7 +482,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -511,7 +511,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -567,7 +567,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -623,7 +623,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -652,7 +652,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -681,7 +681,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -710,7 +710,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -739,7 +739,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -795,7 +795,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -851,7 +851,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -907,7 +907,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -963,7 +963,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -992,7 +992,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -1048,7 +1048,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -1104,7 +1104,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -1133,7 +1133,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -1162,7 +1162,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -1191,7 +1191,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -1247,7 +1247,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -1276,7 +1276,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -1332,7 +1332,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -1388,7 +1388,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -1417,7 +1417,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -1446,7 +1446,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -1475,7 +1475,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -1504,7 +1504,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -1560,7 +1560,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -1616,7 +1616,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -1672,7 +1672,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -1728,7 +1728,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -1757,7 +1757,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -1813,7 +1813,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -1869,7 +1869,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -1898,7 +1898,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -1927,7 +1927,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -1956,7 +1956,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -2012,7 +2012,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -2041,7 +2041,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -2097,7 +2097,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -2153,7 +2153,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -2182,7 +2182,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -2211,7 +2211,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -2240,7 +2240,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -2269,7 +2269,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -2325,7 +2325,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -2381,7 +2381,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -2437,7 +2437,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -2493,7 +2493,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -2522,7 +2522,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -2578,7 +2578,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -2634,7 +2634,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -2663,7 +2663,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -2692,7 +2692,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -2721,7 +2721,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -2777,7 +2777,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -2806,7 +2806,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -2862,7 +2862,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -2918,7 +2918,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -2947,7 +2947,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -2976,7 +2976,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -3005,7 +3005,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -3034,7 +3034,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -3090,7 +3090,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -3146,7 +3146,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -3202,7 +3202,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -3258,7 +3258,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -3287,7 +3287,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -3343,7 +3343,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -3399,7 +3399,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -3428,7 +3428,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -3457,7 +3457,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -3486,7 +3486,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -3542,7 +3542,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -3571,7 +3571,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -3627,7 +3627,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -3683,7 +3683,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -3712,7 +3712,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -3741,7 +3741,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -3770,7 +3770,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -3799,7 +3799,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -3855,7 +3855,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -3911,7 +3911,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -3967,7 +3967,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -4023,7 +4023,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -4052,7 +4052,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -4108,7 +4108,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -4164,7 +4164,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -4193,7 +4193,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -4222,7 +4222,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -4251,7 +4251,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -4307,7 +4307,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -4336,7 +4336,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -4392,7 +4392,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -4448,7 +4448,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -4477,7 +4477,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -4506,7 +4506,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -4535,7 +4535,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -4564,7 +4564,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -4620,7 +4620,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -4676,7 +4676,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -4732,7 +4732,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -4788,7 +4788,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -4817,7 +4817,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -4873,7 +4873,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -4929,7 +4929,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -4958,7 +4958,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -4987,7 +4987,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -5016,7 +5016,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -5072,7 +5072,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -5101,7 +5101,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -5157,7 +5157,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -5213,7 +5213,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -5242,7 +5242,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -5271,7 +5271,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -5300,7 +5300,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -5329,7 +5329,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -5385,7 +5385,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -5441,7 +5441,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -5497,7 +5497,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -5553,7 +5553,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -5582,7 +5582,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -5638,7 +5638,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -5694,7 +5694,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -5723,7 +5723,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -5752,7 +5752,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -5781,7 +5781,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -5837,7 +5837,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -5866,7 +5866,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -5922,7 +5922,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -5978,7 +5978,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -6007,7 +6007,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -6036,7 +6036,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -6065,7 +6065,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -6094,7 +6094,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -6150,7 +6150,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -6206,7 +6206,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -6262,7 +6262,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -6318,7 +6318,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -6347,7 +6347,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -6403,7 +6403,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -6459,7 +6459,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -6488,7 +6488,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -6517,7 +6517,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -6546,7 +6546,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -6602,7 +6602,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -6631,7 +6631,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -6687,7 +6687,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -6743,7 +6743,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -6772,7 +6772,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -6801,7 +6801,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -6830,7 +6830,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -6859,7 +6859,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -6915,7 +6915,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -6971,7 +6971,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -7027,7 +7027,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -7083,7 +7083,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -7112,7 +7112,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -7168,7 +7168,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -7224,7 +7224,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -7253,7 +7253,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -7282,7 +7282,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -7311,7 +7311,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -7367,7 +7367,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -7396,7 +7396,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -7452,7 +7452,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -7508,7 +7508,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -7537,7 +7537,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -7566,7 +7566,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -7595,7 +7595,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -7624,7 +7624,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -7680,7 +7680,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -7736,7 +7736,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -7792,7 +7792,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -7848,7 +7848,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -7877,7 +7877,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -7933,7 +7933,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -7989,7 +7989,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -8018,7 +8018,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -8047,7 +8047,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -8076,7 +8076,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -8132,7 +8132,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -8161,7 +8161,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -8217,7 +8217,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -8273,7 +8273,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -8302,7 +8302,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -8331,7 +8331,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -8360,7 +8360,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -8389,7 +8389,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -8445,7 +8445,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -8501,7 +8501,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -8557,7 +8557,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -8613,7 +8613,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -8642,7 +8642,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -8698,7 +8698,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -8754,7 +8754,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -8783,7 +8783,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -8812,7 +8812,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -8841,7 +8841,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -8897,7 +8897,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -8926,7 +8926,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -8982,7 +8982,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -9038,7 +9038,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -9067,7 +9067,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -9096,7 +9096,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -9125,7 +9125,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -9154,7 +9154,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -9210,7 +9210,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -9266,7 +9266,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -9322,7 +9322,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -9378,7 +9378,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -9407,7 +9407,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -9463,7 +9463,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -9519,7 +9519,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -9548,7 +9548,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -9577,7 +9577,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -9606,7 +9606,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -9662,7 +9662,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -9691,7 +9691,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -9747,7 +9747,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -9803,7 +9803,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -9832,7 +9832,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -9861,7 +9861,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -9890,7 +9890,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -9919,7 +9919,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -9975,7 +9975,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -10031,7 +10031,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -10087,7 +10087,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -10143,7 +10143,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -10172,7 +10172,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -10228,7 +10228,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -10284,7 +10284,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -10313,7 +10313,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -10342,7 +10342,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -10371,7 +10371,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -10427,7 +10427,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -10456,7 +10456,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -10512,7 +10512,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -10568,7 +10568,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -10597,7 +10597,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -10626,7 +10626,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -10655,7 +10655,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -10684,7 +10684,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -10740,7 +10740,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -10796,7 +10796,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -10852,7 +10852,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -10908,7 +10908,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -10937,7 +10937,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -10993,7 +10993,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -11049,7 +11049,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -11078,7 +11078,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -11107,7 +11107,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -11136,7 +11136,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -11192,7 +11192,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -11221,7 +11221,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -11277,7 +11277,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -11333,7 +11333,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -11362,7 +11362,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -11391,7 +11391,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -11420,7 +11420,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -11449,7 +11449,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -11505,7 +11505,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -11561,7 +11561,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -11617,7 +11617,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -11673,7 +11673,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -11702,7 +11702,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -11758,7 +11758,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -11814,7 +11814,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -11843,7 +11843,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -11872,7 +11872,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -11901,7 +11901,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -11957,7 +11957,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -11986,7 +11986,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -12042,7 +12042,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -12098,7 +12098,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -12127,7 +12127,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -12156,7 +12156,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -12185,7 +12185,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -12214,7 +12214,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -12270,7 +12270,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -12326,7 +12326,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -12382,7 +12382,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -12438,7 +12438,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -12467,7 +12467,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -12523,7 +12523,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -12579,7 +12579,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -12608,7 +12608,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -12637,7 +12637,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -12666,7 +12666,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -12722,7 +12722,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -12751,7 +12751,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -12807,7 +12807,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -12863,7 +12863,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -12892,7 +12892,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -12921,7 +12921,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -12950,7 +12950,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -12979,7 +12979,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -13035,7 +13035,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -13091,7 +13091,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -13147,7 +13147,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -13203,7 +13203,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -13232,7 +13232,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -13288,7 +13288,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -13344,7 +13344,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -13373,7 +13373,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -13402,7 +13402,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -13431,7 +13431,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -13487,7 +13487,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -13516,7 +13516,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -13572,7 +13572,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -13628,7 +13628,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -13657,7 +13657,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -13686,7 +13686,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -13715,7 +13715,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -13744,7 +13744,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -13800,7 +13800,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -13856,7 +13856,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -13912,7 +13912,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -13968,7 +13968,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -13997,7 +13997,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -14053,7 +14053,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -14109,7 +14109,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -14138,7 +14138,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -14167,7 +14167,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -14196,7 +14196,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -14252,7 +14252,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -14281,7 +14281,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -14337,7 +14337,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -14393,7 +14393,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -14422,7 +14422,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -14451,7 +14451,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -14480,7 +14480,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -14509,7 +14509,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -14565,7 +14565,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -14621,7 +14621,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -14677,7 +14677,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -14733,7 +14733,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -14762,7 +14762,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -14818,7 +14818,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -14874,7 +14874,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -14903,7 +14903,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -14932,7 +14932,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -14961,7 +14961,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -15017,7 +15017,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -15046,7 +15046,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -15102,7 +15102,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -15158,7 +15158,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -15187,7 +15187,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -15216,7 +15216,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -15245,7 +15245,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -15274,7 +15274,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -15330,7 +15330,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -15386,7 +15386,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -15442,7 +15442,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -15498,7 +15498,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -15527,7 +15527,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -15583,7 +15583,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -15639,7 +15639,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -15668,7 +15668,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -15697,7 +15697,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -15726,7 +15726,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -15782,7 +15782,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -15811,7 +15811,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -15867,7 +15867,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -15923,7 +15923,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -15952,7 +15952,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -15981,7 +15981,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -16010,7 +16010,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -16039,7 +16039,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -16095,7 +16095,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -16151,7 +16151,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -16207,7 +16207,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -16263,7 +16263,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -16292,7 +16292,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -16348,7 +16348,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -16404,7 +16404,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -16433,7 +16433,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -16462,7 +16462,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -16491,7 +16491,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -16547,7 +16547,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -16576,7 +16576,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -16632,7 +16632,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -16688,7 +16688,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -16717,7 +16717,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -16746,7 +16746,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -16775,7 +16775,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -16804,7 +16804,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -16860,7 +16860,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -16916,7 +16916,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -16972,7 +16972,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -17028,7 +17028,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -17057,7 +17057,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -17113,7 +17113,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -17169,7 +17169,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -17198,7 +17198,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -17227,7 +17227,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -17256,7 +17256,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -17312,7 +17312,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -17341,7 +17341,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -17397,7 +17397,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -17453,7 +17453,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -17482,7 +17482,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -17511,7 +17511,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -17540,7 +17540,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -17569,7 +17569,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -17625,7 +17625,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -17681,7 +17681,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -17737,7 +17737,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -17793,7 +17793,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -17822,7 +17822,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -17878,7 +17878,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -17934,7 +17934,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -17963,7 +17963,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -17992,7 +17992,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -18021,7 +18021,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -18077,7 +18077,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -18106,7 +18106,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -18162,7 +18162,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -18218,7 +18218,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -18247,7 +18247,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -18276,7 +18276,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -18305,7 +18305,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -18334,7 +18334,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -18390,7 +18390,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -18446,7 +18446,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -18502,7 +18502,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -18558,7 +18558,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -18587,7 +18587,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -18643,7 +18643,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -18699,7 +18699,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -18728,7 +18728,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -18757,7 +18757,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -18786,7 +18786,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -18842,7 +18842,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -18871,7 +18871,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -18927,7 +18927,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -18983,7 +18983,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -19012,7 +19012,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -19041,7 +19041,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -19070,7 +19070,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -19099,7 +19099,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -19155,7 +19155,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -19211,7 +19211,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -19267,7 +19267,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -19323,7 +19323,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -19352,7 +19352,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -19408,7 +19408,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -19464,7 +19464,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -19493,7 +19493,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -19522,7 +19522,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -19551,7 +19551,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -19607,7 +19607,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -19636,7 +19636,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -19692,7 +19692,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -19748,7 +19748,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -19777,7 +19777,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -19806,7 +19806,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -19835,7 +19835,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -19864,7 +19864,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -19920,7 +19920,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -19976,7 +19976,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -20032,7 +20032,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -20088,7 +20088,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -20117,7 +20117,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -20173,7 +20173,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -20229,7 +20229,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -20258,7 +20258,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -20287,7 +20287,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -20316,7 +20316,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -20372,7 +20372,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -20401,7 +20401,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -20457,7 +20457,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -20513,7 +20513,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -20542,7 +20542,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -20571,7 +20571,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -20600,7 +20600,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -20629,7 +20629,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -20685,7 +20685,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -20741,7 +20741,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -20797,7 +20797,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -20853,7 +20853,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -20882,7 +20882,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -20938,7 +20938,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -20994,7 +20994,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -21023,7 +21023,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -21052,7 +21052,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -21081,7 +21081,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -21137,7 +21137,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -21166,7 +21166,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -21222,7 +21222,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -21278,7 +21278,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -21307,7 +21307,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -21336,7 +21336,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -21365,7 +21365,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -21394,7 +21394,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -21450,7 +21450,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -21506,7 +21506,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -21562,7 +21562,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -21618,7 +21618,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -21647,7 +21647,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -21703,7 +21703,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -21759,7 +21759,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -21788,7 +21788,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -21817,7 +21817,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -21846,7 +21846,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -21902,7 +21902,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -21931,7 +21931,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -21987,7 +21987,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -22043,7 +22043,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -22072,7 +22072,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -22101,7 +22101,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -22130,7 +22130,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -22159,7 +22159,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -22215,7 +22215,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -22271,7 +22271,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -22327,7 +22327,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -22383,7 +22383,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -22412,7 +22412,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -22468,7 +22468,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -22524,7 +22524,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -22553,7 +22553,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -22582,7 +22582,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -22611,7 +22611,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -22667,7 +22667,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -22696,7 +22696,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -22752,7 +22752,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -22808,7 +22808,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -22837,7 +22837,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -22866,7 +22866,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -22895,7 +22895,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -22924,7 +22924,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -22980,7 +22980,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -23036,7 +23036,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -23092,7 +23092,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -23148,7 +23148,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -23177,7 +23177,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -23233,7 +23233,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -23289,7 +23289,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -23318,7 +23318,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -23347,7 +23347,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -23376,7 +23376,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -23432,7 +23432,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -23461,7 +23461,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -23517,7 +23517,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -23573,7 +23573,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -23602,7 +23602,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -23631,7 +23631,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -23660,7 +23660,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -23689,7 +23689,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -23745,7 +23745,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -23801,7 +23801,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -23857,7 +23857,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -23913,7 +23913,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -23942,7 +23942,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -23998,7 +23998,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -24054,7 +24054,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -24083,7 +24083,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -24112,7 +24112,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -24141,7 +24141,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -24197,7 +24197,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -24226,7 +24226,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -24282,7 +24282,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -24338,7 +24338,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -24367,7 +24367,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -24396,7 +24396,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -24425,7 +24425,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -24454,7 +24454,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -24510,7 +24510,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -24566,7 +24566,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -24622,7 +24622,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -24678,7 +24678,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -24707,7 +24707,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -24763,7 +24763,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -24819,7 +24819,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -24848,7 +24848,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -24877,7 +24877,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -24906,7 +24906,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -24962,7 +24962,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -24991,7 +24991,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -25047,7 +25047,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -25103,7 +25103,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -25132,7 +25132,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -25161,7 +25161,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -25190,7 +25190,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -25219,7 +25219,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -25275,7 +25275,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -25331,7 +25331,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -25387,7 +25387,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -25443,7 +25443,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -25472,7 +25472,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -25528,7 +25528,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -25584,7 +25584,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -25613,7 +25613,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -25642,7 +25642,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -25671,7 +25671,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -25727,7 +25727,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -25756,7 +25756,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -25812,7 +25812,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -25868,7 +25868,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -25897,7 +25897,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -25926,7 +25926,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -25955,7 +25955,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -25984,7 +25984,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -26040,7 +26040,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -26096,7 +26096,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -26152,7 +26152,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -26208,7 +26208,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -26237,7 +26237,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -26293,7 +26293,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -26349,7 +26349,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -26378,7 +26378,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -26407,7 +26407,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -26436,7 +26436,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -26492,7 +26492,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -26521,7 +26521,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -26577,7 +26577,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -26633,7 +26633,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -26662,7 +26662,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -26691,7 +26691,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -26720,7 +26720,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -26749,7 +26749,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -26805,7 +26805,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -26861,7 +26861,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -26917,7 +26917,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -26973,7 +26973,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -27002,7 +27002,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -27058,7 +27058,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -27114,7 +27114,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -27143,7 +27143,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -27172,7 +27172,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -27201,7 +27201,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -27257,7 +27257,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -27286,7 +27286,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -27342,7 +27342,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -27398,7 +27398,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -27427,7 +27427,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -27456,7 +27456,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -27485,7 +27485,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -27514,7 +27514,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -27570,7 +27570,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -27626,7 +27626,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -27682,7 +27682,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -27738,7 +27738,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -27767,7 +27767,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -27823,7 +27823,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -27879,7 +27879,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -27908,7 +27908,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -27937,7 +27937,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -27966,7 +27966,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -28022,7 +28022,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -28051,7 +28051,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -28107,7 +28107,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -28163,7 +28163,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -28192,7 +28192,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -28221,7 +28221,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -28250,7 +28250,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -28279,7 +28279,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -28335,7 +28335,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -28391,7 +28391,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -28447,7 +28447,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -28503,7 +28503,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -28532,7 +28532,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -28588,7 +28588,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -28644,7 +28644,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -28673,7 +28673,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -28702,7 +28702,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -28731,7 +28731,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -28787,7 +28787,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -28816,7 +28816,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -28872,7 +28872,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -28928,7 +28928,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -28957,7 +28957,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -28986,7 +28986,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -29015,7 +29015,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -29044,7 +29044,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -29100,7 +29100,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -29156,7 +29156,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -29212,7 +29212,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -29268,7 +29268,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -29297,7 +29297,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -29353,7 +29353,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -29409,7 +29409,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -29438,7 +29438,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -29467,7 +29467,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -29496,7 +29496,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -29552,7 +29552,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -29581,7 +29581,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -29637,7 +29637,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -29693,7 +29693,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -29722,7 +29722,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -29751,7 +29751,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -29780,7 +29780,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -29809,7 +29809,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -29865,7 +29865,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -29921,7 +29921,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -29977,7 +29977,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -30033,7 +30033,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -30062,7 +30062,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -30118,7 +30118,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -30174,7 +30174,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -30203,7 +30203,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -30232,7 +30232,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -30261,7 +30261,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -30317,7 +30317,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -30346,7 +30346,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -30402,7 +30402,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -30458,7 +30458,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -30487,7 +30487,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -30516,7 +30516,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -30545,7 +30545,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -30574,7 +30574,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -30630,7 +30630,7 @@
         "bavg": 0.296
       },
       "batting": {
-        "ba": 0.243,
+        "avg": 0.243,
         "g": 22,
         "pa": 86,
         "ab": 70,
@@ -30686,7 +30686,7 @@
         "bavg": 0.252
       },
       "batting": {
-        "ba": 0.415,
+        "avg": 0.415,
         "g": 22,
         "pa": 96,
         "ab": 82,
@@ -30742,7 +30742,7 @@
         "bavg": 0.267
       },
       "batting": {
-        "ba": 0.212,
+        "avg": 0.212,
         "g": 20,
         "pa": 80,
         "ab": 66,
@@ -30798,7 +30798,7 @@
         "bavg": 0.488
       },
       "batting": {
-        "ba": 0.292,
+        "avg": 0.292,
         "g": 20,
         "pa": 85,
         "ab": 72,
@@ -30827,7 +30827,7 @@
     "name": "Luca Mäser",
     "statistics": {
       "batting": {
-        "ba": 0.184,
+        "avg": 0.184,
         "g": 14,
         "pa": 44,
         "ab": 38,
@@ -30883,7 +30883,7 @@
         "bavg": 0.431
       },
       "batting": {
-        "ba": 0.132,
+        "avg": 0.132,
         "g": 21,
         "pa": 54,
         "ab": 38,
@@ -30939,7 +30939,7 @@
         "bavg": 0.1
       },
       "batting": {
-        "ba": 0.153,
+        "avg": 0.153,
         "g": 22,
         "pa": 81,
         "ab": 72,
@@ -30968,7 +30968,7 @@
     "name": "Max Harrer",
     "statistics": {
       "batting": {
-        "ba": 0.143,
+        "avg": 0.143,
         "g": 8,
         "pa": 15,
         "ab": 14,
@@ -30997,7 +30997,7 @@
     "name": "Arjan Frans",
     "statistics": {
       "batting": {
-        "ba": 0.182,
+        "avg": 0.182,
         "g": 19,
         "pa": 49,
         "ab": 44,
@@ -31026,7 +31026,7 @@
     "name": "Patrick Küng",
     "statistics": {
       "batting": {
-        "ba": 0.2,
+        "avg": 0.2,
         "g": 5,
         "pa": 12,
         "ab": 10,
@@ -31082,7 +31082,7 @@
         "bavg": 0.538
       },
       "batting": {
-        "ba": 0.345,
+        "avg": 0.345,
         "g": 17,
         "pa": 70,
         "ab": 58,
@@ -31111,7 +31111,7 @@
     "name": "Raphael Leo",
     "statistics": {
       "batting": {
-        "ba": 0.15,
+        "avg": 0.15,
         "g": 11,
         "pa": 21,
         "ab": 20,
@@ -31167,7 +31167,7 @@
         "bavg": 0.292
       },
       "batting": {
-        "ba": 0.222,
+        "avg": 0.222,
         "g": 21,
         "pa": 63,
         "ab": 54,
@@ -31223,7 +31223,7 @@
         "bavg": 0.4
       },
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,
@@ -31252,7 +31252,7 @@
     "name": "Leon Nöbl",
     "statistics": {
       "batting": {
-        "ba": 0.048,
+        "avg": 0.048,
         "g": 12,
         "pa": 22,
         "ab": 21,
@@ -31281,7 +31281,7 @@
     "name": "Matthias Lutter",
     "statistics": {
       "batting": {
-        "ba": 0.063,
+        "avg": 0.063,
         "g": 8,
         "pa": 17,
         "ab": 16,
@@ -31310,7 +31310,7 @@
     "name": "Levin Maier",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 2,
         "pa": 3,
         "ab": 3,
@@ -31339,7 +31339,7 @@
     "name": "Marvin Glassen",
     "statistics": {
       "batting": {
-        "ba": 0,
+        "avg": 0,
         "g": 3,
         "pa": 2,
         "ab": 2,

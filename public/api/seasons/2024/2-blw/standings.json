@@ -1,0 +1,84 @@
+[
+  {
+    "type": "WEST",
+    "results": [
+      {
+        "position": 1,
+        "team": "Feldkirch Cardinals",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Hard Bulls Bandidos",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Dornbirn Indians 2",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Schwaz Tigers",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      }
+    ]
+  },
+  {
+    "type": "MIDDLE",
+    "results": [
+      {
+        "position": 1,
+        "team": "ASAK Athletics",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Centurions Wels",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Dirty Sox Graz",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
+        "team": "Kufstein Vikings",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      }
+    ]
+  }
+]

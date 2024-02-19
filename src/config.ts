@@ -29,9 +29,8 @@ export type FixNamesConfig = {
 
 export const CONFIG: Config = {
     output: '../public/api/',
-    // crawlYears: [2023, 2022, 2021],
-    crawlYears: [],
-    aggregateYears: 2,
+    crawlYears: [2024],
+    aggregateYears: 3,
     timezone: 'Europe/Vienna',
     defaultGameDuration: 120,
     fixNames: [
@@ -57,54 +56,74 @@ export const CONFIG: Config = {
         },
         {
             name: "Richard Kranabetter",
-            corrections: ["Jonas Michael Zimmermann"]
+            corrections: ["Richard Thomas Kranabetter"]
         }
     ],
     leagues: [
         {
-            year: 2023,
+            year: 2024,
             name: 'Baseball Bundesliga',
             shortName: 'BBL',
             slug: 'bbl',
-            standings: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/calendars?round=&team=24492&date='],
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/calendars?round=&team=29142&date='],
             statistics: {
-                batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/batting',
-                pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/pitching',
-                fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/fielding'
+                batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/batting',
+                pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/pitching',
+                fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/fielding'
             }
         },
         {
-            year: 2022,
-            name: 'Baseball Bundesliga',
-            shortName: 'BBL',
-            slug: 'bbl',
-            standings: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/standings',
-            games: ['https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/calendars?round=&team=20357&date='],
-            statistics: {
-                batting: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/batting',
-                pitching: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/pitching',
-                fielding: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/fielding'
-            }
+            year: 2024,
+            name: 'Baseball 2. Bundesliga West',
+            shortName: '2. BLW',
+            slug: '2-blw',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/calendars?round=&team=29979&date=']
         },
-        {
-            year: 2021,
-            name: 'Baseball Bundesliga',
-            shortName: 'BBL',
-            slug: 'bbl',
-            standings: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/standings',
-            games: ['https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/calendars?round=&team=2572&date='],
-            statistics: {
-                batting: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/batting',
-                pitching: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/pitching',
-                fielding: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/fielding'
-            }
-        }
     ]
 }
 
-
 const PAST_LEAGUE_CONFIGS = [
+    {
+        year: 2023,
+        name: 'Baseball Bundesliga',
+        shortName: 'BBL',
+        slug: 'bbl',
+        standings: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/standings',
+        games: ['https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/calendars?round=&team=24492&date='],
+        statistics: {
+            batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/batting',
+            pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/pitching',
+            fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/fielding'
+        }
+    },
+    {
+        year: 2022,
+        name: 'Baseball Bundesliga',
+        shortName: 'BBL',
+        slug: 'bbl',
+        standings: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/standings',
+        games: ['https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/calendars?round=&team=20357&date='],
+        statistics: {
+            batting: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/batting',
+            pitching: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/pitching',
+            fielding: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/fielding'
+        }
+    },
+    {
+        year: 2021,
+        name: 'Baseball Bundesliga',
+        shortName: 'BBL',
+        slug: 'bbl',
+        standings: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/standings',
+        games: ['https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/calendars?round=&team=2572&date='],
+        statistics: {
+            batting: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/batting',
+            pitching: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/pitching',
+            fielding: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/fielding'
+        }
+    },
     {
         year: 2023,
         name: 'Baseball Nationalliga/Bundesliga Playoffs',

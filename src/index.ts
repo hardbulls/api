@@ -1,4 +1,4 @@
-import {Game, GameCrawler, GameStatus, StandingsCrawler, StatisticsCrawler} from "@hardbulls/wbsc-crawler";
+import {Game, GameCrawler, GameStatus, Standing, StandingsCrawler, StatisticsCrawler} from "@hardbulls/wbsc-crawler";
 import {CONFIG, FixNamesConfig} from "./config";
 import * as fs from 'fs/promises'
 import * as path from "path";
@@ -44,11 +44,16 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                     season: league.year
                 }
             })
-            const standings = await StandingsCrawler.crawl(league.standings)
 
             const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
-            const gamesFile = path.resolve(leagueDirectory, `games.json`,);
             const standingsFile = path.resolve(leagueDirectory, `standings.json`,);
+            let standings: Standing[] = [];
+
+            if (league.standings) {
+                standings = await StandingsCrawler.crawl(league.standings)
+            }
+
+            const gamesFile = path.resolve(leagueDirectory, `games.json`,);
             const statisticsFile = path.resolve(leagueDirectory, `statistics.json`,);
 
             await fs.mkdir(leagueDirectory, {recursive: true})

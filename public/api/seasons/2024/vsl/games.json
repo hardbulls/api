@@ -1,0 +1,90 @@
+[
+  {
+    "venue": ",",
+    "home": "Dornbirn Bears",
+    "away": "Hard Barons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-11T14:30:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Angry Balls",
+    "away": "Hard Barons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-18T16:30:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Barons",
+    "away": "Dornbirn Bears",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-14T16:30:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Redhawks",
+    "away": "Hard Barons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-22T09:00:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Barons",
+    "away": "Dornbirn Redhawks",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-06T13:30:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": ",",
+    "home": "Hard Barons",
+    "away": "Dornbirn Legends",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-06T15:30:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Legends",
+    "away": "Hard Barons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-08-25T13:00:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Barons",
+    "away": "Feldkirch Angry Balls",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-07T15:00:00.000Z",
+    "league": "vsl",
+    "season": 2024
+  }
+]

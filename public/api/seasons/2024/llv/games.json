@@ -1,0 +1,68 @@
+[
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Feldkirch Cardinals 2",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-04-28T13:00:00.000Z",
+    "league": "llv",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Dornbirn Indians 3",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-01T14:00:00.000Z",
+    "league": "llv",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals 2",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-26T16:30:00.000Z",
+    "league": "llv",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls Bullets",
+    "away": "Feldkirch Cardinals 2",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-21T09:00:00.000Z",
+    "league": "llv",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals 2",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-08-31T14:00:00.000Z",
+    "league": "llv",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Indians 3",
+    "away": "Hard Bulls Bullets",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-29T13:00:00.000Z",
+    "league": "llv",
+    "season": 2024
+  }
+]

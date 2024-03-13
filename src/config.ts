@@ -9,7 +9,7 @@ export interface Config {
         name: string;
         games: string[];
         shortName: string;
-        standings: string;
+        standings?: string;
         slug: string
         statistics?: {
             batting?: string;
@@ -57,6 +57,10 @@ export const CONFIG: Config = {
         {
             name: "Richard Kranabetter",
             corrections: ["Richard Thomas Kranabetter"]
+        },
+        {
+            name: "Zeke Holt",
+            corrections: ["Zachary Noah Tate Holt"],
         }
     ],
     leagues: [
@@ -81,6 +85,62 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/standings',
             games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/calendars?round=&team=29979&date=']
         },
+        {
+            year: 2024,
+            name: 'Baseball Landesliga Vorarlberg',
+            shortName: 'LLV',
+            slug: 'llv',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/calendars?round=&team=30418&date=']
+        },
+        {
+            year: 2024,
+            name: 'Baseball Ponyliga Vorarlberg U14',
+            shortName: 'U14',
+            slug: 'u14',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/calendars?round=&team=30437&date=']
+        },
+        {
+            year: 2024,
+            name: 'Baseball Schülerliga Vorarlberg U12',
+            shortName: 'U12',
+            slug: 'u12',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/calendars?round=&team=30449&date=',
+            ]
+        },
+        {
+            year: 2024,
+            name: 'Baseball Schülerliga Vorarlberg U10',
+            shortName: 'U10',
+            slug: 'u10',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/calendars?round=&team=30458&date=',
+            ]
+        },
+        {
+            year: 2024,
+            name: 'T-Ball Vorarlberg U8',
+            shortName: 'U8',
+            slug: 'u8',
+            standings: 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-t-ball-vorarlberg-u8-2024/calendars?round=&team=30461&date=',
+            ]
+        },
+        {
+            year: 2024,
+            name: 'Vorarlberger Slowpitch League',
+            shortName: 'VSL',
+            slug: 'vsl',
+            standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/calendars?round=&team=30484&date='
+            ]
+        }
     ]
 }
 

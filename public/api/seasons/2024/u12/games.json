@@ -1,0 +1,156 @@
+[
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Feldkirch Cardinals U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-04-14T09:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Feldkirch Cardinals U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-04-14T11:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-11T08:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-11T10:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-09T08:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Hard Bulls U12",
+    "away": "Dornbirn Little Indians U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-09T10:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-22T08:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-06-22T10:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Dornbirn Little Indians U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-06T09:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Dornbirn Little Indians U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-06T11:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Feldkirch Cardinals U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-01T08:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Dornbirn Little Indians U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-01T12:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Little Indians U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-15T08:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Feldkirch Cardinals U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-15T10:00:00.000Z",
+    "league": "u12",
+    "season": 2024
+  }
+]

@@ -126,7 +126,6 @@ export const CONFIG: Config = {
             name: 'T-Ball Vorarlberg U8',
             shortName: 'U8',
             slug: 'u8',
-            standings: 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-t-ball-vorarlberg-u8-2024/calendars?round=&team=30461&date=',
             ]

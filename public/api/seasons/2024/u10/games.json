@@ -133,23 +133,23 @@
   },
   {
     "venue": "Sportanlage Rohrbach, Dornbirn",
-    "home": "Dornbirn Indians Kids U10",
-    "away": "Hard Bulls U10",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-09-07T09:00:00.000Z",
-    "league": "u10",
-    "season": 2024
-  },
-  {
-    "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Feldkirch Cardinals U10",
     "away": "Hard Bulls U10",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2024-09-07T11:00:00.000Z",
+    "date": "2024-09-07T10:00:00.000Z",
+    "league": "u10",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Indians Kids U10",
+    "away": "Hard Bulls U10",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-07T12:00:00.000Z",
     "league": "u10",
     "season": 2024
   },

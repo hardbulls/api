@@ -139,6 +139,16 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/calendars?round=&team=30484&date='
             ]
+        },
+        {
+            year: 2024,
+            name: "2. Softball Bundesliga",
+            shortName: "2. SBL",
+            slug: "2-sbl",
+            standings: "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/standings",
+            games: [
+                "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/calendars?round=&team=29317&date="
+            ]
         }
     ]
 }

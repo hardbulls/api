@@ -4,6 +4,7 @@ import * as fs from 'fs/promises'
 import * as path from "path";
 import {IcalGenerator} from "./Calendar/IcalGenerator";
 import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatistics";
+import {fileExists} from "./files";
 
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
@@ -29,64 +30,48 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 }
 
 (async () => {
-    const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
-    const upcomingWeekGames: ApiGame[] = [];
     const baseOutputDir = path.join(__dirname, CONFIG.output)
 
     for (const league of CONFIG.leagues) {
-        const leagueName = `${league.name} ${league.year}`
 
         if (CONFIG.crawlYears.includes(league.year)) {
-            const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
-                return {
-                    ...game,
-                    league: league.slug,
-                    season: league.year
-                }
-            })
-
-            const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
-            const standingsFile = path.resolve(leagueDirectory, `standings.json`,);
-            let standings: Standing[] = [];
-
-            if (league.standings) {
-                standings = await StandingsCrawler.crawl(league.standings)
-            }
-
-            const gamesFile = path.resolve(leagueDirectory, `games.json`,);
-            const statisticsFile = path.resolve(leagueDirectory, `statistics.json`,);
-
-            await fs.mkdir(leagueDirectory, {recursive: true})
-            await fs.writeFile(gamesFile, JSON.stringify(games, null, 2));
-            await fs.writeFile(standingsFile, JSON.stringify(standings, null, 2));
-
-            for (const game of games) {
-                if (game.date > today && game.date < nextWeek && game.status === GameStatus.SCHEDULED) {
-                    upcomingWeekGames.push({
+            if (league.games) {
+                const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
+                    return {
                         ...game,
                         league: league.slug,
                         season: league.year
-                    });
+                    }
+                })
+
+                const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
+                const standingsFile = path.resolve(leagueDirectory, `standings.json`,);
+                let standings: Standing[] = [];
+
+                if (league.standings) {
+                    standings = await StandingsCrawler.crawl(league.standings)
+                }
+
+                const gamesFile = path.resolve(leagueDirectory, `games.json`,);
+                const statisticsFile = path.resolve(leagueDirectory, `statistics.json`,);
+
+                await fs.mkdir(leagueDirectory, {recursive: true})
+                await fs.writeFile(gamesFile, JSON.stringify(games, null, 2));
+                await fs.writeFile(standingsFile, JSON.stringify(standings, null, 2));
+
+                if (league.statistics) {
+                    let statistics = await StatisticsCrawler.crawl(league.statistics)
+
+                    if (CONFIG.fixNames) {
+                        statistics = correctNames(statistics, CONFIG.fixNames)
+                    }
+
+                    await fs.writeFile(statisticsFile, JSON.stringify(statistics, null, 2));
                 }
             }
-
-            if (league.statistics) {
-                let statistics = await StatisticsCrawler.crawl(league.statistics)
-
-                if (CONFIG.fixNames) {
-                    statistics = correctNames(statistics, CONFIG.fixNames)
-                }
-
-                await fs.writeFile(statisticsFile, JSON.stringify(statistics, null, 2));
-            }
-
-            const leagueCalendar = IcalGenerator.games(leagueName, games.filter(v => v.status === GameStatus.SCHEDULED || v.status === GameStatus.FINISHED), CONFIG.timezone, CONFIG.defaultGameDuration)
-
-            await fs.writeFile(path.resolve(leagueDirectory, 'games.ics'), leagueCalendar);
         }
     }
 
-    await fs.writeFile(path.resolve(baseOutputDir, 'weekly-games.json'), JSON.stringify(upcomingWeekGames, null, 2));
 
     const aggregateStatistics = async (leagueSlug: string) => {
         const seasonsDirectory = await fs.readdir(path.resolve(baseOutputDir, 'seasons'));
@@ -134,8 +119,67 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         await fs.writeFile(path.resolve(baseOutputDir, 'statistics', leagueSlug, 'all.json'), JSON.stringify(statisticsByPlayerAndSeason, null, 2));
     }
 
+
+    const generateCalendar = async (leagueName: string, leagueSlug: string) => {
+        const seasonsDirectory = await fs.readdir(path.resolve(baseOutputDir, 'seasons'));
+
+        for (const season of seasonsDirectory) {
+            const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', season, leagueSlug));
+            const gamesJson = path.resolve(leagueDirectory, 'games.json');
+
+            if (await fileExists(gamesJson)) {
+                const games: Game[] = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"})).map((game: any) => {
+                    return {
+                        ...game,
+                        date: new Date(game.date)
+                    }
+                });
+
+                const leagueCalendar = IcalGenerator.games(
+                    leagueName,
+                    games.filter((v: any) => v.status === GameStatus.SCHEDULED || v.status === GameStatus.FINISHED),
+                    CONFIG.timezone,
+                    CONFIG.defaultGameDuration
+                )
+
+                await fs.writeFile(path.resolve(leagueDirectory, 'games.ics'), leagueCalendar);
+            }
+        }
+    }
+
+    const weeklyGames = async () => {
+        const upcomingWeekGames: ApiGame[] = [];
+        const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
+
+        for (const league of CONFIG.leagues) {
+            const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', nextWeek.getFullYear().toString(), league.slug));
+            const gamesJson = path.resolve(leagueDirectory, 'games.json');
+
+            if (await fileExists(gamesJson)) {
+                const games = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"}));
+
+                for (const game of games) {
+                    const gameDate = new Date(game.date);
+
+                    if (gameDate > today && gameDate < nextWeek && game.status === GameStatus.SCHEDULED) {
+                        upcomingWeekGames.push({
+                            ...game,
+                            league: league.slug,
+                            season: league.year
+                        });
+                    }
+                }
+            }
+        }
+
+        await fs.writeFile(path.resolve(baseOutputDir, 'weekly-games.json'), JSON.stringify(upcomingWeekGames, null, 2));
+    }
+
     for (const league of CONFIG.leagues) {
         await aggregateStatistics(league.slug);
+        await generateCalendar(league.name, league.slug);
     }
+
+    await weeklyGames();
 })()
 

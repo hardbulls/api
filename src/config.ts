@@ -7,7 +7,7 @@ export interface Config {
     leagues: Array<{
         year: number;
         name: string;
-        games: string[];
+        games?: string[];
         shortName: string;
         standings?: string;
         slug: string
@@ -64,6 +64,12 @@ export const CONFIG: Config = {
         }
     ],
     leagues: [
+        {
+            year: 2024,
+            name: "Preseason",
+            shortName: "Preseason",
+            slug: "preseason",
+        },
         {
             year: 2024,
             name: 'Baseball Bundesliga',

@@ -101,6 +101,14 @@ export const CONFIG: Config = {
         },
         {
             year: 2024,
+            name: 'Baseball Jugendliga Vorarlberg U16',
+            shortName: 'U16',
+            slug: 'u16',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/calendars?round=&team=30427&date=']
+        },
+        {
+            year: 2024,
             name: 'Baseball Ponyliga Vorarlberg U14',
             shortName: 'U14',
             slug: 'u14',

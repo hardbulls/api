@@ -4,66 +4,66 @@
     "results": [
       {
         "position": 1,
+        "team": "Vienna Metrostars",
+        "wins": 3,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.75,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians",
+        "wins": 1,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0.5
+      },
+      {
+        "position": 3,
         "team": "Schwechat Blue Bats",
-        "wins": 0,
-        "loses": 0,
+        "wins": 1,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Diving Ducks Wr. Neustadt",
-        "wins": 0,
-        "loses": 0,
+        "wins": 1,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
       },
       {
-        "position": 1,
+        "position": 3,
         "team": "Traiskirchen Grasshoppers",
-        "wins": 0,
-        "loses": 0,
+        "wins": 1,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
       },
       {
-        "position": 1,
+        "position": 6,
         "team": "Hard Bulls",
         "wins": 0,
-        "loses": 0,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 1.5
       },
       {
-        "position": 1,
-        "team": "Dornbirn Indians",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
-        "team": "Vienna Metrostars",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
+        "position": 7,
         "team": "Vienna Wanderers",
         "wins": 0,
-        "loses": 0,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 2
       }
     ]
   }

@@ -4,25 +4,25 @@
     "results": [
       {
         "position": 1,
-        "team": "Feldkirch Cardinals U12",
-        "wins": 1,
-        "loses": 1,
+        "team": "Feldkirch Cardinals U16",
+        "wins": 0,
+        "loses": 0,
         "ties": 0,
-        "winsPercentage": 0.5,
+        "winsPercentage": null,
         "gamesBehind": 0
       },
       {
         "position": 1,
-        "team": "Hard Bulls U12",
-        "wins": 1,
-        "loses": 1,
+        "team": "Hard Bulls U16",
+        "wins": 0,
+        "loses": 0,
         "ties": 0,
-        "winsPercentage": 0.5,
+        "winsPercentage": null,
         "gamesBehind": 0
       },
       {
         "position": 1,
-        "team": "Dornbirn Little Indians U12",
+        "team": "SG Indians - Vikings U16",
         "wins": 0,
         "loses": 0,
         "ties": 0,

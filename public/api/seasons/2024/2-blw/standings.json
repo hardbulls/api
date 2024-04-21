@@ -1,6 +1,6 @@
 [
   {
-    "type": "WEST",
+    "type": "UNKNOWN",
     "results": [
       {
         "position": 1,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "type": "MIDDLE",
+    "type": "UNKNOWN",
     "results": [
       {
         "position": 1,
@@ -80,9 +80,5 @@
         "gamesBehind": 2
       }
     ]
-  },
-  {
-    "type": "UNKNOWN",
-    "results": []
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls",
-    "away": "Diving Ducks Wr. Neustadt",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-27T11:00:00.000Z",
-    "league": "bbl",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls",
-    "away": "Diving Ducks Wr. Neustadt",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-27T13:30:00.000Z",
-    "league": "bbl",
-    "season": 2024
-  },
-  {
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals",
     "away": "Hard Bulls Bandidos",

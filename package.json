@@ -32,10 +32,10 @@
     "dist"
   ],
   "dependencies": {
-    "@hardbulls/wbsc-crawler": "^0.2.4",
+    "@hardbulls/wbsc-crawler": "^0.3.1",
     "@touch4it/ical-timezones": "^1.9.0",
-    "date-fns": "^2.30.0",
-    "ical-generator": "^5.0.1"
+    "date-fns": "^3.6.0",
+    "ical-generator": "^7.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.7.1",

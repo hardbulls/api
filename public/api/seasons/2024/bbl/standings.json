@@ -1,24 +1,24 @@
 [
   {
-    "type": "UNKNOWN",
+    "type": "REGULAR",
     "results": [
       {
         "position": 1,
+        "team": "Vienna Metrostars",
+        "wins": 4,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.8,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
         "team": "Diving Ducks Wr. Neustadt",
         "wins": 3,
         "loses": 1,
         "ties": 0,
         "winsPercentage": 0.75,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
-        "team": "Vienna Metrostars",
-        "wins": 3,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.75,
-        "gamesBehind": 0
+        "gamesBehind": 0.5
       },
       {
         "position": 3,
@@ -27,15 +27,6 @@
         "loses": 0,
         "ties": 0,
         "winsPercentage": 1,
-        "gamesBehind": 0.5
-      },
-      {
-        "position": 4,
-        "team": "Schwechat Blue Bats",
-        "wins": 1,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.5,
         "gamesBehind": 1
       },
       {
@@ -45,7 +36,16 @@
         "loses": 2,
         "ties": 0,
         "winsPercentage": 0.5,
-        "gamesBehind": 1
+        "gamesBehind": 1.5
+      },
+      {
+        "position": 5,
+        "team": "Schwechat Blue Bats",
+        "wins": 1,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.333,
+        "gamesBehind": 2
       },
       {
         "position": 6,
@@ -54,7 +54,7 @@
         "loses": 3,
         "ties": 0,
         "winsPercentage": 0.25,
-        "gamesBehind": 2
+        "gamesBehind": 2.5
       },
       {
         "position": 7,
@@ -63,7 +63,7 @@
         "loses": 3,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 2.5
+        "gamesBehind": 3
       }
     ]
   }

@@ -1,6 +1,6 @@
 [
   {
-    "type": "UNKNOWN",
+    "type": "WEST",
     "results": [
       {
         "position": 1,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "type": "UNKNOWN",
+    "type": "MIDDLE",
     "results": [
       {
         "position": 1,

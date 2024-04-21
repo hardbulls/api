@@ -1,6 +1,6 @@
 [
   {
-    "type": "UNKNOWN",
+    "type": "REGULAR",
     "results": [
       {
         "position": 1,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "type": "UNKNOWN",
+    "type": "FINAL_TOURNAMENT",
     "results": [
       {
         "position": 1,

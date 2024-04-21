@@ -11,23 +11,12 @@
     "season": 2024
   },
   {
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls",
-    "away": "Dornbirn Indians",
-    "awayScore": 5,
-    "homeScore": 4,
-    "status": "scheduled",
-    "date": "2024-04-13T13:30:00.000Z",
-    "league": "bbl",
-    "season": 2024
-  },
-  {
     "venue": "Ducksfield, Wiener Neustadt",
     "home": "Diving Ducks Wr. Neustadt",
     "away": "Hard Bulls",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 2,
+    "homeScore": 7,
+    "status": "finished",
     "date": "2024-04-20T12:00:00.000Z",
     "league": "bbl",
     "season": 2024
@@ -36,9 +25,9 @@
     "venue": "Ducksfield, Wiener Neustadt",
     "home": "Diving Ducks Wr. Neustadt",
     "away": "Hard Bulls",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 4,
+    "homeScore": 13,
+    "status": "finished",
     "date": "2024-04-20T14:30:00.000Z",
     "league": "bbl",
     "season": 2024
@@ -128,6 +117,17 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-19T11:30:00.000Z",
+    "league": "bbl",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Hard Bulls",
+    "away": "Dornbirn Indians",
+    "awayScore": 5,
+    "homeScore": 4,
+    "status": "scheduled",
+    "date": "2024-06-02T09:30:00.000Z",
     "league": "bbl",
     "season": 2024
   },

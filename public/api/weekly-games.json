@@ -1,23 +1,23 @@
 [
   {
-    "venue": "Ducksfield, Wiener Neustadt",
-    "home": "Diving Ducks Wr. Neustadt",
-    "away": "Hard Bulls",
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls",
+    "away": "Diving Ducks Wr. Neustadt",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2024-04-20T12:00:00.000Z",
+    "date": "2024-04-27T11:00:00.000Z",
     "league": "bbl",
     "season": 2024
   },
   {
-    "venue": "Ducksfield, Wiener Neustadt",
-    "home": "Diving Ducks Wr. Neustadt",
-    "away": "Hard Bulls",
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls",
+    "away": "Diving Ducks Wr. Neustadt",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2024-04-20T14:30:00.000Z",
+    "date": "2024-04-27T13:30:00.000Z",
     "league": "bbl",
     "season": 2024
   },
@@ -41,50 +41,6 @@
     "status": "scheduled",
     "date": "2024-04-21T14:30:00.000Z",
     "league": "2-blw",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U14",
-    "away": "Hard Bulls U14",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-21T07:30:00.000Z",
-    "league": "u14",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U14",
-    "away": "Hard Bulls U14",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-21T09:30:00.000Z",
-    "league": "u14",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U10",
-    "away": "Hard Bulls U10",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-20T09:00:00.000Z",
-    "league": "u10",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Hard Bulls U10",
-    "away": "Dornbirn Indians Kids U10",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-20T11:00:00.000Z",
-    "league": "u10",
     "season": 2024
   }
 ]

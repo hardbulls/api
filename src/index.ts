@@ -17,7 +17,7 @@ interface ApiGame extends Game {
 const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]): PlayerStatistics[] => {
     return statistics.map(playerStatistics => {
         for (const {name, corrections} of fixNames) {
-            if (corrections.includes(playerStatistics.name)) {
+            if (corrections.map(v => v.toLowerCase()).includes(playerStatistics.name.toLowerCase())) {
                 return {
                     ...playerStatistics,
                     name: name

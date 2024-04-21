@@ -4,6 +4,15 @@
     "results": [
       {
         "position": 1,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 3,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.75,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
         "team": "Vienna Metrostars",
         "wins": 3,
         "loses": 1,
@@ -12,7 +21,7 @@
         "gamesBehind": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Dornbirn Indians",
         "wins": 1,
         "loses": 0,
@@ -21,7 +30,7 @@
         "gamesBehind": 0.5
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Schwechat Blue Bats",
         "wins": 1,
         "loses": 1,
@@ -30,40 +39,31 @@
         "gamesBehind": 1
       },
       {
-        "position": 3,
-        "team": "Diving Ducks Wr. Neustadt",
-        "wins": 1,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 1
-      },
-      {
-        "position": 3,
-        "team": "Traiskirchen Grasshoppers",
-        "wins": 1,
-        "loses": 1,
+        "position": 4,
+        "team": "Vienna Wanderers",
+        "wins": 2,
+        "loses": 2,
         "ties": 0,
         "winsPercentage": 0.5,
         "gamesBehind": 1
       },
       {
         "position": 6,
-        "team": "Hard Bulls",
-        "wins": 0,
-        "loses": 1,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 1,
+        "loses": 3,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 1.5
+        "winsPercentage": 0.25,
+        "gamesBehind": 2
       },
       {
         "position": 7,
-        "team": "Vienna Wanderers",
+        "team": "Hard Bulls",
         "wins": 0,
-        "loses": 2,
+        "loses": 3,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 2
+        "gamesBehind": 2.5
       }
     ]
   }

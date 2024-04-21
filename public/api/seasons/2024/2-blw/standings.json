@@ -80,5 +80,9 @@
         "gamesBehind": 2
       }
     ]
+  },
+  {
+    "type": "UNKNOWN",
+    "results": []
   }
 ]

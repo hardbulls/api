@@ -1,5 +1,3 @@
-import exp from "node:constants";
-
 export interface Config {
     output: string;
     aggregateYears: number;

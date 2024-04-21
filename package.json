@@ -39,7 +39,7 @@
     "nwsapi": "2.2.7"
   },
   "devDependencies": {
-    "@types/node": "^20.7.1",
+    "@types/node": "^20.12.7",
     "typescript": "^5.2.2"
   }
 }

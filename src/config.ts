@@ -33,6 +33,10 @@ export const CONFIG: Config = {
     defaultGameDuration: 120,
     fixNames: [
         {
+            name: "Kelvis Palma",
+            corrections: ["Kelvis Alexander Palma fernandez"]
+        },
+        {
             name: "Luca Mäser",
             corrections: ["Luca Eliah Mäser"]
         },

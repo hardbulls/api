@@ -36,6 +36,7 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
         if (CONFIG.crawlYears.includes(league.year)) {
             if (league.games) {
+                console.log(league);
                 const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
                     return {
                         ...game,

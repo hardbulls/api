@@ -7,6 +7,7 @@
     "homeScore": 6,
     "status": "finished",
     "date": "2024-04-13T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -18,6 +19,7 @@
     "homeScore": 7,
     "status": "finished",
     "date": "2024-04-20T12:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -29,6 +31,7 @@
     "homeScore": 13,
     "status": "finished",
     "date": "2024-04-20T14:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -36,10 +39,11 @@
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls",
     "away": "Diving Ducks Wr. Neustadt",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 14,
+    "homeScore": 3,
+    "status": "finished",
     "date": "2024-04-27T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -47,10 +51,11 @@
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls",
     "away": "Diving Ducks Wr. Neustadt",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 4,
+    "homeScore": 16,
+    "status": "finished",
     "date": "2024-04-27T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -62,6 +67,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-04T12:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -73,6 +79,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-04T14:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -84,6 +91,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-11T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -95,6 +103,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-11T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -106,6 +115,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-19T09:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -117,6 +127,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-19T11:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -128,6 +139,19 @@
     "homeScore": 4,
     "status": "scheduled",
     "date": "2024-06-02T09:30:00.000Z",
+    "note": null,
+    "league": "bbl",
+    "season": 2024
+  },
+  {
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Hard Bulls",
+    "away": "Dornbirn Indians",
+    "awayScore": 5,
+    "homeScore": 4,
+    "status": "scheduled",
+    "date": "2024-06-02T12:00:00.000Z",
+    "note": "- Dieses Spiel beginnt 60 Minuten nach dem Ende des vorherigen Spiels.",
     "league": "bbl",
     "season": 2024
   },
@@ -139,6 +163,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-02T10:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -150,6 +175,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-02T12:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -161,6 +187,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-08T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -172,6 +199,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-08T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -183,6 +211,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-15T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -194,6 +223,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-15T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -205,6 +235,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-29T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -216,6 +247,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-29T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -227,6 +259,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-07-13T11:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -238,6 +271,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-07-13T13:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -249,6 +283,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-08-17T09:00:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   },
@@ -260,6 +295,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-08-17T11:30:00.000Z",
+    "note": null,
     "league": "bbl",
     "season": 2024
   }

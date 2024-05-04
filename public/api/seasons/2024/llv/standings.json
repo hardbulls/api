@@ -3,31 +3,31 @@
     "type": "REGULAR",
     "results": [
       {
-        "position": -1,
-        "team": "Feldkirch Cardinals 2",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
+        "position": 1,
         "team": "Hard Bulls Bullets",
-        "wins": 0,
+        "wins": 1,
         "loses": 0,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 1,
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 2,
         "team": "Dornbirn Indians 3",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 0.5
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Cardinals 2",
+        "wins": 0,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 1
       }
     ]
   }

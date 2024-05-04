@@ -7,6 +7,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-11T14:30:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -18,6 +19,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-18T16:30:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -29,6 +31,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-14T16:30:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -40,6 +43,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-22T09:00:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -51,6 +55,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-07-06T13:30:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -62,6 +67,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-07-06T15:30:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -73,6 +79,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-08-25T13:00:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   },
@@ -84,6 +91,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-07T15:00:00.000Z",
+    "note": null,
     "league": "vsl",
     "season": 2024
   }

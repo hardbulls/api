@@ -1,27 +1,5 @@
 [
   {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U10",
-    "away": "Hard Bulls U10",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-20T09:00:00.000Z",
-    "league": "u10",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Hard Bulls U10",
-    "away": "Dornbirn Indians Kids U10",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-04-20T11:00:00.000Z",
-    "league": "u10",
-    "season": 2024
-  },
-  {
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians Kids U10",
     "away": "Hard Bulls U10",
@@ -29,6 +7,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-05T08:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -40,6 +19,31 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-05T10:00:00.000Z",
+    "note": null,
+    "league": "u10",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Hard Bulls U10",
+    "away": "Dornbirn Indians Kids U10",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-09T11:00:00.000Z",
+    "note": null,
+    "league": "u10",
+    "season": 2024
+  },
+  {
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U10",
+    "away": "Hard Bulls U10",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-05-09T13:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -51,17 +55,19 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-20T08:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
   {
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U10",
-    "away": "Dornbirn Indians Kids U10",
+    "away": "Feldkirch Cardinals U10",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-20T10:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -73,6 +79,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-30T09:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -84,6 +91,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-05-30T13:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -95,6 +103,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-16T08:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -106,6 +115,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-16T10:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -117,6 +127,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-30T07:30:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -128,6 +139,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-06-30T09:30:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -139,6 +151,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-07T10:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -150,6 +163,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-07T12:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -161,6 +175,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-21T09:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   },
@@ -172,6 +187,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-21T11:00:00.000Z",
+    "note": null,
     "league": "u10",
     "season": 2024
   }

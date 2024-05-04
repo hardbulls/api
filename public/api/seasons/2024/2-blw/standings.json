@@ -4,21 +4,21 @@
     "results": [
       {
         "position": 1,
-        "team": "Feldkirch Cardinals",
-        "wins": 2,
+        "team": "Schwaz Tigers",
+        "wins": 4,
         "loses": 0,
         "ties": 0,
         "winsPercentage": 1,
         "gamesBehind": 0
       },
       {
-        "position": 1,
-        "team": "Schwaz Tigers",
+        "position": 2,
+        "team": "Feldkirch Cardinals",
         "wins": 2,
         "loses": 0,
         "ties": 0,
         "winsPercentage": 1,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
         "position": 3,
@@ -27,7 +27,7 @@
         "loses": 1,
         "ties": 0,
         "winsPercentage": 0.5,
-        "gamesBehind": 1
+        "gamesBehind": 2
       },
       {
         "position": 4,
@@ -36,7 +36,7 @@
         "loses": 2,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 2
+        "gamesBehind": 3
       }
     ]
   },
@@ -46,17 +46,17 @@
       {
         "position": 1,
         "team": "ASAK Athletics",
-        "wins": 2,
-        "loses": 0,
+        "wins": 3,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": 1,
+        "winsPercentage": 0.75,
         "gamesBehind": 0
       },
       {
         "position": 2,
         "team": "Centurions Wels",
-        "wins": 1,
-        "loses": 1,
+        "wins": 2,
+        "loses": 2,
         "ties": 0,
         "winsPercentage": 0.5,
         "gamesBehind": 1
@@ -71,13 +71,13 @@
         "gamesBehind": 2
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "Kufstein Vikings",
         "wins": 0,
-        "loses": 2,
+        "loses": 4,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 2
+        "gamesBehind": 3
       }
     ]
   }

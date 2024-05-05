@@ -150,7 +150,7 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
     const weeklyGames = async () => {
         const upcomingWeekGames: ApiGame[] = [];
-        const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
+        const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 6, 0, 0, 0);
 
         for (const league of CONFIG.leagues) {
             const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', nextWeek.getFullYear().toString(), league.slug));

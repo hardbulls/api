@@ -41,6 +41,10 @@ export const CONFIG: Config = {
             corrections: ["Luca Eliah Mäser"]
         },
         {
+            name: "Nick Jäger",
+            corrections: ["Nick Jaeger"]
+        },
+        {
             name: "Clayton Carson",
             corrections: ["Clayton Reese Carson"]
         },

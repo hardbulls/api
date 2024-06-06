@@ -24,8 +24,8 @@ jobs:
 
     - name: Generate Media
       run: |
-        apt update
-        apt install imagemagick -y
+        sudo apt update
+        sudo apt install imagemagick -y
         ./convert-media.sh
 
     - name: Build

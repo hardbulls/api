@@ -22,6 +22,12 @@ jobs:
       with:
         node-version: 20
 
+    - name: Generate Media
+      run: |
+        apt update
+        apt install imagemagick -y
+        ./convert-media.sh
+
     - name: Build
       run: |
         npm ci

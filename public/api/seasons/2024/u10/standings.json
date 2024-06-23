@@ -5,7 +5,7 @@
       {
         "position": 1,
         "team": "Dornbirn Indians Kids U10",
-        "wins": 2,
+        "wins": 8,
         "loses": 0,
         "ties": 0,
         "winsPercentage": 1,
@@ -13,21 +13,21 @@
       },
       {
         "position": 2,
-        "team": "Hard Bulls U10",
-        "wins": 0,
-        "loses": 0,
+        "team": "Feldkirch Cardinals U10",
+        "wins": 1,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 1
+        "winsPercentage": 0.167,
+        "gamesBehind": 6
       },
       {
-        "position": 3,
-        "team": "Feldkirch Cardinals U10",
-        "wins": 0,
-        "loses": 2,
+        "position": 2,
+        "team": "Hard Bulls U10",
+        "wins": 2,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 2
+        "winsPercentage": 0.25,
+        "gamesBehind": 6
       }
     ]
   },

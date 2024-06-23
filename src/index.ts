@@ -5,11 +5,14 @@ import * as path from "path";
 import {IcalGenerator} from "./Calendar/IcalGenerator";
 import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatistics";
 import {fileExists} from "./files";
+import {createHash} from 'crypto';
+import {OVERRIDES} from './overrides';
 
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
 
 interface ApiGame extends Game {
+    id: string,
     league: string,
     season: number,
 }
@@ -37,10 +40,15 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         if (CONFIG.crawlYears.includes(league.year)) {
             if (league.games) {
                 const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
-                    return {
+                    const apiGame = {
                         ...game,
                         league: league.slug,
                         season: league.year
+                    }
+
+                    return {
+                        id: createHash('md5').update(JSON.stringify(apiGame)).digest('hex'),
+                        ...apiGame
                     }
                 })
 
@@ -162,11 +170,20 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                     const gameDate = new Date(game.date);
 
                     if (gameDate > today && gameDate < nextWeek && game.status === GameStatus.SCHEDULED) {
-                        upcomingWeekGames.push({
+                        let upcomingGame = {
                             ...game,
                             league: league.slug,
                             season: league.year
-                        });
+                        };
+
+                        if (game.id && OVERRIDES[game.id]) {
+                            upcomingGame = {
+                                ...upcomingGame,
+                                ...OVERRIDES[game.id]
+                            }
+                        }
+
+                        upcomingWeekGames.push(upcomingGame);
                     }
                 }
             }

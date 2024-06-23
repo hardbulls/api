@@ -1,53 +1,71 @@
 [
   {
+    "id": "dbeb98cd054e4877a76e84f412c2d2f7",
     "venue": ",",
     "home": "Dornbirn Bears",
     "away": "Hard Barons",
     "awayScore": 0,
     "homeScore": 0,
-    "status": "scheduled",
+    "status": "canceled",
     "date": "2024-05-11T14:30:00.000Z",
     "note": null,
     "league": "vsl",
     "season": 2024
   },
   {
+    "id": "f77ade5637f5e8b164e60493648ae204",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Legends",
+    "away": "Hard Barons",
+    "awayScore": 11,
+    "homeScore": 19,
+    "status": "finished",
+    "date": "2024-05-11T14:30:00.000Z",
+    "note": null,
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "id": "8b132b4511c2b212065006c563c192e1",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Angry Balls",
     "away": "Hard Barons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 18,
+    "homeScore": 12,
+    "status": "finished",
     "date": "2024-05-18T16:30:00.000Z",
     "note": null,
     "league": "vsl",
     "season": 2024
   },
   {
+    "id": "cac31e529ffdad58a11ff794cd2cc75c",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Barons",
     "away": "Dornbirn Bears",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 18,
+    "homeScore": 21,
+    "status": "finished",
     "date": "2024-06-14T16:30:00.000Z",
     "note": null,
     "league": "vsl",
     "season": 2024
   },
   {
+    "id": "4c04771084972902569baca6351e18ca",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Redhawks",
     "away": "Hard Barons",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2024-06-22T09:00:00.000Z",
+    "date": "2024-06-22T13:00:00.000Z",
     "note": null,
     "league": "vsl",
     "season": 2024
   },
   {
+    "id": "09324038fa189f51686ab9df124cfea9",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Barons",
     "away": "Dornbirn Redhawks",
@@ -60,6 +78,7 @@
     "season": 2024
   },
   {
+    "id": "e3b3d2919520a2fea14a14a405020831",
     "venue": ",",
     "home": "Hard Barons",
     "away": "Dornbirn Legends",
@@ -72,18 +91,7 @@
     "season": 2024
   },
   {
-    "venue": "Sportanlage Rohrbach, Dornbirn",
-    "home": "Dornbirn Legends",
-    "away": "Hard Barons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-08-25T13:00:00.000Z",
-    "note": null,
-    "league": "vsl",
-    "season": 2024
-  },
-  {
+    "id": "b12a37d701eceec75c6b04484ffa2a50",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Barons",
     "away": "Feldkirch Angry Balls",

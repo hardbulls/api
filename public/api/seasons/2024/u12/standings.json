@@ -5,29 +5,29 @@
       {
         "position": 1,
         "team": "Feldkirch Cardinals U12",
-        "wins": 3,
-        "loses": 1,
+        "wins": 5,
+        "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.75,
+        "winsPercentage": 0.625,
         "gamesBehind": 0
       },
       {
-        "position": 2,
+        "position": 1,
         "team": "Hard Bulls U12",
-        "wins": 1,
-        "loses": 1,
+        "wins": 4,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 1
+        "winsPercentage": 0.667,
+        "gamesBehind": 0
       },
       {
         "position": 3,
         "team": "Dornbirn Little Indians U12",
-        "wins": 0,
-        "loses": 2,
+        "wins": 2,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 2
+        "winsPercentage": 0.25,
+        "gamesBehind": 3
       }
     ]
   }

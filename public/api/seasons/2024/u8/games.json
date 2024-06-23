@@ -1,5 +1,6 @@
 [
   {
+    "id": "18b353b88ad01855294be0da8207cc79",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Dornbirn Indians Minis U8",
@@ -12,54 +13,59 @@
     "season": 2024
   },
   {
+    "id": "da5fa3ae5dab6ad2b8f773321cf7275d",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Feldkirch Cardinals U8",
     "awayScore": 9,
     "homeScore": 16,
-    "status": "scheduled",
+    "status": "finished",
     "date": "2024-04-27T09:30:00.000Z",
     "note": null,
     "league": "u8",
     "season": 2024
   },
   {
+    "id": "a7e987dea23a4e032b8cd02edc8123d1",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals U8",
     "away": "Hard Bulls U8",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 7,
+    "homeScore": 13,
+    "status": "finished",
     "date": "2024-05-11T09:30:00.000Z",
     "note": null,
     "league": "u8",
     "season": 2024
   },
   {
+    "id": "b46c95ee08559ba8d2e9af35066dc7b4",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians Minis U8",
     "away": "Hard Bulls U8",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 13,
+    "homeScore": 17,
+    "status": "finished",
     "date": "2024-05-24T15:30:00.000Z",
     "note": null,
     "league": "u8",
     "season": 2024
   },
   {
+    "id": "6e1a3ce8726040c509392ae7a283e24c",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Feldkirch Cardinals U8",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2024-05-30T08:00:00.000Z",
+    "date": "2024-06-16T12:30:00.000Z",
     "note": null,
     "league": "u8",
     "season": 2024
   },
   {
+    "id": "aebd87ed1ce8d9a694d9c26b909273cc",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Dornbirn Indians Minis U8",
@@ -72,6 +78,7 @@
     "season": 2024
   },
   {
+    "id": "aa7192209dc73cdfe50bab00f0b1be04",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Dornbirn Indians Minis U8",
@@ -84,6 +91,7 @@
     "season": 2024
   },
   {
+    "id": "1210ea2a96a0ddec59214e1ba35d27e4",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals U8",
     "away": "Hard Bulls U8",
@@ -96,6 +104,7 @@
     "season": 2024
   },
   {
+    "id": "66f62df8d5bf3d9bf1d67253773e1c5f",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals U8",
     "away": "Hard Bulls U8",
@@ -108,6 +117,7 @@
     "season": 2024
   },
   {
+    "id": "ef686655d0532b3a766c67d2aea6d605",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians Minis U8",
     "away": "Hard Bulls U8",

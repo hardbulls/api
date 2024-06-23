@@ -1,5 +1,6 @@
 [
   {
+    "id": "eb011abdb2f610ba7e3416a84f801e99",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U16",
     "away": "Feldkirch Cardinals U16",
@@ -12,6 +13,7 @@
     "season": 2024
   },
   {
+    "id": "c1f786e19433f4d1aedd9f9100df87ee",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U16",
     "away": "Feldkirch Cardinals U16",
@@ -24,78 +26,85 @@
     "season": 2024
   },
   {
+    "id": "110fd916b0a48dc75e7692e24aaa9305",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Vikings U16",
     "away": "Hard Bulls U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 2,
+    "homeScore": 12,
+    "status": "finished",
     "date": "2024-05-09T10:00:00.000Z",
     "note": null,
     "league": "u16",
     "season": 2024
   },
   {
+    "id": "766334d40bfbc2df5349f6c35cc343b4",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Vikings U16",
     "away": "Hard Bulls U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 13,
+    "homeScore": 7,
+    "status": "finished",
     "date": "2024-05-09T12:00:00.000Z",
     "note": null,
     "league": "u16",
     "season": 2024
   },
   {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U16",
-    "away": "Hard Bulls U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-05-20T08:00:00.000Z",
-    "note": null,
-    "league": "u16",
-    "season": 2024
-  },
-  {
-    "venue": "Ballpark Feldkirch, Feldkirch",
-    "home": "Feldkirch Cardinals U16",
-    "away": "Hard Bulls U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-05-20T10:00:00.000Z",
-    "note": null,
-    "league": "u16",
-    "season": 2024
-  },
-  {
+    "id": "e21d5d00e110a40ccded1ea433d69cbe",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U16",
     "away": "SG Indians - Vikings U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 15,
+    "homeScore": 8,
+    "status": "finished",
     "date": "2024-05-26T10:00:00.000Z",
     "note": null,
     "league": "u16",
     "season": 2024
   },
   {
+    "id": "7ebe31129ab58fa41739dab4f7e63b24",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U16",
     "away": "SG Indians - Vikings U16",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 10,
+    "homeScore": 11,
+    "status": "finished",
     "date": "2024-05-26T12:00:00.000Z",
     "note": null,
     "league": "u16",
     "season": 2024
   },
   {
+    "id": "e922d6cfd1b6785677c05bf52f0d9a52",
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U16",
+    "away": "Hard Bulls U16",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-08-24T08:00:00.000Z",
+    "note": null,
+    "league": "u16",
+    "season": 2024
+  },
+  {
+    "id": "d954d121894edb60de4fe6093dd16b1a",
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "Feldkirch Cardinals U16",
+    "away": "Hard Bulls U16",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-08-24T10:00:00.000Z",
+    "note": null,
+    "league": "u16",
+    "season": 2024
+  },
+  {
+    "id": "f992e9d1c7cdd5114b0e00e0e49792e2",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Vikings U16",
     "away": "Hard Bulls U16",
@@ -108,6 +117,7 @@
     "season": 2024
   },
   {
+    "id": "2accbe26fd1d698b8d91fa09a703de5e",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Hard Bulls U16",
     "away": "Feldkirch Cardinals U16",
@@ -120,6 +130,7 @@
     "season": 2024
   },
   {
+    "id": "0a6e7319296aac1da3bd5878f6c0cce4",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Hard Bulls U16",
     "away": "SG Indians - Vikings U16",
@@ -132,6 +143,7 @@
     "season": 2024
   },
   {
+    "id": "4f2b7c8a72a521624f9a259d8819c14e",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals U16",
     "away": "Hard Bulls U16",

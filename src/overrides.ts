@@ -1,11 +1,5 @@
-export const OVERRIDES: {[key: string]: { status?: string}} = {
-  "235a34482edf478302e99dbe1a7c4159": {
-    "status": "canceled"
-  },
-  "bb342fa977f39b337b3c0ee72c914943": {
-    "status": "canceled"
-  },
-  "85f460b6c1fcd458190b052277800fda": {
-    "status": "canceled"
+export const OVERRIDES: {[key: string]: { status?: string, venue?: string }} = {
+  "e3b3d2919520a2fea14a14a405020831": {
+      "venue": "Ballpark am See, Hard"
   }
 }

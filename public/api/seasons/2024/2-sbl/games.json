@@ -26,19 +26,6 @@
     "season": 2024
   },
   {
-    "id": "85f460b6c1fcd458190b052277800fda",
-    "venue": "Ballpark am See, Hard",
-    "home": "SG Indians - Bulls",
-    "away": "Feldkirch Falcons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2024-06-25T17:00:00.000Z",
-    "note": null,
-    "league": "2-sbl",
-    "season": 2024
-  },
-  {
     "id": "260e2d6a2d2d7e69378ec0df4c6326a3",
     "venue": "Ballpark Freudenau, Vienna",
     "home": "SG Indians - Bulls",
@@ -125,6 +112,19 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-09-07T13:00:00.000Z",
+    "note": null,
+    "league": "2-sbl",
+    "season": 2024
+  },
+  {
+    "id": "38d6346382a29eb978d60a7b28ae2484",
+    "venue": "Ballpark Feldkirch, Feldkirch",
+    "home": "SG Indians - Bulls",
+    "away": "Feldkirch Falcons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-09-16T11:00:00.000Z",
     "note": null,
     "league": "2-sbl",
     "season": 2024

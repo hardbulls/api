@@ -40,17 +40,29 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         if (CONFIG.crawlYears.includes(league.year)) {
             if (league.games) {
                 const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
-                    const apiGame = {
+                    const gameData  = {
                         ...game,
                         league: league.slug,
                         season: league.year
                     }
+                    const gameId = createHash('md5').update(JSON.stringify(gameData)).digest('hex');
 
-                    return {
-                        id: createHash('md5').update(JSON.stringify(apiGame)).digest('hex'),
-                        ...apiGame
+                    const apiGame = {
+                        id: gameId,
+                        ...gameData,
                     }
+
+                    if (OVERRIDES[gameId]) {
+                        return {
+                            ...apiGame,
+                            ...OVERRIDES[gameId]
+                        }
+                    }
+
+                    return apiGame;
                 })
+
+                games.sort((a, b) => a.date.getTime() - b.date.getTime());
 
                 const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
                 const standingsFile = path.resolve(leagueDirectory, `standings.json`,);
@@ -170,18 +182,11 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                     const gameDate = new Date(game.date);
 
                     if (gameDate > today && gameDate < nextWeek && game.status === GameStatus.SCHEDULED) {
-                        let upcomingGame = {
+                        const upcomingGame = {
                             ...game,
                             league: league.slug,
                             season: league.year
                         };
-
-                        if (game.id && OVERRIDES[game.id]) {
-                            upcomingGame = {
-                                ...upcomingGame,
-                                ...OVERRIDES[game.id]
-                            }
-                        }
 
                         upcomingWeekGames.push(upcomingGame);
                     }

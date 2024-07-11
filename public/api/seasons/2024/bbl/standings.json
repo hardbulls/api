@@ -5,20 +5,11 @@
       {
         "position": 1,
         "team": "Vienna Metrostars",
-        "wins": 12,
-        "loses": 5,
+        "wins": 13,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.706,
+        "winsPercentage": 0.65,
         "gamesBehind": 0
-      },
-      {
-        "position": 2,
-        "team": "Diving Ducks Wr. Neustadt",
-        "wins": 10,
-        "loses": 6,
-        "ties": 0,
-        "winsPercentage": 0.625,
-        "gamesBehind": 1.5
       },
       {
         "position": 2,
@@ -27,42 +18,51 @@
         "loses": 8,
         "ties": 0,
         "winsPercentage": 0.6,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 11,
+        "loses": 8,
+        "ties": 0,
+        "winsPercentage": 0.579,
         "gamesBehind": 1.5
       },
       {
         "position": 4,
         "team": "Hard Bulls",
-        "wins": 10,
-        "loses": 8,
+        "wins": 11,
+        "loses": 9,
         "ties": 0,
-        "winsPercentage": 0.556,
-        "gamesBehind": 2.5
+        "winsPercentage": 0.55,
+        "gamesBehind": 2
       },
       {
         "position": 5,
         "team": "Vienna Wanderers",
-        "wins": 8,
+        "wins": 11,
         "loses": 10,
         "ties": 0,
-        "winsPercentage": 0.444,
-        "gamesBehind": 4.5
+        "winsPercentage": 0.524,
+        "gamesBehind": 2.5
       },
       {
         "position": 6,
         "team": "Schwechat Blue Bats",
-        "wins": 7,
-        "loses": 11,
+        "wins": 8,
+        "loses": 12,
         "ties": 0,
-        "winsPercentage": 0.389,
-        "gamesBehind": 5.5
+        "winsPercentage": 0.4,
+        "gamesBehind": 5
       },
       {
         "position": 7,
         "team": "Traiskirchen Grasshoppers",
-        "wins": 4,
-        "loses": 15,
+        "wins": 5,
+        "loses": 17,
         "ties": 0,
-        "winsPercentage": 0.211,
+        "winsPercentage": 0.227,
         "gamesBehind": 9
       }
     ]

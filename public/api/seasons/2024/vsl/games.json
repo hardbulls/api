@@ -1,18 +1,5 @@
 [
   {
-    "id": "dbeb98cd054e4877a76e84f412c2d2f7",
-    "venue": ",",
-    "home": "Dornbirn Bears",
-    "away": "Hard Barons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "canceled",
-    "date": "2024-05-11T14:30:00.000Z",
-    "note": null,
-    "league": "vsl",
-    "season": 2024
-  },
-  {
     "id": "f77ade5637f5e8b164e60493648ae204",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Legends",
@@ -52,13 +39,13 @@
     "season": 2024
   },
   {
-    "id": "4c04771084972902569baca6351e18ca",
+    "id": "ef794b73a839e473a93c461f9f6c397e",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Redhawks",
     "away": "Hard Barons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 6,
+    "homeScore": 12,
+    "status": "finished",
     "date": "2024-06-22T13:00:00.000Z",
     "note": null,
     "league": "vsl",
@@ -79,13 +66,26 @@
   },
   {
     "id": "e3b3d2919520a2fea14a14a405020831",
-    "venue": ",",
+    "venue": "Ballpark am See, Hard",
     "home": "Hard Barons",
     "away": "Dornbirn Legends",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
     "date": "2024-07-06T15:30:00.000Z",
+    "note": null,
+    "league": "vsl",
+    "season": 2024
+  },
+  {
+    "id": "dbeb98cd054e4877a76e84f412c2d2f7",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Dornbirn Bears",
+    "away": "Hard Barons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2024-07-14T12:00:00.000Z",
     "note": null,
     "league": "vsl",
     "season": 2024

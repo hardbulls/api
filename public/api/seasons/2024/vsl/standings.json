@@ -5,7 +5,7 @@
       {
         "position": 1,
         "team": "Dornbirn Legends",
-        "wins": 2,
+        "wins": 4,
         "loses": 0,
         "ties": 0,
         "winsPercentage": 1,
@@ -14,38 +14,38 @@
       {
         "position": 2,
         "team": "Dornbirn Redhawks",
-        "wins": 2,
-        "loses": 1,
+        "wins": 3,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0.667,
-        "gamesBehind": 0.5
+        "winsPercentage": 0.6,
+        "gamesBehind": 1.5
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "Hard Barons",
         "wins": 2,
-        "loses": 1,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0.667,
-        "gamesBehind": 0.5
+        "winsPercentage": 0.5,
+        "gamesBehind": 2
       },
       {
         "position": 4,
         "team": "Dornbirn Bears",
-        "wins": 0,
-        "loses": 1,
+        "wins": 1,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 1.5
+        "winsPercentage": 0.333,
+        "gamesBehind": 2.5
       },
       {
         "position": 5,
         "team": "Feldkirch Angry Balls",
-        "wins": 0,
-        "loses": 3,
+        "wins": 1,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 2.5
+        "winsPercentage": 0.167,
+        "gamesBehind": 4
       }
     ]
   }

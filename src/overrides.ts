@@ -8,5 +8,12 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
         "date": new Date("2024-07-14T12:00:00.000Z"),
         "status": GameStatus.SCHEDULED,
         "venue": "Sportanlage Rohrbach, Dornbirn",
+    },
+    "b736049f07bb88460b9c0b9264a10d82": {
+      "status": GameStatus.CANCELED
+    },
+    "063b64da31d723f58d16ae91167a37d0": {
+      "status": GameStatus.CANCELED
     }
+    
 }

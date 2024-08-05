@@ -5,38 +5,38 @@
       {
         "position": 1,
         "team": "Feldkirch Cardinals",
-        "wins": 11,
-        "loses": 3,
-        "ties": 0,
-        "winsPercentage": 0.786,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
-        "team": "Schwaz Tigers",
-        "wins": 12,
-        "loses": 4,
+        "wins": 15,
+        "loses": 5,
         "ties": 0,
         "winsPercentage": 0.75,
         "gamesBehind": 0
       },
       {
-        "position": 3,
+        "position": 2,
         "team": "Dornbirn Indians 2",
-        "wins": 8,
+        "wins": 14,
         "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.571,
-        "gamesBehind": 3
+        "winsPercentage": 0.7,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Schwaz Tigers",
+        "wins": 14,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.7,
+        "gamesBehind": 1
       },
       {
         "position": 4,
         "team": "Hard Bulls Bandidos",
-        "wins": 1,
-        "loses": 13,
+        "wins": 3,
+        "loses": 17,
         "ties": 0,
-        "winsPercentage": 0.071,
-        "gamesBehind": 10
+        "winsPercentage": 0.15,
+        "gamesBehind": 12
       }
     ]
   },
@@ -46,38 +46,38 @@
       {
         "position": 1,
         "team": "ASAK Athletics",
-        "wins": 13,
+        "wins": 17,
         "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.813,
+        "winsPercentage": 0.85,
         "gamesBehind": 0
       },
       {
         "position": 2,
         "team": "Kufstein Vikings",
-        "wins": 7,
-        "loses": 9,
+        "wins": 9,
+        "loses": 11,
         "ties": 0,
-        "winsPercentage": 0.438,
-        "gamesBehind": 6
+        "winsPercentage": 0.45,
+        "gamesBehind": 8
       },
       {
         "position": 3,
         "team": "Centurions Wels",
-        "wins": 5,
-        "loses": 9,
+        "wins": 7,
+        "loses": 13,
         "ties": 0,
-        "winsPercentage": 0.357,
-        "gamesBehind": 7
+        "winsPercentage": 0.35,
+        "gamesBehind": 10
       },
       {
         "position": 4,
         "team": "Dirty Sox Graz",
         "wins": 1,
-        "loses": 11,
+        "loses": 19,
         "ties": 0,
-        "winsPercentage": 0.083,
-        "gamesBehind": 10
+        "winsPercentage": 0.05,
+        "gamesBehind": 16
       }
     ]
   }

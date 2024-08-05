@@ -65,13 +65,13 @@
     "season": 2024
   },
   {
-    "id": "aa7192209dc73cdfe50bab00f0b1be04",
+    "id": "a7269c1cfb57ae6a3c7d3004d790f100",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Dornbirn Indians Minis U8",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 8,
+    "homeScore": 9,
+    "status": "finished",
     "date": "2024-07-06T08:00:00.000Z",
     "note": null,
     "league": "u8",

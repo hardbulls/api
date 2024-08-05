@@ -4,6 +4,15 @@
     "results": [
       {
         "position": 1,
+        "team": "Hard Bulls U14",
+        "wins": 8,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.8,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
         "team": "Kufstein Vikings U14",
         "wins": 6,
         "loses": 0,
@@ -12,26 +21,17 @@
         "gamesBehind": 0
       },
       {
-        "position": 2,
-        "team": "Hard Bulls U14",
-        "wins": 7,
-        "loses": 2,
+        "position": 3,
+        "team": "Feldkirch Cardinals U14",
+        "wins": 1,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.778,
-        "gamesBehind": 0.5
+        "winsPercentage": 0.125,
+        "gamesBehind": 6
       },
       {
         "position": 3,
         "team": "Dornbirn Indians Ponies U14",
-        "wins": 1,
-        "loses": 6,
-        "ties": 0,
-        "winsPercentage": 0.143,
-        "gamesBehind": 5.5
-      },
-      {
-        "position": 4,
-        "team": "Feldkirch Cardinals U14",
         "wins": 1,
         "loses": 7,
         "ties": 0,

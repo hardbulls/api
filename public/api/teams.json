@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hb_1",
+    "name": "Hard Bulls",
+    "nameShort": "Bulls",
+    "logo": "logo_hb.png"
+  },
+  {
+    "id": "hb_2",
+    "name": "Hard Bandidos",
+    "nameShort": "Bandidos",
+    "logo": "logo_hb.png"
+  },
+  {
+    "id": "hb_3",
+    "name": "Hard Bullets",
+    "nameShort": "Bullets",
+    "logo": "logo_hb.png"
+  },
+  {
+    "id": "di_1",
+    "name": "Dornbirn Indians",
+    "nameShort": "Indians",
+    "logo": "logo_di.png"
+  },
+  {
+    "id": "vw_1",
+    "name": "Vienna Wanderers",
+    "nameShort": "Wandereres",
+    "logo": "logo_vw.png"
+  },
+  {
+    "id": "dd_1",
+    "name": "Diving Ducks Wiener Neustadt",
+    "nameShort": "Ducks",
+    "logo": "logo_dd.png"
+  },
+  {
+    "id": "gh_1",
+    "name": "Traiskirchen Grasshoppers",
+    "nameShort": "Grasshoppers",
+    "logo": "logo_gh.png"
+  },
+  {
+    "id": "kv_1",
+    "name": "Kufstein Vikings",
+    "nameShort": "Vikings",
+    "logo": "logo_kv.png"
+  },
+  {
+    "id": "bb_1",
+    "name": "Schwechat Blue Bats",
+    "nameShort": "Blue Bats",
+    "logo": "logo_bb.png"
+  },
+  {
+    "id": "fc_1",
+    "name": "Feldkirch Cardinals",
+    "nameShort": "Cardinals",
+    "logo": "logo_fc.png"
+  },
+  {
+    "id": "vm_1",
+    "name": "Vienna Metrostars",
+    "nameShort": "Metrostars",
+    "logo": "logo_vm.png"
+  },
+  {
+    "id": "ds_1",
+    "name": "Dirty Sox Graz",
+    "nameShort": "Dirty Sox",
+    "logo": "logo_dirty-sox.png"
+  },
+  {
+    "id": "st_1",
+    "name": "Schwaz Tigers",
+    "nameShort": "Tigers",
+    "logo": "logo_st.png"
+  },
+  {
+    "id": "aa_1",
+    "name": "Attnang-Puchheim Athletics",
+    "nameShort": "Athletics",
+    "logo": "logo_athletics.png"
+  },
+  {
+    "id": "cw_1",
+    "name": "Centurions Wels",
+    "nameShort": "Centurions",
+    "logo": "logo_centurions.png"
+  },
+  {
+    "id": "sc_1",
+    "name": "Stockerau Cubs",
+    "nameShort": "Cubs",
+    "logo": "logo_cubs.png"
+  },
+  {
+    "id": "hi_1",
+    "name": "Gramastetten Highlanders",
+    "nameShort": "Highlanders",
+    "logo": "logo_highlanders.png"
+  },
+  {
+    "id": "br_1",
+    "name": "Hallein Braves",
+    "nameShort": "Braves",
+    "logo": "logo_braves.png"
+  },
+  {
+    "id": "wp_1",
+    "name": "Wil Pirates",
+    "nameShort": "Pirates",
+    "logo": "logo_ch_pirates.png"
+  },
+  {
+    "id": "wd_1",
+    "name": "Wil Devils",
+    "nameShort": "Devils",
+    "logo": "logo_ch_devils.png"
+  }
+]

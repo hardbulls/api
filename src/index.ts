@@ -200,7 +200,10 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
     for (const league of CONFIG.leagues) {
         await aggregateStatistics(league.slug);
         await generateCalendar(league.name, league.slug);
+
     }
+
+    await fs.writeFile(path.resolve(baseOutputDir, 'leagues.json'), JSON.stringify(CONFIG.leagues, null, 2));
 
     await weeklyGames();
 })()

@@ -4,6 +4,15 @@
     "results": [
       {
         "position": 1,
+        "team": "ASAK Athletics",
+        "wins": 8,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.8,
+        "gamesBehind": 0
+      },
+      {
+        "position": 1,
         "team": "Feldkirch Falcons",
         "wins": 7,
         "loses": 1,
@@ -12,49 +21,40 @@
         "gamesBehind": 0
       },
       {
-        "position": 2,
-        "team": "ASAK Athletics",
-        "wins": 5,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.833,
-        "gamesBehind": 1
-      },
-      {
         "position": 3,
         "team": "Vienna Wanderers 2",
-        "wins": 5,
-        "loses": 3,
+        "wins": 6,
+        "loses": 4,
         "ties": 0,
-        "winsPercentage": 0.625,
+        "winsPercentage": 0.6,
         "gamesBehind": 2
       },
       {
         "position": 4,
         "team": "SG Indians - Bulls",
-        "wins": 2,
-        "loses": 4,
+        "wins": 3,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": 0.333,
+        "winsPercentage": 0.375,
         "gamesBehind": 4
       },
       {
         "position": 5,
         "team": "Pee Wees St. Pölten",
-        "wins": 2,
-        "loses": 6,
+        "wins": 3,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.25,
+        "winsPercentage": 0.3,
         "gamesBehind": 5
       },
       {
         "position": 6,
         "team": "SG Crazy Chicklets - Metrostars",
         "wins": 1,
-        "loses": 7,
+        "loses": 9,
         "ties": 0,
-        "winsPercentage": 0.125,
-        "gamesBehind": 6
+        "winsPercentage": 0.1,
+        "gamesBehind": 7
       }
     ]
   }

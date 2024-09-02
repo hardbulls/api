@@ -4,66 +4,66 @@
     "results": [
       {
         "position": 1,
-        "team": "Vienna Metrostars",
-        "wins": 14,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 16,
         "loses": 8,
         "ties": 0,
-        "winsPercentage": 0.636,
+        "winsPercentage": 0.667,
         "gamesBehind": 0
       },
       {
         "position": 2,
-        "team": "Diving Ducks Wr. Neustadt",
-        "wins": 13,
-        "loses": 8,
-        "ties": 0,
-        "winsPercentage": 0.619,
-        "gamesBehind": 0.5
-      },
-      {
-        "position": 3,
-        "team": "Hard Bulls",
-        "wins": 12,
+        "team": "Vienna Metrostars",
+        "wins": 14,
         "loses": 10,
         "ties": 0,
-        "winsPercentage": 0.545,
+        "winsPercentage": 0.583,
         "gamesBehind": 2
       },
       {
         "position": 3,
         "team": "Dornbirn Indians",
-        "wins": 12,
+        "wins": 14,
         "loses": 10,
         "ties": 0,
-        "winsPercentage": 0.545,
+        "winsPercentage": 0.583,
         "gamesBehind": 2
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls",
+        "wins": 13,
+        "loses": 11,
+        "ties": 0,
+        "winsPercentage": 0.542,
+        "gamesBehind": 3
       },
       {
         "position": 5,
         "team": "Vienna Wanderers",
         "wins": 12,
-        "loses": 11,
+        "loses": 12,
         "ties": 0,
-        "winsPercentage": 0.522,
-        "gamesBehind": 2.5
+        "winsPercentage": 0.5,
+        "gamesBehind": 4
       },
       {
         "position": 6,
         "team": "Schwechat Blue Bats",
         "wins": 9,
-        "loses": 13,
+        "loses": 15,
         "ties": 0,
-        "winsPercentage": 0.409,
-        "gamesBehind": 5
+        "winsPercentage": 0.375,
+        "gamesBehind": 7
       },
       {
         "position": 7,
         "team": "Traiskirchen Grasshoppers",
-        "wins": 5,
-        "loses": 17,
+        "wins": 6,
+        "loses": 18,
         "ties": 0,
-        "winsPercentage": 0.227,
-        "gamesBehind": 9
+        "winsPercentage": 0.25,
+        "gamesBehind": 10
       }
     ]
   }

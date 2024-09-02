@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2024,
+    "name": "Preseason",
+    "shortName": "Preseason",
+    "slug": "preseason"
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Bundesliga",
+    "shortName": "BBL",
+    "slug": "bbl",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/calendars?round=&team=29142&date="
+    ],
+    "statistics": {
+      "batting": "https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/batting",
+      "pitching": "https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/pitching",
+      "fielding": "https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/fielding"
+    }
+  },
+  {
+    "year": 2024,
+    "name": "Baseball 2. Bundesliga West",
+    "shortName": "2. BLW",
+    "slug": "2-blw",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/calendars?round=&team=29979&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Landesliga Vorarlberg",
+    "shortName": "LLV",
+    "slug": "llv",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/calendars?round=&team=30418&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Jugendliga Vorarlberg U16",
+    "shortName": "U16",
+    "slug": "u16",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/calendars?round=&team=30427&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Ponyliga Vorarlberg U14",
+    "shortName": "U14",
+    "slug": "u14",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/calendars?round=&team=30437&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Schülerliga Vorarlberg U12",
+    "shortName": "U12",
+    "slug": "u12",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/calendars?round=&team=30449&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Baseball Schülerliga Vorarlberg U10",
+    "shortName": "U10",
+    "slug": "u10",
+    "standings": "https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/calendars?round=&team=30458&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "T-Ball Vorarlberg U8",
+    "shortName": "U8",
+    "slug": "u8",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/baseball-t-ball-vorarlberg-u8-2024/calendars?round=&team=30461&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Vorarlberger Slowpitch League",
+    "shortName": "VSL",
+    "slug": "vsl",
+    "standings": "https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/calendars?round=&team=30484&date="
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "2. Softball Bundesliga",
+    "shortName": "2. SBL",
+    "slug": "2-sbl",
+    "standings": "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/standings",
+    "games": [
+      "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/calendars?round=&team=29317&date="
+    ]
+  }
+]

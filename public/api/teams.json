@@ -18,9 +18,40 @@
     "logo": "logo_hb.png"
   },
   {
+    "id": "hb_4_sp",
+    "name": "Hard Barons",
+    "nameShort": "Barons",
+    "logo": "logo_hb.png"
+  },
+  {
+    "id": "hb_3",
+    "name": "Hard Bullets",
+    "nameShort": "Bullets",
+    "logo": "logo_hb.png"
+  },
+  {
     "id": "di_1",
     "name": "Dornbirn Indians",
     "nameShort": "Indians",
+    "logo": "logo_di.png"
+  },
+  {
+    "id": "di_2_sp",
+    "name": "Dornbirn Legends",
+    "abbreviation": "DI",
+    "keywords": ["Dornbirn Legends"],
+    "logo": "logo_di.png"
+  },
+  {
+    "id": "di_3_sp",
+    "name": "Dornbirn Redhawks",
+    "nameShort": "Redhawks",
+    "logo": "logo_di.png"
+  },
+  {
+    "id": "di_4_sp",
+    "name": "Dornbirn Bears",
+    "nameShort": "Bears",
     "logo": "logo_di.png"
   },
   {
@@ -57,6 +88,18 @@
     "id": "fc_1",
     "name": "Feldkirch Cardinals",
     "nameShort": "Cardinals",
+    "logo": "logo_fc.png"
+  },
+  {
+    "id": "fc_2_fp",
+    "name": "Feldkirch Falcons",
+    "nameShort": "Falcons",
+    "logo": "logo_fc.png"
+  },
+  {
+    "id": "fc_2_sp",
+    "name": "Feldkirch Angry Balls",
+    "nameShort": "Angry Balls",
     "logo": "logo_fc.png"
   },
   {
@@ -118,5 +161,29 @@
     "name": "Wil Devils",
     "nameShort": "Devils",
     "logo": "logo_ch_devils.png"
+  },
+  {
+    "id": "di_kv_1",
+    "name": "SG Indians/Vikings",
+    "nameShort": "Indians/Vikings",
+    "logo": "logo_di.png+logo_kv.png"
+  },
+  {
+    "id": "di_hb_1",
+    "name": "SG Indians/Bulls",
+    "nameShort": "Indians/Bulls",
+    "logo": "logo_di.png"
+  },
+  {
+    "id": "cc_vw_1_fp",
+    "name": "SG Crazy Chicklets/Metrostars",
+    "nameShort": "Chiclets/Metros",
+    "logo": "logo_dd.png"
+  },
+  {
+    "id": "pw_1_fp",
+    "name": "Pee Wees St. Pölten",
+    "nameShort": "Pee Wees",
+    "logo": "logo_softball_pw.png"
   }
 ]

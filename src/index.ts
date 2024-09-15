@@ -198,8 +198,10 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
     }
 
     for (const league of CONFIG.leagues) {
-        await aggregateStatistics(league.slug);
-        await generateCalendar(league.name, league.slug);
+        if (CONFIG.crawlYears.includes(league.year)) {
+            await aggregateStatistics(league.slug);
+            await generateCalendar(league.name, league.slug);
+        }
 
     }
 

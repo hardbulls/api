@@ -1,33 +1,62 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Hard Bulls Bullets",
+        "wins": 4,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.667
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Indians 3",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Cardinals 2",
+        "wins": 2,
+        "loses": 4,
+        "ties": 0,
+        "winsPercentage": 0.333
+      }
+    ]
+  },
+  {
     "type": "REGULAR",
     "results": [
       {
         "position": 1,
         "team": "Hard Bulls Bullets",
-        "wins": 2,
-        "loses": 1,
+        "wins": 4,
+        "loses": 2,
         "ties": 0,
         "winsPercentage": 0.667,
         "gamesBehind": 0
       },
       {
-        "position": 1,
+        "position": 2,
         "team": "Dornbirn Indians 3",
         "wins": 2,
-        "loses": 1,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0.667,
-        "gamesBehind": 0
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
       },
       {
         "position": 3,
         "team": "Feldkirch Cardinals 2",
-        "wins": 1,
-        "loses": 3,
+        "wins": 2,
+        "loses": 4,
         "ties": 0,
-        "winsPercentage": 0.25,
-        "gamesBehind": 1.5
+        "winsPercentage": 0.333,
+        "gamesBehind": 2
       }
     ]
   }

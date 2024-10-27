@@ -1,51 +1,96 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Dornbirn Legends",
+        "wins": 8,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.889
+      },
+      {
+        "position": 2,
+        "team": "Feldkirch Angry Balls",
+        "wins": 5,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.417
+      },
+      {
+        "position": 3,
+        "team": "Dornbirn Bears",
+        "wins": 5,
+        "loses": 4,
+        "ties": 0,
+        "winsPercentage": 0.556
+      },
+      {
+        "position": 4,
+        "team": "Hard Barons",
+        "wins": 3,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.333
+      },
+      {
+        "position": 5,
+        "team": "Dornbirn Redhawks",
+        "wins": 3,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.333
+      }
+    ]
+  },
+  {
     "type": "REGULAR",
     "results": [
       {
         "position": 1,
         "team": "Dornbirn Legends",
-        "wins": 5,
+        "wins": 7,
         "loses": 1,
         "ties": 0,
-        "winsPercentage": 0.833,
+        "winsPercentage": 0.875,
         "gamesBehind": 0
       },
       {
         "position": 2,
         "team": "Dornbirn Bears",
         "wins": 5,
-        "loses": 2,
+        "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.714,
-        "gamesBehind": 0.5
-      },
-      {
-        "position": 3,
-        "team": "Dornbirn Redhawks",
-        "wins": 3,
-        "loses": 4,
-        "ties": 0,
-        "winsPercentage": 0.429,
-        "gamesBehind": 2.5
+        "winsPercentage": 0.625,
+        "gamesBehind": 2
       },
       {
         "position": 3,
         "team": "Hard Barons",
         "wins": 3,
-        "loses": 4,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": 0.429,
-        "gamesBehind": 2.5
+        "winsPercentage": 0.375,
+        "gamesBehind": 4
+      },
+      {
+        "position": 4,
+        "team": "Dornbirn Redhawks",
+        "wins": 3,
+        "loses": 5,
+        "ties": 0,
+        "winsPercentage": 0.375,
+        "gamesBehind": 4
       },
       {
         "position": 5,
         "team": "Feldkirch Angry Balls",
-        "wins": 1,
+        "wins": 2,
         "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.143,
-        "gamesBehind": 4.5
+        "winsPercentage": 0.25,
+        "gamesBehind": 5
       }
     ]
   }

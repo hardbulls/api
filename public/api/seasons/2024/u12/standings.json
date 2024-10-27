@@ -1,33 +1,62 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Feldkirch Cardinals U12",
+        "wins": 9,
+        "loses": 6,
+        "ties": 0,
+        "winsPercentage": 0.6
+      },
+      {
+        "position": 2,
+        "team": "Dornbirn Little Indians U12",
+        "wins": 6,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.375
+      },
+      {
+        "position": 3,
+        "team": "Hard Bulls U12",
+        "wins": 8,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.533
+      }
+    ]
+  },
+  {
     "type": "REGULAR",
     "results": [
       {
         "position": 1,
-        "team": "Hard Bulls U12",
+        "team": "Feldkirch Cardinals U12",
         "wins": 8,
-        "loses": 4,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.667,
+        "winsPercentage": 0.571,
         "gamesBehind": 0
       },
       {
-        "position": 2,
-        "team": "Feldkirch Cardinals U12",
-        "wins": 6,
+        "position": 1,
+        "team": "Hard Bulls U12",
+        "wins": 8,
         "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 2
+        "winsPercentage": 0.571,
+        "gamesBehind": 0
       },
       {
         "position": 3,
         "team": "Dornbirn Little Indians U12",
-        "wins": 4,
-        "loses": 8,
+        "wins": 5,
+        "loses": 9,
         "ties": 0,
-        "winsPercentage": 0.333,
-        "gamesBehind": 4
+        "winsPercentage": 0.357,
+        "gamesBehind": 3
       }
     ]
   }

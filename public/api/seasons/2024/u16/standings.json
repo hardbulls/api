@@ -1,33 +1,62 @@
 [
   {
-    "type": "REGULAR",
+    "type": "FINAL",
     "results": [
       {
         "position": 1,
         "team": "Hard Bulls U16",
-        "wins": 6,
-        "loses": 2,
-        "ties": 0,
-        "winsPercentage": 0.75,
-        "gamesBehind": 0
+        "wins": 9,
+        "loses": 3,
+        "ties": 1,
+        "winsPercentage": 0.731
       },
       {
-        "position": 1,
+        "position": 2,
         "team": "SG Indians - Vikings U16",
-        "wins": 6,
-        "loses": 2,
+        "wins": 8,
+        "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.75,
-        "gamesBehind": 0
+        "winsPercentage": 0.727
       },
       {
         "position": 3,
         "team": "Feldkirch Cardinals U16",
         "wins": 0,
-        "loses": 8,
+        "loses": 11,
+        "ties": 1,
+        "winsPercentage": 0.042
+      }
+    ]
+  },
+  {
+    "type": "REGULAR",
+    "results": [
+      {
+        "position": 1,
+        "team": "SG Indians - Vikings U16",
+        "wins": 8,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 6
+        "winsPercentage": 0.8,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls U16",
+        "wins": 7,
+        "loses": 3,
+        "ties": 1,
+        "winsPercentage": 0.682,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Cardinals U16",
+        "wins": 0,
+        "loses": 10,
+        "ties": 1,
+        "winsPercentage": 0.045,
+        "gamesBehind": 8
       }
     ]
   }

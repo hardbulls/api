@@ -27,7 +27,7 @@ export type FixNamesConfig = {
 
 export const CONFIG: Config = {
     output: '../public/api/',
-    crawlYears: [2024],
+    crawlYears: [],
     aggregateYears: 3,
     timezone: 'Europe/Vienna',
     defaultGameDuration: 120,

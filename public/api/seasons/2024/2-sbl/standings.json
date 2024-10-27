@@ -1,24 +1,77 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "ASAK Athletics",
+        "wins": 10,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.833
+      },
+      {
+        "position": 2,
+        "team": "Vienna Wanderers 2",
+        "wins": 8,
+        "loses": 5,
+        "ties": 0,
+        "winsPercentage": 0.615
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Falcons",
+        "wins": 9,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.75
+      },
+      {
+        "position": 4,
+        "team": "Pee Wees St. Pölten",
+        "wins": 3,
+        "loses": 8,
+        "ties": 0,
+        "winsPercentage": 0.273
+      },
+      {
+        "position": 5,
+        "team": "SG Indians - Bulls",
+        "wins": 3,
+        "loses": 7,
+        "ties": 0,
+        "winsPercentage": 0.3
+      },
+      {
+        "position": 6,
+        "team": "SG Crazy Chicklets - Metrostars",
+        "wins": 1,
+        "loses": 9,
+        "ties": 0,
+        "winsPercentage": 0.1
+      }
+    ]
+  },
+  {
     "type": "REGULAR",
     "results": [
       {
         "position": 1,
+        "team": "Feldkirch Falcons",
+        "wins": 9,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.9,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
         "team": "ASAK Athletics",
         "wins": 8,
         "loses": 2,
         "ties": 0,
         "winsPercentage": 0.8,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
-        "team": "Feldkirch Falcons",
-        "wins": 7,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.875,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
         "position": 3,
@@ -27,25 +80,25 @@
         "loses": 4,
         "ties": 0,
         "winsPercentage": 0.6,
-        "gamesBehind": 2
+        "gamesBehind": 3
       },
       {
         "position": 4,
         "team": "SG Indians - Bulls",
         "wins": 3,
-        "loses": 5,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.375,
-        "gamesBehind": 4
+        "winsPercentage": 0.3,
+        "gamesBehind": 6
       },
       {
-        "position": 5,
+        "position": 4,
         "team": "Pee Wees St. Pölten",
         "wins": 3,
         "loses": 7,
         "ties": 0,
         "winsPercentage": 0.3,
-        "gamesBehind": 5
+        "gamesBehind": 6
       },
       {
         "position": 6,
@@ -54,7 +107,7 @@
         "loses": 9,
         "ties": 0,
         "winsPercentage": 0.1,
-        "gamesBehind": 7
+        "gamesBehind": 8
       }
     ]
   }

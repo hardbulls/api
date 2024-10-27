@@ -1,5 +1,66 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Diving Ducks Wr. Neustadt",
+        "wins": 22,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.688
+      },
+      {
+        "position": 2,
+        "team": "Vienna Metrostars",
+        "wins": 19,
+        "loses": 14,
+        "ties": 0,
+        "winsPercentage": 0.576
+      },
+      {
+        "position": 3,
+        "team": "Dornbirn Indians",
+        "wins": 15,
+        "loses": 13,
+        "ties": 0,
+        "winsPercentage": 0.536
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls",
+        "wins": 13,
+        "loses": 14,
+        "ties": 0,
+        "winsPercentage": 0.481
+      },
+      {
+        "position": 5,
+        "team": "Vienna Wanderers",
+        "wins": 12,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 6,
+        "team": "Schwechat Blue Bats",
+        "wins": 9,
+        "loses": 15,
+        "ties": 0,
+        "winsPercentage": 0.375
+      },
+      {
+        "position": 7,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 6,
+        "loses": 18,
+        "ties": 0,
+        "winsPercentage": 0.25
+      }
+    ]
+  },
+  {
     "type": "REGULAR",
     "results": [
       {

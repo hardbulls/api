@@ -1,6 +1,6 @@
 [
   {
-    "id": "61a94dd24f0c6d0aad9cf401d2c7eca2",
+    "id": "1e0a129776e3c790b34a6a6297272593",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Bulls",
     "away": "Pee Wees St. Pölten",
@@ -8,12 +8,12 @@
     "homeScore": 14,
     "status": "finished",
     "date": "2024-06-15T09:00:00.000Z",
-    "note": null,
+    "note": "Pee Wees St. Pölten",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "6ecee770ec889fbe829045aa00f3f5a3",
+    "id": "811132f0d022712083ec35c503440595",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Pee Wees St. Pölten",
     "away": "SG Indians - Bulls",
@@ -21,12 +21,12 @@
     "homeScore": 14,
     "status": "finished",
     "date": "2024-06-15T11:00:00.000Z",
-    "note": null,
+    "note": "SG Indians - Bulls",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "3869e161deaf26cc59cb38a1e7276986",
+    "id": "f43121ee416ac65e2291d38049042c54",
     "venue": "Ballpark Freudenau, Vienna",
     "home": "SG Indians - Bulls",
     "away": "SG Crazy Chicklets - Metrostars",
@@ -34,12 +34,12 @@
     "homeScore": 16,
     "status": "finished",
     "date": "2024-07-20T09:00:00.000Z",
-    "note": null,
+    "note": "SG Crazy Chicklets - Metrostars",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "f1f3ee5ac2055f1424fd1bd906ec2d89",
+    "id": "c01607dd183573be27c3202c51ee57e2",
     "venue": "Ballpark Freudenau, Vienna",
     "home": "SG Indians - Bulls",
     "away": "ASAK Athletics",
@@ -47,12 +47,12 @@
     "homeScore": 10,
     "status": "finished",
     "date": "2024-07-20T11:15:00.000Z",
-    "note": null,
+    "note": "ASAK Athletics",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "172dcef60db434d6145b3389c6b45498",
+    "id": "8700a4c7bbd8b8b96d1324119f8886d5",
     "venue": "Ducksfield, Wiener Neustadt",
     "home": "SG Crazy Chicklets - Metrostars",
     "away": "SG Indians - Bulls",
@@ -60,12 +60,12 @@
     "homeScore": 6,
     "status": "finished",
     "date": "2024-07-21T09:00:00.000Z",
-    "note": null,
+    "note": "SG Indians - Bulls",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "b20d4c31314506ee095ab8e1e0144e40",
+    "id": "23e8b1819e96a8094ec2bfb72ff77ccc",
     "venue": "Ducksfield, Wiener Neustadt",
     "home": "SG Indians - Bulls",
     "away": "Vienna Wanderers 2",
@@ -73,12 +73,12 @@
     "homeScore": 0,
     "status": "finished",
     "date": "2024-07-21T11:15:00.000Z",
-    "note": null,
+    "note": "Vienna Wanderers 2",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "8bfcdb2124189f6cfb475a6d7b8d3915",
+    "id": "e35993f2ebf6d931a953b571abd48b4a",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "SG Indians - Bulls",
@@ -86,12 +86,12 @@
     "homeScore": 17,
     "status": "finished",
     "date": "2024-08-24T12:30:00.000Z",
-    "note": null,
+    "note": "SG Indians - Bulls",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "017e3fcb2bbf882fe4ab430be8dedd08",
+    "id": "9cf5ad1812fd8bb35708b98bb082261e",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "Vienna Wanderers 2",
     "away": "SG Indians - Bulls",
@@ -99,33 +99,33 @@
     "homeScore": 14,
     "status": "finished",
     "date": "2024-08-24T14:45:00.000Z",
-    "note": null,
+    "note": "SG Indians - Bulls",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "ad1b439f11c900abb64be410a128aa7e",
+    "id": "a154ca3b66f639bd28b95038c04f3a19",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "SG Indians - Bulls",
     "away": "Feldkirch Falcons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 18,
+    "homeScore": 6,
+    "status": "finished",
     "date": "2024-09-07T11:00:00.000Z",
-    "note": null,
+    "note": "Feldkirch Falcons",
     "league": "2-sbl",
     "season": 2024
   },
   {
-    "id": "594e05160e067557aaf133468778a7d0",
+    "id": "9826ded503d888e518b0846eb14b393d",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Falcons",
     "away": "SG Indians - Bulls",
     "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "homeScore": 7,
+    "status": "finished",
     "date": "2024-09-07T13:00:00.000Z",
-    "note": null,
+    "note": "SG Indians - Bulls",
     "league": "2-sbl",
     "season": 2024
   }

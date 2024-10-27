@@ -1,42 +1,79 @@
 [
   {
-    "type": "REGULAR",
+    "type": "FINAL",
     "results": [
       {
         "position": 1,
-        "team": "Hard Bulls U14",
-        "wins": 8,
-        "loses": 2,
-        "ties": 0,
-        "winsPercentage": 0.8,
-        "gamesBehind": 0
-      },
-      {
-        "position": 1,
         "team": "Kufstein Vikings U14",
-        "wins": 6,
-        "loses": 0,
+        "wins": 11,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": 1,
-        "gamesBehind": 0
+        "winsPercentage": 0.917
       },
       {
-        "position": 3,
-        "team": "Feldkirch Cardinals U14",
-        "wins": 1,
-        "loses": 7,
+        "position": 2,
+        "team": "Hard Bulls U14",
+        "wins": 10,
+        "loses": 4,
         "ties": 0,
-        "winsPercentage": 0.125,
-        "gamesBehind": 6
+        "winsPercentage": 0.714
       },
       {
         "position": 3,
         "team": "Dornbirn Indians Ponies U14",
-        "wins": 1,
-        "loses": 7,
+        "wins": 3,
+        "loses": 11,
         "ties": 0,
-        "winsPercentage": 0.125,
-        "gamesBehind": 6
+        "winsPercentage": 0.214
+      },
+      {
+        "position": 4,
+        "team": "Feldkirch Cardinals U14",
+        "wins": 2,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.167
+      }
+    ]
+  },
+  {
+    "type": "REGULAR",
+    "results": [
+      {
+        "position": 1,
+        "team": "Kufstein Vikings U14",
+        "wins": 9,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.9,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls U14",
+        "wins": 9,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.75,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "Feldkirch Cardinals U14",
+        "wins": 2,
+        "loses": 8,
+        "ties": 0,
+        "winsPercentage": 0.2,
+        "gamesBehind": 7
+      },
+      {
+        "position": 4,
+        "team": "Dornbirn Indians Ponies U14",
+        "wins": 2,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.167,
+        "gamesBehind": 8
       }
     ]
   }

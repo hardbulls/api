@@ -1,6 +1,6 @@
 [
   {
-    "id": "b32340c8b119e16ace631fbbf5c91321",
+    "id": "1bf774219a510c227ac4b7f6de6ec6f8",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Centurions Wels",
@@ -8,12 +8,12 @@
     "homeScore": 3,
     "status": "finished",
     "date": "2024-04-14T10:00:00.000Z",
-    "note": null,
+    "note": "Centurions Wels",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "0f2839d5f7d1bc7fea0097e3b702b154",
+    "id": "dc16d48d808d6a4e326a50da575f9ab5",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Centurions Wels",
@@ -21,12 +21,12 @@
     "homeScore": 7,
     "status": "finished",
     "date": "2024-04-14T12:30:00.000Z",
-    "note": null,
+    "note": "Centurions Wels",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "3ef9e4613be608f1e3c84d3cea3ac87e",
+    "id": "ff50f72b679950270d702dca8b5df26c",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Schwaz Tigers",
@@ -34,12 +34,12 @@
     "homeScore": 6,
     "status": "finished",
     "date": "2024-05-05T11:00:00.000Z",
-    "note": null,
+    "note": "Schwaz Tigers",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "021dd2b89ff4f3766559f6a7ac6092d4",
+    "id": "f22a12988281da80340cd0994b24d312",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Schwaz Tigers",
@@ -47,12 +47,12 @@
     "homeScore": 7,
     "status": "finished",
     "date": "2024-05-05T13:30:00.000Z",
-    "note": null,
+    "note": "Schwaz Tigers",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "7532dad61a5974448b9ad4194c72fcc0",
+    "id": "f675f43e611db2101f9c0af70fac5eed",
     "venue": "Tigersfield, Schwaz",
     "home": "Schwaz Tigers",
     "away": "Hard Bulls Bandidos",
@@ -60,12 +60,12 @@
     "homeScore": 15,
     "status": "finished",
     "date": "2024-05-25T11:00:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "29dc38a8657304c62d864dee72a57a45",
+    "id": "28f56cf13133a27e15c6b47676893d73",
     "venue": "Tigersfield, Schwaz",
     "home": "Schwaz Tigers",
     "away": "Hard Bulls Bandidos",
@@ -73,12 +73,12 @@
     "homeScore": 10,
     "status": "finished",
     "date": "2024-05-25T13:30:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "6ad76b5b01650971fbb3c1eeadb819a0",
+    "id": "095409fd2913859f630140b6413f3a0c",
     "venue": "Erich Silverio Field, Ebbs",
     "home": "Kufstein Vikings",
     "away": "Hard Bulls Bandidos",
@@ -86,12 +86,12 @@
     "homeScore": 6,
     "status": "finished",
     "date": "2024-06-09T11:00:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "61a841d6e206bbe333e9ae58623b32f3",
+    "id": "c8293c06801e21ec5e59f2282383f080",
     "venue": "Erich Silverio Field, Ebbs",
     "home": "Kufstein Vikings",
     "away": "Hard Bulls Bandidos",
@@ -99,12 +99,12 @@
     "homeScore": 14,
     "status": "finished",
     "date": "2024-06-09T13:30:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "96cd278d9161c56e57cb3c6f7625aebb",
+    "id": "45d9197cf2cb9ba8f5a631ac4f8294d1",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals",
     "away": "Hard Bulls Bandidos",
@@ -112,12 +112,12 @@
     "homeScore": 5,
     "status": "finished",
     "date": "2024-06-16T12:00:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "7042de9bea56170b3ad4fbc7c94bdbd8",
+    "id": "914767863e629e551d76d2fb7cde1dce",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals",
     "away": "Hard Bulls Bandidos",
@@ -125,12 +125,12 @@
     "homeScore": 11,
     "status": "finished",
     "date": "2024-06-16T14:30:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "9f423fc563a9980b51c04e6599cec262",
+    "id": "ed1423ece55e5ac48155454b32ef6b25",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Feldkirch Cardinals",
@@ -138,12 +138,12 @@
     "homeScore": 4,
     "status": "finished",
     "date": "2024-06-30T11:00:00.000Z",
-    "note": null,
+    "note": "Feldkirch Cardinals",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "06fab80ef349e1769f2a39089fb1105d",
+    "id": "8384500326f2bdbe6cb4030aa75f7555",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Feldkirch Cardinals",
@@ -151,12 +151,12 @@
     "homeScore": 3,
     "status": "finished",
     "date": "2024-06-30T13:30:00.000Z",
-    "note": null,
+    "note": "Feldkirch Cardinals",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "1e5d3723c909b5168b808cd0ce1ecc4e",
+    "id": "f3aa78dab55657f06b371f8dcc40c5f5",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "Hard Bulls Bandidos",
@@ -164,12 +164,12 @@
     "homeScore": 10,
     "status": "finished",
     "date": "2024-07-06T12:00:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "db457213243b7e39eb336850b2d560fc",
+    "id": "7551affb90b03448ed60003565f9ebd2",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "Hard Bulls Bandidos",
@@ -177,12 +177,12 @@
     "homeScore": 11,
     "status": "finished",
     "date": "2024-07-06T14:30:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "cf1b3af055a5fbaa55137c7af41fc535",
+    "id": "d4e619b7201bdab02d057053639118b4",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dornbirn Indians 2",
@@ -190,12 +190,12 @@
     "homeScore": 2,
     "status": "finished",
     "date": "2024-07-20T12:00:00.000Z",
-    "note": null,
+    "note": "Dornbirn Indians 2",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "2405041909bacd685992f49748718f41",
+    "id": "115a996d4c6aba0cf58e26203307263c",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dornbirn Indians 2",
@@ -203,12 +203,12 @@
     "homeScore": 4,
     "status": "finished",
     "date": "2024-07-20T14:30:00.000Z",
-    "note": null,
+    "note": "Dornbirn Indians 2",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "f5fce56201051cd97df72d7c9984087b",
+    "id": "c4aadd1898f02603185e1dee5c84f663",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 2",
     "away": "Hard Bulls Bandidos",
@@ -216,12 +216,12 @@
     "homeScore": 10,
     "status": "finished",
     "date": "2024-07-28T11:00:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "bd195298f96bf612741971842ff1fba3",
+    "id": "e8c3eca5237935d656689c4568774864",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 2",
     "away": "Hard Bulls Bandidos",
@@ -229,12 +229,12 @@
     "homeScore": 11,
     "status": "finished",
     "date": "2024-07-28T13:30:00.000Z",
-    "note": null,
+    "note": "Hard Bulls Bandidos",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "c7a22eae73e61ec935d626ebcc6d66ff",
+    "id": "fc9a6dd40827a023c13854e4542ccd2a",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dirty Sox Graz",
@@ -242,12 +242,12 @@
     "homeScore": 7,
     "status": "forfeit",
     "date": "2024-08-11T09:00:00.000Z",
-    "note": null,
+    "note": "Dirty Sox Graz",
     "league": "2-blw",
     "season": 2024
   },
   {
-    "id": "e8a03848db603ef9bdad57d793b13af2",
+    "id": "01d5adcbbd2a333068203422d984e147",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dirty Sox Graz",
@@ -255,7 +255,7 @@
     "homeScore": 7,
     "status": "forfeit",
     "date": "2024-08-11T11:30:00.000Z",
-    "note": null,
+    "note": "Dirty Sox Graz",
     "league": "2-blw",
     "season": 2024
   }

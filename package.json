@@ -1,6 +1,6 @@
 {
   "name": "@hardbulls/api",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": true,
   "description": "Static API",
   "main": "dist/index.js",
@@ -32,7 +32,7 @@
     "dist"
   ],
   "dependencies": {
-    "@hardbulls/wbsc-crawler": "^0.4.6",
+    "@hardbulls/wbsc-crawler": "^0.4.8",
     "@touch4it/ical-timezones": "^1.9.0",
     "date-fns": "^3.6.0",
     "ical-generator": "^7.1.0"

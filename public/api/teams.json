@@ -193,21 +193,21 @@
     "id": "di_kv_1",
     "name": "SG Indians/Vikings",
     "nameShort": "Indians/Vikings",
-    "logo": "logo_di.png+logo_kv.png",
+    "logo": "logo_kv_di.png",
     "country": "at"
   },
   {
     "id": "di_hb_1",
     "name": "SG Indians/Bulls",
     "nameShort": "Indians/Bulls",
-    "logo": "logo_di.png",
+    "logo": "logo_di_hb.png",
     "country": "at"
   },
   {
     "id": "cc_vw_1_fp",
     "name": "SG Crazy Chicklets/Metrostars",
-    "nameShort": "Chiclets/Metros",
-    "logo": "logo_dd.png",
+    "nameShort": "Chicklets/Metros",
+    "logo": "logo_crazy_chicklets_metrostars.png",
     "country": "at"
   },
   {

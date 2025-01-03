@@ -35,6 +35,13 @@
     "country": "at"
   },
   {
+    "id": "hb_5_fp",
+    "name": "Hard Bandidas",
+    "nameShort": "Bandidas",
+    "logo": "logo_hb.png",
+    "country": "at"
+  },
+  {
     "id": "di_1",
     "name": "Dornbirn Indians",
     "nameShort": "Indians",
@@ -222,6 +229,13 @@
     "name": "Baldham Boars",
     "shortName": "Boars",
     "logo": "logo_de_boars.png",
+    "country": "de"
+  },
+  {
+    "id": "de-br_1",
+    "name": "Füssen Royal Bavarians",
+    "shortName": "Royals",
+    "logo": "logo_de_royals.png",
     "country": "de"
   },
   {

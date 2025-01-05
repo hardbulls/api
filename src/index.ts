@@ -7,6 +7,7 @@ import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatist
 import {fileExists} from "./files";
 import {createHash} from 'crypto';
 import {OVERRIDES} from './overrides';
+import { fetchEvents } from "./events";
 
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
@@ -34,6 +35,12 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
 (async () => {
     const baseOutputDir = path.join(__dirname, CONFIG.output)
+
+    if (CONFIG.eventsUrl) {
+        const events = await fetchEvents(CONFIG.eventsUrl)
+
+        await fs.writeFile(path.resolve(path.join(baseOutputDir, 'events.json')), JSON.stringify(events, null, 2));
+    }
 
     for (const league of CONFIG.leagues) {
         if (CONFIG.crawlYears.includes(league.year)) {

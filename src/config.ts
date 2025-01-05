@@ -2,6 +2,7 @@ export interface Config {
     output: string;
     aggregateYears: number;
     defaultGameDuration: number;
+    eventsUrl?: string;
     leagues: Array<{
         year: number;
         name: string;
@@ -27,6 +28,7 @@ export type FixNamesConfig = {
 
 export const CONFIG: Config = {
     output: '../public/api/',
+    eventsUrl: 'https://www.hardbulls.com/events/data',
     crawlYears: [],
     aggregateYears: 3,
     timezone: 'Europe/Vienna',

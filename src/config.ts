@@ -27,7 +27,7 @@ export type FixNamesConfig = {
 }
 
 export const CONFIG: Config = {
-    output: '../public/api/',
+    output: '../public/',
     eventsUrl: 'https://www.hardbulls.com/events/data',
     crawlYears: [],
     aggregateYears: 3,

@@ -1,6 +1,26 @@
+import fs from 'fs/promises';
+import { createWriteStream } from 'fs';
 import { JSDOM } from "jsdom";
+import { createHash } from 'crypto';
 
-export async function fetchEvents(url: string) {
+import https from 'https';
+import path from 'path';
+import { IncomingMessage } from 'http';
+
+async function downloadImage(url: string, filepath: string): Promise<void> {
+    const res = await fetch(url);
+
+    if (!res.ok) {
+        throw new Error(`Failed to download image, status code: ${res.status}`);
+    }
+
+    await fs.mkdir(path.dirname(filepath), { recursive: true });
+
+    const buffer = await res.arrayBuffer();
+    await fs.writeFile(filepath, Buffer.from(buffer));
+}
+
+export async function fetchEvents(url: string, imageDir: string): Promise<any> {
     const html = await (await fetch(url, { method: 'GET' })).text();
     const dom = new JSDOM(html);
 
@@ -62,7 +82,9 @@ export async function fetchEvents(url: string) {
         rows.push(rowData);
     }
 
-    return rows.map(row => {
+    let transformedRows = [];
+
+    for (const row of rows) {
         const title = {
             de: row['title.de'],
             en: row['title.en']
@@ -73,12 +95,26 @@ export async function fetchEvents(url: string) {
             en: row['description.en']
         };
 
-        return {
+        let image = null;
+
+        if (row.image) {
+            const filename = createHash('md5').update(JSON.stringify(row.image)).digest('hex');
+
+            await downloadImage(row.image, path.resolve(path.join(imageDir, filename)));
+
+            image = filename
+        }
+
+        transformedRows.push({
             title,
             description,
             date: row.date,
             venue: row.venue,
-            image: row.image
-        };
-    });
+            image: image
+        });
+    };
+
+    console.log(transformedRows);
+
+    return transformedRows;
 }

@@ -34,10 +34,11 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 }
 
 (async () => {
-    const baseOutputDir = path.join(__dirname, CONFIG.output)
+    const baseOutputDir = path.join(__dirname, CONFIG.output, 'api')
 
     if (CONFIG.eventsUrl) {
-        const events = await fetchEvents(CONFIG.eventsUrl)
+        const eventImageDir = path.resolve(path.join(__dirname, CONFIG.output, 'assets', 'events'));
+        const events = await fetchEvents(CONFIG.eventsUrl, eventImageDir)
 
         await fs.writeFile(path.resolve(path.join(baseOutputDir, 'events.json')), JSON.stringify(events, null, 2));
     }

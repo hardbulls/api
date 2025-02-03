@@ -3,3 +3,5 @@
 .DS_Store
 /public/assets/events
 /public/api/events.json
+/public/api/leagues.json
+/public/api/weekly-games.json

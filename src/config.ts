@@ -10,6 +10,7 @@ export interface Config {
         shortName: string;
         standings?: string;
         slug: string
+        logo?: string;
         statistics?: {
             batting?: string;
             pitching?: string;
@@ -95,7 +96,8 @@ export const CONFIG: Config = {
                 batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/batting',
                 pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/pitching',
                 fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2024/stats/general/team/29142/all/fielding'
-            }
+            },
+            logo: "bbl.svg"
         },
         {
             year: 2024,
@@ -103,7 +105,8 @@ export const CONFIG: Config = {
             shortName: '2. BLW',
             slug: '2-blw',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/calendars?round=&team=29979&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2024/calendars?round=&team=29979&date='],
+            logo: "2-blw.svg"
         },
         {
             year: 2024,
@@ -111,7 +114,8 @@ export const CONFIG: Config = {
             shortName: 'LLV',
             slug: 'llv',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/calendars?round=&team=30418&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2024/calendars?round=&team=30418&date='],
+            logo: "llv.svg"
         },
         {
             year: 2024,
@@ -127,7 +131,8 @@ export const CONFIG: Config = {
             shortName: 'U14',
             slug: 'u14',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/calendars?round=&team=30437&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2024/calendars?round=&team=30437&date='],
+            logo: "u14.svg"
         },
         {
             year: 2024,
@@ -137,7 +142,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2024/calendars?round=&team=30449&date=',
-            ]
+            ],
+            logo: "u12.svg"
         },
         {
             year: 2024,
@@ -147,7 +153,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2024/calendars?round=&team=30458&date=',
-            ]
+            ],
+            logo: "u10.svg"
         },
         {
             year: 2024,
@@ -156,7 +163,8 @@ export const CONFIG: Config = {
             slug: 'u8',
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-t-ball-vorarlberg-u8-2024/calendars?round=&team=30461&date=',
-            ]
+            ],
+            logo: "u8_t-ball.svg"
         },
         {
             year: 2024,
@@ -166,7 +174,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2024/calendars?round=&team=30484&date='
-            ]
+            ],
+            logo: "vsl.svg"
         },
         {
             year: 2024,
@@ -176,7 +185,8 @@ export const CONFIG: Config = {
             standings: "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/standings",
             games: [
                 "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/calendars?round=&team=29317&date="
-            ]
+            ],
+            logo: "2-sbl.svg"
         },
         {
             year: 2023,
@@ -189,7 +199,8 @@ export const CONFIG: Config = {
                 batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/batting',
                 pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/pitching',
                 fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2023/stats/general/team/24492/all/fielding'
-            }
+            },
+            logo: "bbl.svg"
         },
         {
             year: 2022,
@@ -202,7 +213,8 @@ export const CONFIG: Config = {
                 batting: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/batting',
                 pitching: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/pitching',
                 fielding: 'https://www.baseballsoftball.at/de/events/2022-baseball-bundesliga/stats/general/team/20357/all/fielding'
-            }
+            },
+            logo: "bbl.svg"
         },
         {
             year: 2021,
@@ -215,7 +227,8 @@ export const CONFIG: Config = {
                 batting: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/batting',
                 pitching: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/pitching',
                 fielding: 'https://www.baseballsoftball.at/de/events/2021-baseball-bundesliga/stats/general/team/2572/all/fielding'
-            }
+            },
+            logo: "bbl.svg"
         },
         {
             year: 2023,
@@ -223,7 +236,8 @@ export const CONFIG: Config = {
             shortName: 'NL/BBL Playoffs',
             slug: 'nl-bbl-playoffs',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-nationalliga-baseball-bundesliga-playoffs-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-nationalliga-baseball-bundesliga-playoffs-2023/calendars?round=&team=27722&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-nationalliga-baseball-bundesliga-playoffs-2023/calendars?round=&team=27722&date='],
+            logo: "nl-bbl-playoffs.svg"
         },
         {
             year: 2023,
@@ -231,7 +245,8 @@ export const CONFIG: Config = {
             shortName: '2. BLW',
             slug: '2-blw',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2023/calendars?round=&team=24618&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2023/calendars?round=&team=24618&date='],
+            logo: "2-blw.svg"
         },
         {
             year: 2023,
@@ -239,7 +254,8 @@ export const CONFIG: Config = {
             shortName: 'LLV',
             slug: 'llv',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2023/calendars?round=&team=24636&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2023/calendars?round=&team=24636&date='],
+            logo: "llv.svg"
         },
         {
             year: 2023,
@@ -247,7 +263,8 @@ export const CONFIG: Config = {
             shortName: 'U16',
             slug: 'u16',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2023/calendars?round=&team=24820']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2023/calendars?round=&team=24820'],
+            logo: "u16.svg"
         },
         {
             year: 2023,
@@ -255,7 +272,10 @@ export const CONFIG: Config = {
             shortName: 'U14',
             slug: 'u14',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2023/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2023/calendars?round=&team=24821']
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-ponyliga-vorarlberg-u14-2023/calendars?round=&team=24821'
+            ],
+            logo: "u14.svg"
         },
         {
             year: 2023,
@@ -266,7 +286,8 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u13-2023/calendars?round=&team=24823&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u13-2023/calendars?round=&team=24822&date='
-            ]
+            ],
+            logo: "u13.svg"
         },
         {
             year: 2023,
@@ -276,7 +297,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2023/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2023/calendars?round=&team=24824',
-            ]
+            ],
+            logo: "u10.svg"
         },
         {
             year: 2023,
@@ -286,7 +308,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/calendars?round=&team=26067&date=',
-            ]
+            ],
+             logo: "u8_beeball.svg"
         },
         {
             year: 2023,
@@ -296,7 +319,8 @@ export const CONFIG: Config = {
             standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2023/standings',
             games: [
                 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2023/calendars?round=&team=26071&date='
-            ]
+            ],
+            logo: "vsl.svg"
         },
         {
             year: 2023,
@@ -307,7 +331,8 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=3190&team=Filtern+nach+Team&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=2690&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
-            ]
+            ],
+            logo: "oem_u14.svg.svg"
         },
         {
             year: 2023,
@@ -318,7 +343,8 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=3192&team=Filtern+nach+Team&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=2585&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
-            ]
+            ],
+            logo: "oem_u16.svg.svg"
         }
     ]
 }

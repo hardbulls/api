@@ -123,7 +123,8 @@ export const CONFIG: Config = {
             shortName: 'U16',
             slug: 'u16',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/calendars?round=&team=30427&date=']
+            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-vorarlberg-u16-2024/calendars?round=&team=30427&date='],
+            logo: "u16.svg"
         },
         {
             year: 2024,

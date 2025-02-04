@@ -87,6 +87,12 @@ export const CONFIG: Config = {
         },
         {
             year: 2024,
+            name: "Bulls Postseason",
+            shortName: "Postseason",
+            slug: "postseason",
+        },
+        {
+            year: 2024,
             name: 'Baseball Bundesliga',
             shortName: 'BBL',
             slug: 'bbl',

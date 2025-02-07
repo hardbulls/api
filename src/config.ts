@@ -80,6 +80,12 @@ export const CONFIG: Config = {
             slug: "preseason",
         },
         {
+            year: 2025,
+            name: "Diamond Queens Cup",
+            shortName: "Diamond Queens",
+            slug: "dqc-cup",
+        },
+        {
             year: 2024,
             name: "Bulls Preseason",
             shortName: "Preseason",

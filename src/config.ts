@@ -359,7 +359,7 @@ export const CONFIG: Config = {
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=3190&team=Filtern+nach+Team&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-pony-u14-2023/calendars?round=2690&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
             ],
-            logo: "oem_u14.svg.svg"
+            logo: "oem_u14.svg"
         },
         {
             year: 2023,
@@ -371,7 +371,7 @@ export const CONFIG: Config = {
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=3192&team=Filtern+nach+Team&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2023/calendars?round=2585&group=Filtern+nach+Gruppe&team=Filtern+nach+Team&date='
             ],
-            logo: "oem_u16.svg.svg"
+            logo: "oem_u16.svg"
         }
     ]
 }

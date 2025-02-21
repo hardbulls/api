@@ -244,5 +244,17 @@
     "shortName": "Challengers",
     "logo": "logo_ch_challengers.png",
     "country": "ch"
+  },
+  {
+    "id": "de-hk_1",
+    "name": "Heidenheim Heideköpfe",
+    "shortName": "Heideköpfe",
+    "logo": "logo_de_heidenheim.png"
+  },
+  {
+    "id": "de-sr_1",
+    "name": "Stuttgart Reds",
+    "shortName": "Reds",
+    "logo": "logo_de_stuttgart-reds.png"
   }
 ]

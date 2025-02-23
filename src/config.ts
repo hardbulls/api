@@ -75,18 +75,6 @@ export const CONFIG: Config = {
     leagues: [
         {
             year: 2025,
-            name: "Bulls Preseason",
-            shortName: "Preseason",
-            slug: "preseason",
-        },
-        {
-            year: 2025,
-            name: "Diamond Queens Cup",
-            shortName: "Diamond Queens",
-            slug: "dqc-cup",
-        },
-        {
-            year: 2025,
             name: 'Baseball Bundesliga',
             shortName: 'BBL',
             slug: 'bbl',
@@ -100,16 +88,27 @@ export const CONFIG: Config = {
             logo: "bbl.svg"
         },
         {
-            year: 2024,
+            year: 2025,
+            name: "2. Softball Bundesliga",
+            shortName: "2. SBL",
+            slug: "2-sbl",
+            standings: "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2025/standings",
+            games: [
+                "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2025/calendars?round=&team=34708&date="
+            ],
+            logo: "2-sbl.svg"
+        },
+        {
+            year: 2025,
             name: "Bulls Preseason",
             shortName: "Preseason",
             slug: "preseason",
         },
         {
-            year: 2024,
-            name: "Bulls Postseason",
-            shortName: "Postseason",
-            slug: "postseason",
+            year: 2025,
+            name: "Diamond Queens Cup",
+            shortName: "Diamond Queens",
+            slug: "dqc-cup",
         },
         {
             year: 2024,
@@ -214,6 +213,18 @@ export const CONFIG: Config = {
                 "https://www.baseballsoftball.at/de/events/softball-2-bundesliga-2024/calendars?round=&team=29317&date="
             ],
             logo: "2-sbl.svg"
+        },
+        {
+            year: 2024,
+            name: "Bulls Preseason",
+            shortName: "Preseason",
+            slug: "preseason",
+        },
+        {
+            year: 2024,
+            name: "Bulls Postseason",
+            shortName: "Postseason",
+            slug: "postseason",
         },
         {
             year: 2023,

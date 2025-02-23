@@ -93,7 +93,7 @@ export const CONFIG: Config = {
             shortName: '2. BLW',
             slug: '2-blw',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2025/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2025/calendars?round=&team=29979&date='],
+            games: ['https://www.baseballsoftball.at/de/events/baseball-2-bundesliga-west-2025/calendars?round=&team=34977&date='],
             logo: "2-blw.svg"
         },
         {

@@ -109,6 +109,27 @@ export const CONFIG: Config = {
         },
         {
             year: 2025,
+            name: 'Baseball Landesliga Vorarlberg',
+            shortName: 'LLV',
+            slug: 'llv',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/calendars?committee=&round=&team=35524&date=', 
+                'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/calendars?committee=&round=&team=35525&date='
+            ],
+            logo: "llv.svg"
+        },
+        {
+            year: 2025,
+            name: 'Baseball Jugendliga West U16',
+            shortName: 'U16',
+            slug: 'u16',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/calendars?round=&team=35529&date='],
+            logo: "u16.svg"
+        },
+        {
+            year: 2025,
             name: "Bulls Preseason",
             shortName: "Preseason",
             slug: "preseason",

@@ -114,7 +114,7 @@ export const CONFIG: Config = {
             slug: 'llv',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/standings',
             games: [
-                'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/calendars?committee=&round=&team=35524&date=', 
+                'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/calendars?committee=&round=&team=35524&date=',
                 'https://www.baseballsoftball.at/de/events/baseball-landesliga-vorarlberg-2025/calendars?committee=&round=&team=35525&date='
             ],
             logo: "llv.svg"
@@ -126,7 +126,7 @@ export const CONFIG: Config = {
             slug: 'u16',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/standings',
             games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/calendars?round=&team=35529&date='],
-            logo: "u16.svg"
+            logo: "u16_west.svg"
         },
         {
             year: 2025,

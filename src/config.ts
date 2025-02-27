@@ -128,6 +128,47 @@ export const CONFIG: Config = {
             games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/calendars?round=&team=35529&date='],
             logo: "u16_west.svg"
         },
+        // {
+        //     year: 2025,
+        //     name: 'Baseball Ponyliga West U14',
+        //     shortName: 'U14',
+        //     slug: 'u14',
+        //     standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/standings',
+        //     games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/calendars?round=&team=35532&date='],
+        //     logo: "u14_west.svg"
+        // },
+        {
+            year: 2025,
+            name: 'Baseball Schülerliga Vorarlberg U12',
+            shortName: 'U12',
+            slug: 'u12',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2025/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u12-2025/calendars?round=&team=35556&date=',
+            ],
+            logo: "u12.svg"
+        },
+        {
+            year: 2025,
+            name: 'Baseball Schülerliga Vorarlberg U10',
+            shortName: 'U10',
+            slug: 'u10',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2025/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-schuelerliga-vorarlberg-u10-2025/calendars?round=&team=35559&date=',
+            ],
+            logo: "u10.svg"
+        },
+        {
+            year: 2025,
+            name: 'T-Ball Vorarlberg U8',
+            shortName: 'U8',
+            slug: 'u8',
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-t-ball-vorarlberg-u8-2025/calendars?round=&team=35567&date=',
+            ],
+            logo: "u8_t-ball.svg"
+        },
         {
             year: 2025,
             name: "Bulls Preseason",

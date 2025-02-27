@@ -151,25 +151,27 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         const seasonsDirectory = await fs.readdir(path.resolve(baseOutputDir, 'seasons'));
 
         for (const season of seasonsDirectory) {
-            const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', season, leagueSlug));
-            const gamesJson = path.resolve(leagueDirectory, 'games.json');
+            if (CONFIG.crawlYears.includes(Number.parseInt(season))) {
+                const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', season, leagueSlug));
+                const gamesJson = path.resolve(leagueDirectory, 'games.json');
 
-            if (await fileExists(gamesJson)) {
-                const games: Game[] = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"})).map((game: any) => {
-                    return {
-                        ...game,
-                        date: new Date(game.date)
-                    }
-                });
+                if (await fileExists(gamesJson)) {
+                    const games: Game[] = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"})).map((game: any) => {
+                        return {
+                            ...game,
+                            date: new Date(game.date)
+                        }
+                    });
 
-                const leagueCalendar = IcalGenerator.games(
-                    leagueName,
-                    games.filter((v: any) => v.status === GameStatus.SCHEDULED || v.status === GameStatus.FINISHED),
-                    CONFIG.timezone,
-                    CONFIG.defaultGameDuration
-                )
+                    const leagueCalendar = IcalGenerator.games(
+                        leagueName,
+                        games.filter((v: any) => v.status === GameStatus.SCHEDULED || v.status === GameStatus.FINISHED),
+                        CONFIG.timezone,
+                        CONFIG.defaultGameDuration
+                    )
 
-                await fs.writeFile(path.resolve(leagueDirectory, 'games.ics'), leagueCalendar);
+                    await fs.writeFile(path.resolve(leagueDirectory, 'games.ics'), leagueCalendar);
+                }
             }
         }
     }

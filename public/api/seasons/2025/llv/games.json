@@ -1,6 +1,6 @@
 [
   {
-    "id": "ca5ef5a36bdbee8783af779583fe447d",
+    "id": "633e3044a529e9d1570ec45ca6e7e491",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals 2",
     "away": "Hard Bulls Bullets",
@@ -8,12 +8,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-04-13T13:00:00.000Z",
-    "note": "Hard Bulls Bullets",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "7402377d70701f4b262bd5e363a0e5a1",
+    "id": "5394af74c02635c13159fb31746424eb",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bullets",
     "away": "Hard Bulls Future Team",
@@ -21,12 +21,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-04-26T14:00:00.000Z",
-    "note": "Hard Bulls Future Team",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "7402377d70701f4b262bd5e363a0e5a1",
+    "id": "5394af74c02635c13159fb31746424eb",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bullets",
     "away": "Hard Bulls Future Team",
@@ -34,12 +34,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-04-26T14:00:00.000Z",
-    "note": "Hard Bulls Future Team",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "748fac57d1b90a45f922920796c26b05",
+    "id": "67a23098210fa7631eff19a39b5a9414",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bullets",
     "away": "Dornbirn Indians 3",
@@ -47,12 +47,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-25T13:00:00.000Z",
-    "note": "Dornbirn Indians 3",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "3db26019e6b11037e33a7010ce1069ef",
+    "id": "55d7c53f6bb0bc6ad2e6429deddc98c2",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Future Team",
     "away": "Hard Bulls Bullets",
@@ -60,12 +60,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-27T16:30:00.000Z",
-    "note": "Hard Bulls Bullets",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "3db26019e6b11037e33a7010ce1069ef",
+    "id": "55d7c53f6bb0bc6ad2e6429deddc98c2",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Future Team",
     "away": "Hard Bulls Bullets",
@@ -73,12 +73,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-27T16:30:00.000Z",
-    "note": "Hard Bulls Bullets",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "81dd329c8a035bb2b8e0357826207a37",
+    "id": "7cd1ad8ba755288cc55ec7d8b58198f6",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Future Team",
     "away": "Dornbirn Indians 3",
@@ -86,12 +86,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-04T16:30:00.000Z",
-    "note": "Dornbirn Indians 3",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "84731eb185b308c9a5370e8d4d4d8d4a",
+    "id": "3c86c129b6d0a953b2059c0087c9d394",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Future Team",
     "away": "Feldkirch Cardinals 2",
@@ -99,12 +99,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-09T13:00:00.000Z",
-    "note": "Feldkirch Cardinals 2",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "bad9b7d6231ec0f98ce03dd34ae3c9a8",
+    "id": "aec8ae98b89b4a2167b11f770b55fac6",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bullets",
     "away": "Feldkirch Cardinals 2",
@@ -112,12 +112,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-09-07T09:00:00.000Z",
-    "note": "Feldkirch Cardinals 2",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "b24337d0aadbaefc3b9b59f31e65e6f0",
+    "id": "74ee202926c510a2d015f0a8b86f8c2b",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 3",
     "away": "Hard Bulls Future Team",
@@ -125,12 +125,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-09-07T14:00:00.000Z",
-    "note": "Hard Bulls Future Team",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "5565bbd2018e981e1931401fa4af1ad5",
+    "id": "4a95638db64eab78ebb024317fd6a119",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 3",
     "away": "Hard Bulls Bullets",
@@ -138,12 +138,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-09-20T14:00:00.000Z",
-    "note": "Hard Bulls Bullets",
+    "note": null,
     "league": "llv",
     "season": 2025
   },
   {
-    "id": "eb7f444ded904511a514d1ef0b7a343f",
+    "id": "c02cf6f11ac9fa97fdcf7d467e43c1d6",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals 2",
     "away": "Hard Bulls Future Team",
@@ -151,7 +151,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-09-20T14:00:00.000Z",
-    "note": "Hard Bulls Future Team",
+    "note": null,
     "league": "llv",
     "season": 2025
   }

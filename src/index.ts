@@ -1,5 +1,5 @@
 import {Game, GameCrawler, GameStatus, Standing, StandingsCrawler, StatisticsCrawler} from "@hardbulls/wbsc-crawler";
-import {CONFIG, FixNamesConfig} from "./config";
+import {CONFIG, FixNamesConfig, LeagueConfig} from "./config";
 import * as fs from 'fs/promises'
 import * as path from "path";
 import {IcalGenerator} from "./Calendar/IcalGenerator";
@@ -46,7 +46,7 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
     for (const league of CONFIG.leagues) {
         if (CONFIG.crawlYears.includes(league.year)) {
             if (league.games) {
-                const games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
+                let games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
                     const gameData  = {
                         ...game,
                         league: league.slug,
@@ -68,6 +68,10 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
                     return apiGame;
                 })
+
+                if (league.filter) {
+                    games = games.filter(league.filter);
+                }
 
                 games.sort((a, b) => a.date.getTime() - b.date.getTime());
 
@@ -214,7 +218,14 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
     }
 
-    await fs.writeFile(path.resolve(baseOutputDir, 'leagues.json'), JSON.stringify(CONFIG.leagues, null, 2));
+    let leagueData = CONFIG.leagues.map((league: LeagueConfig) => {
+        return {
+            ...league,
+            filter: undefined
+        }
+    });
+
+    await fs.writeFile(path.resolve(baseOutputDir, 'leagues.json'), JSON.stringify(leagueData, null, 2));
 
     await weeklyGames();
 })()

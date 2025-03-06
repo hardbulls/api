@@ -1,6 +1,6 @@
 [
   {
-    "id": "cf500fbd25527aaa1276f814c90999e2",
+    "id": "60cf5e77fda86f55905243d6a84188c1",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Bulls",
     "away": "Vienna Wanderers 2",
@@ -8,12 +8,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-24T09:00:00.000Z",
-    "note": "Vienna Wanderers 2",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "f77fb416e69de56b655062238b5accea",
+    "id": "da67cacfa44043984fd763cbebd8219b",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "SG Indians - Bulls",
     "away": "Pee Wees St. Pölten",
@@ -21,12 +21,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-24T13:00:00.000Z",
-    "note": "Pee Wees St. Pölten",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "8df4b4cb8d352b1da83bb5caf84a2f4b",
+    "id": "d7f971bc7b770229f5f616d21c249de0",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "SG Indians - Bulls",
     "away": "SG Crazy Chicklets - Metrostars",
@@ -34,12 +34,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-31T11:00:00.000Z",
-    "note": "SG Crazy Chicklets - Metrostars",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "95a439922579610706fdb2fe1cbcba85",
+    "id": "70f2b3963bed6e9ebacd2c3e96f3a647",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Falcons",
     "away": "SG Indians - Bulls",
@@ -47,12 +47,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-31T13:00:00.000Z",
-    "note": "SG Indians - Bulls",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "dbebc0f8f540c503adfa4decadd4e618",
+    "id": "c99511a47b0bbefe47eb449114c969f2",
     "venue": "Ballpark Freudenau, Vienna",
     "home": "SG Crazy Chicklets - Metrostars",
     "away": "SG Indians - Bulls",
@@ -60,12 +60,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-28T09:00:00.000Z",
-    "note": "SG Indians - Bulls",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "1707d6269291ba54628f2f134d892635",
+    "id": "625e687de8840b68980fd2aca5d630ac",
     "venue": "Ballpark Freudenau, Vienna",
     "home": "Pee Wees St. Pölten",
     "away": "SG Indians - Bulls",
@@ -73,12 +73,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-28T11:00:00.000Z",
-    "note": "SG Indians - Bulls",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "f3377988a925e2a31ab0a79ed719de13",
+    "id": "0fad8ae52ceacd52104f4956a25464f8",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "SG Indians - Bulls",
     "away": "ASAK Athletics",
@@ -86,25 +86,25 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-05T11:00:00.000Z",
-    "note": "ASAK Athletics",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "c1a9b38c6c9bf5d2363b3a20daf00cae",
+    "id": "58499b6050fbf7ad0dfa1bedbd3c7119",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "SG Indians - Bulls",
-    "away": "ASAK Athletics",
+    "away": "Feldkirch Falcons",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-05T13:00:00.000Z",
-    "note": "ASAK Athletics",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "8e2b3ae9d4becf2ef731a9fe94a43a70",
+    "id": "3b280de4390eff67b56f02a2931f3928",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "SG Indians - Bulls",
@@ -112,12 +112,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-24T09:00:00.000Z",
-    "note": "SG Indians - Bulls",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   },
   {
-    "id": "9a0d815f03ed1f39dad50d5d80aad5e6",
+    "id": "cbaa60f11bc7a6bef618988522139ede",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "Vienna Wanderers 2",
     "away": "SG Indians - Bulls",
@@ -125,7 +125,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-24T11:00:00.000Z",
-    "note": "SG Indians - Bulls",
+    "note": null,
     "league": "2-sbl",
     "season": 2025
   }

@@ -1,6 +1,6 @@
 [
   {
-    "id": "37aadb4e8dc05e888ccf40279a3911cc",
+    "id": "8054c0dea3136082ab3c6dbfe1af5457",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "Hard Bulls Bandidos",
@@ -8,12 +8,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-04T12:00:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "cb5ff33fb63da89ba88a181048bba0ff",
+    "id": "3ccb47daeb5477dd9bff157cc73764e2",
     "venue": "Athletics Ballpark, Attnang-Puchheim",
     "home": "ASAK Athletics",
     "away": "Hard Bulls Bandidos",
@@ -21,12 +21,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-04T14:30:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "d2dab4371a071cb8ee9ce47c1f517cb1",
+    "id": "2cb89de77ee1b4b3fb5d1cc60e2b3626",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Feldkirch Cardinals",
@@ -34,12 +34,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-18T11:00:00.000Z",
-    "note": "Feldkirch Cardinals",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "8b89a29264f452084b87c8b3c5f22214",
+    "id": "0347be6ea49cfa7bed9a48d5f3322da4",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Feldkirch Cardinals",
@@ -47,12 +47,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-18T13:30:00.000Z",
-    "note": "Feldkirch Cardinals",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "ae919ac55b49a2dc65bb3e9de249ff9e",
+    "id": "47ac56479ff725de5c3ff98ad8d9f834",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 2",
     "away": "Hard Bulls Bandidos",
@@ -60,12 +60,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-01T12:00:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "6a94d19ca9bb3cda3cf9b57680212f9b",
+    "id": "adf41b532b11e720f90141bcab056944",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians 2",
     "away": "Hard Bulls Bandidos",
@@ -73,12 +73,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-01T14:30:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "c50da8718c0d5827fb53423fe0df46ed",
+    "id": "af66a672b4c0bf42394c1184d5eb38ac",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Schwaz Tigers",
@@ -86,12 +86,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-14T11:00:00.000Z",
-    "note": "Schwaz Tigers",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "76004d0bccd3764b3ced49effc6b6a68",
+    "id": "734f2ee1c041b8d99699addb7f825f52",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Schwaz Tigers",
@@ -99,12 +99,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-14T13:30:00.000Z",
-    "note": "Schwaz Tigers",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "289d50a78ecb7d3ecf082ad333bd7558",
+    "id": "da2944d6a25e8b4f1beaebf6af0e3a30",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals",
     "away": "Hard Bulls Bandidos",
@@ -112,12 +112,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-22T11:00:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "e58db7e1a07ba1fca65ed0fbd61062e2",
+    "id": "ee883f7e9e7ca8923a3163335b350fad",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals",
     "away": "Hard Bulls Bandidos",
@@ -125,12 +125,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-06-22T13:30:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "7b2c208fdda629747a8bf897b139c12e",
+    "id": "94ded94cb855e0c127d52485ecfaa453",
     "venue": "Tigersfield, Schwaz",
     "home": "Schwaz Tigers",
     "away": "Hard Bulls Bandidos",
@@ -138,12 +138,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-19T11:00:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "e3c438e6c299a1b5b37caa97a1f82685",
+    "id": "9e1dec6377dd69be4e3ad826b66b8ddc",
     "venue": "Tigersfield, Schwaz",
     "home": "Schwaz Tigers",
     "away": "Hard Bulls Bandidos",
@@ -151,12 +151,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-19T13:30:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "330c264e5d3b8146eb01108ab443295b",
+    "id": "95f07147381980c4a8d7fde14d074163",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dornbirn Indians 2",
@@ -164,12 +164,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-26T11:00:00.000Z",
-    "note": "Dornbirn Indians 2",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "e35cf9dae3489c32fd93450fdae9b775",
+    "id": "664420887630306e6daffb8186ea33be",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Dornbirn Indians 2",
@@ -177,12 +177,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-26T13:30:00.000Z",
-    "note": "Dornbirn Indians 2",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "3630e842ca571b77afdc0f8a662c18f6",
+    "id": "70da37264dae6ef94cf26af3c61370b4",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Centurions Wels",
@@ -190,12 +190,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-02T11:00:00.000Z",
-    "note": "Centurions Wels",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "69474b9fdbcf4616359643ff0af01c28",
+    "id": "42e9863ed5427f9d2eb7fba894cfa269",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bandidos",
     "away": "Centurions Wels",
@@ -203,12 +203,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-02T13:30:00.000Z",
-    "note": "Centurions Wels",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "31459f5c8629642258af8bb204464edc",
+    "id": "c35a7b3257db4386239c119d205e7530",
     "venue": "Erich Silverio Field, Ebbs",
     "home": "Kufstein Vikings",
     "away": "Hard Bulls Bandidos",
@@ -216,12 +216,12 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-17T11:00:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   },
   {
-    "id": "fd4541812f65412f448c55a4627d54f1",
+    "id": "874608530ba790a02afccf6f7f32a711",
     "venue": "Erich Silverio Field, Ebbs",
     "home": "Kufstein Vikings",
     "away": "Hard Bulls Bandidos",
@@ -229,7 +229,7 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-08-17T13:30:00.000Z",
-    "note": "Hard Bulls Bandidos",
+    "note": null,
     "league": "2-blw",
     "season": 2025
   }

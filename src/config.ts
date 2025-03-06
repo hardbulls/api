@@ -1,22 +1,27 @@
+import {Game} from "@hardbulls/wbsc-crawler";
+
+export interface LeagueConfig {
+    year: number;
+    name: string;
+    games?: string[];
+    shortName: string;
+    standings?: string;
+    slug: string
+    logo?: string;
+    filter?: (game: Game) => boolean,
+    statistics?: {
+        batting?: string;
+        pitching?: string;
+        fielding?: string;
+    }
+}
+
 export interface Config {
     output: string;
     aggregateYears: number;
     defaultGameDuration: number;
     eventsUrl?: string;
-    leagues: Array<{
-        year: number;
-        name: string;
-        games?: string[];
-        shortName: string;
-        standings?: string;
-        slug: string
-        logo?: string;
-        statistics?: {
-            batting?: string;
-            pitching?: string;
-            fielding?: string;
-        }
-    }>,
+    leagues: Array<LeagueConfig>,
     fixNames?: Array<FixNamesConfig>,
     timezone: string;
     crawlYears: number[]
@@ -128,15 +133,16 @@ export const CONFIG: Config = {
             games: ['https://www.baseballsoftball.at/de/events/baseball-jugendliga-west-u16-2025/calendars?round=&team=35529&date='],
             logo: "u16_west.svg"
         },
-        // {
-        //     year: 2025,
-        //     name: 'Baseball Ponyliga West U14',
-        //     shortName: 'U14',
-        //     slug: 'u14',
-        //     standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/standings',
-        //     games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/calendars?round=&team=35532&date='],
-        //     logo: "u14_west.svg"
-        // },
+        {
+            year: 2025,
+            name: 'Baseball Ponyliga West U14',
+            shortName: 'U14',
+            slug: 'u14',
+            standings: 'https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/standings',
+            games: ['https://www.baseballsoftball.at/de/events/baseball-ponyliga-west-u14-2025/schedule-and-results'],
+            logo: "u14_west.svg",
+            filter: (game: Game) => game.home.toLowerCase().includes('hard bulls') || game.away.toLowerCase().includes('hard bulls')
+        },
         {
             year: 2025,
             name: 'Baseball Schülerliga Vorarlberg U12',

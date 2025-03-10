@@ -69,6 +69,11 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                     return apiGame;
                 })
 
+                games = games.filter(
+                    (obj: ApiGame, index: number, self: ApiGame[]) =>
+                        index === self.findIndex((t) => t.id === obj.id),
+                );
+
                 if (league.filter) {
                     games = games.filter(league.filter);
                 }

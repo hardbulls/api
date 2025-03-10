@@ -26,19 +26,6 @@
     "season": 2025
   },
   {
-    "id": "5394af74c02635c13159fb31746424eb",
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls Bullets",
-    "away": "Hard Bulls Future Team",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2025-04-26T14:00:00.000Z",
-    "note": null,
-    "league": "llv",
-    "season": 2025
-  },
-  {
     "id": "67a23098210fa7631eff19a39b5a9414",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls Bullets",
@@ -47,19 +34,6 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-05-25T13:00:00.000Z",
-    "note": null,
-    "league": "llv",
-    "season": 2025
-  },
-  {
-    "id": "55d7c53f6bb0bc6ad2e6429deddc98c2",
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls Future Team",
-    "away": "Hard Bulls Bullets",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2025-06-27T16:30:00.000Z",
     "note": null,
     "league": "llv",
     "season": 2025

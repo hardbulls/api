@@ -8,9 +8,10 @@
     "status": "finished",
     "date": "2025-03-22T16:00:00.000Z",
     "league": "preseason",
-    "season": 2025
- },
- {
+    "season": 2025,
+    "id": "809bc01b0e6a99945f63feac2055e1a5"
+  },
+  {
     "venue": "Ballpark Heidenheim, Heidenheim an der Brenz",
     "home": "Heidenheim Heideköpfe",
     "away": "Hard Bulls",
@@ -19,7 +20,8 @@
     "status": "finished",
     "date": "2025-03-23T09:30:00.000Z",
     "league": "preseason",
-    "season": 2025
+    "season": 2025,
+    "id": "6e2c12513294d4acaf43ab07cd2a1a5d"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -30,7 +32,8 @@
     "status": "scheduled",
     "date": "2025-03-29T11:00:00.000Z",
     "league": "preseason",
-    "season": 2025
+    "season": 2025,
+    "id": "f940289f21f271cb4dc07c8fb305cddc"
   },
   {
     "venue": "Ballpark am See, Hard",
@@ -41,6 +44,7 @@
     "status": "scheduled",
     "date": "2025-03-29T14:00:00.000Z",
     "league": "preseason",
-    "season": 2025
+    "season": 2025,
+    "id": "d5fb767a627d8a23a9ad811127000a34"
   }
 ]

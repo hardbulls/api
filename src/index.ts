@@ -7,7 +7,7 @@ import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatist
 import {fileExists} from "./files";
 import {createHash} from 'crypto';
 import {OVERRIDES} from './overrides';
-import { fetchEvents } from "./events";
+import {fetchEvents} from "./events";
 
 const now = new Date();
 const today = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1, 0, 0, 0);
@@ -44,6 +44,9 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
     }
 
     for (const league of CONFIG.leagues) {
+        const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
+        const gamesFile = path.resolve(leagueDirectory, `games.json`,);
+
         if (CONFIG.crawlYears.includes(league.year)) {
             if (league.games) {
                 let games: ApiGame[] = (await Promise.all(league.games.map(async gameUrl => await GameCrawler.crawl(gameUrl, CONFIG.timezone)))).flat().map(game => {
@@ -80,7 +83,6 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
                 games.sort((a, b) => a.date.getTime() - b.date.getTime());
 
-                const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', league.year.toString(), league.slug));
                 const standingsFile = path.resolve(leagueDirectory, `standings.json`,);
                 let standings: Standing[] = [];
 
@@ -88,7 +90,6 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                     standings = await StandingsCrawler.crawl(league.standings)
                 }
 
-                const gamesFile = path.resolve(leagueDirectory, `games.json`,);
                 const statisticsFile = path.resolve(leagueDirectory, `statistics.json`,);
 
                 await fs.mkdir(leagueDirectory, {recursive: true})
@@ -104,6 +105,16 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
                     await fs.writeFile(statisticsFile, JSON.stringify(statistics, null, 2));
                 }
+            } else {
+                const leagueGames = JSON.parse(await fs.readFile(gamesFile, {encoding: "utf8"}));
+
+                for (const gameData of leagueGames) {
+                    if (!gameData.id) {
+                        gameData.id = createHash('md5').update(JSON.stringify(gameData)).digest('hex');
+                    }
+                }
+
+                await fs.writeFile(gamesFile, JSON.stringify(leagueGames, null, 2));
             }
         }
     }

@@ -10,21 +10,21 @@
     "teams": ["Hard Bulls"],
     "venue": "Nachwuchsfeld",
     "location": "Hard",
-    "image": "ballpark_am_see.jpg",
+    "image": "nachwuchsfeld_hard.png",
     "keywords": ["Nachwuchsfeld, Hard"]
   },
   {
     "teams": ["Hard Bulls"],
-    "venue": "Nachwuchsfeld",
+    "venue": "Hauptfeld",
     "location": "Hard",
-    "image": "ballpark_am_see.jpg",
-    "keywords": ["Nachwuchsfeld, Hard"]
+    "image": "hauptfeld_hard.png",
+    "keywords": ["Hauptfeld, Hard"]
   },
   {
     "teams": ["Hard Bulls"],
     "venue": "Leftfield",
     "location": "Hard",
-    "image": "ballpark_am_see.jpg",
+    "image": "leftfield_hard.png",
     "keywords": ["Leftfield, Hard"]
   },
   {

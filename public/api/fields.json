@@ -7,6 +7,27 @@
     "keywords": ["Hard", "Ballpark am See, Hard", "Ballpark am See, Hard am Bodensee"]
   },
   {
+    "teams": ["Hard Bulls"],
+    "venue": "Nachwuchsfeld",
+    "location": "Hard",
+    "image": "ballpark_am_see.jpg",
+    "keywords": ["Nachwuchsfeld, Hard"]
+  },
+  {
+    "teams": ["Hard Bulls"],
+    "venue": "Nachwuchsfeld",
+    "location": "Hard",
+    "image": "ballpark_am_see.jpg",
+    "keywords": ["Nachwuchsfeld, Hard"]
+  },
+  {
+    "teams": ["Hard Bulls"],
+    "venue": "Leftfield",
+    "location": "Hard",
+    "image": "ballpark_am_see.jpg",
+    "keywords": ["Leftfield, Hard"]
+  },
+  {
     "teams": ["Traiskirchen Grasshoppers"],
     "venue": "Hoppersfield",
     "location": "Traiskirchen",

@@ -183,6 +183,18 @@ export const CONFIG: Config = {
         },
         {
             year: 2025,
+            name: "U12 Preseason",
+            shortName: "U12 Preseason",
+            slug: "u12-preseason",
+        },
+        {
+            year: 2025,
+            name: "Diamond Queens (Außer Wertung)",
+            shortName: "Diamond Queens",
+            slug: "dqc-nc",
+        },
+        {
+            year: 2025,
             name: "Diamond Queens Cup",
             shortName: "Diamond Queens",
             slug: "dqc-cup",
@@ -424,7 +436,7 @@ export const CONFIG: Config = {
             games: [
                 'https://www.baseballsoftball.at/de/events/beeball-vorarlberg-u8-2023/calendars?round=&team=26067&date=',
             ],
-             logo: "u8_beeball.svg"
+            logo: "u8_beeball.svg"
         },
         {
             year: 2023,

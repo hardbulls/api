@@ -1,0 +1,62 @@
+[
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Wil Devils U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T07:30:00.000Z",
+    "league": "u12-preseason",
+    "season": 2025,
+    "id": "d3a9f69be4ef829b86f17227bdc131c0"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Zürich Barracudas U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T09:15:00.000Z",
+    "league": "u12-preseason",
+    "season": 2025,
+    "id": "game-2"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Zürich Barracudas U12",
+    "away": "Ulm Falcons U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T07:30:00.000Z",
+    "league": "12-preseason",
+    "season": 2025,
+    "id": "0af7f992552c73d17b6b87edc0d8cd3d"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Ulm Falcons U12",
+    "away": "Wil Devils U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T09:15:00.000Z",
+    "league": "u12-preseason",
+    "season": 2025,
+    "id": "e8dcfda3a880c2188e2a151acbc8df52"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Hard Bulls U12",
+    "away": "Ulm Falcons U12",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T12:45:00.000Z",
+    "league": "u12-preseason",
+    "season": 2025,
+    "id": "67944c3a89dea498f4baf73114199f28"
+  }
+]

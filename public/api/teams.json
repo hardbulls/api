@@ -59,7 +59,9 @@
     "id": "di_2_sp",
     "name": "Dornbirn Legends",
     "abbreviation": "DI",
-    "keywords": ["Dornbirn Legends"],
+    "keywords": [
+      "Dornbirn Legends"
+    ],
     "logo": "logo_di.png",
     "country": "at"
   },
@@ -270,5 +272,41 @@
     "name": "Stuttgart Reds",
     "shortName": "Reds",
     "logo": "logo_de_stuttgart-reds.png"
+  },
+  {
+    "id": "ch-pw_1",
+    "name": "Panthers Wittenbach",
+    "shortName": "Panthers",
+    "logo": "logo_ch_panthers-wittenbach.png"
+  },
+  {
+    "id": "ch-zb_1",
+    "name": "Zürich Barracudas",
+    "shortName": "Barracudas",
+    "logo": "logo_ch_zurich-barracudas.png"
+  },
+  {
+    "id": "de-vc_1",
+    "name": "Villingendorf Cavemen",
+    "shortName": "Cavemen",
+    "logo": "logo_de_villingendorf.png"
+  },
+  {
+    "id": "de-uf_1",
+    "name": "Ulm Falcons",
+    "shortName": "Falcons",
+    "logo": "logo_de_ulm-falcons.png"
+  },
+  {
+    "id": "de-th_1",
+    "name": "Tübingen Hawks",
+    "shortName": "Hawks",
+    "logo": "logo_de_tuebingen-hawks.png"
+  },
+  {
+    "id": "cc_de_hd_br_1",
+    "name": "SG Haar/Füssen",
+    "shortName": "Haar/Füssen",
+    "logo": "logo_de_haar+fussen.png"
   }
 ]

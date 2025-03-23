@@ -1,0 +1,62 @@
+[
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Indibulls U16",
+    "away": "SPG Haar/Füssen U16",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T11:00:00.000Z",
+    "league": "dqc-nc",
+    "season": 2025,
+    "id": "c6ae1a7bfe29b199d2e4ae0c7b26756a"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "SPG Haar/Füssen U16",
+    "away": "Villingendorf Cavemen",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T14:30:00.000Z",
+    "league": "dqc-nc",
+    "season": 2025,
+    "id": "9e80e15248cd31c976e64d06f44bcf13"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Villingendorf Cavemen",
+    "away": "Indibulls U16",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T07:30:00.000Z",
+    "league": "dqc-nc",
+    "season": 2025,
+    "id": "35c071e5cc353afff1c3998f4ad893bd"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Villingen Cavemen",
+    "away": "Dornbirn Indians",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T11:00:00.000Z",
+    "league": "dqc-nc",
+    "season": 2025,
+    "id": "c1d365521cd1b7b66aa0e164647f6fe5"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Feldkirch Falcons",
+    "away": "Villingen Cavemen",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T12:45:00.000Z",
+    "league": "dqc-nc",
+    "season": 2025,
+    "id": "78c961f4c18442e3ebe8febf2f8b49f5"
+  }
+]

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Dornbirn Indians",
+    "away": "Tübingen Hawks",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T12:45:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "2f183ca124109fec79cfbe7a644fa916"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Tübingen Hawks",
+    "away": "Feldkirch Falcons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T16:15:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "beef965330fd03f77d5f79b7d46c01cb"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Tübingen Hawks",
+    "away": "Wittenbach Panthers",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T09:15:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "9ff9e964a3c261877bc83f8c31c56869"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Stuttgart Reds",
+    "away": "Tübingen Hawks",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T11:00:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "071cde71c8207c70851db3c31c02caa2"
+  },
+  {
+    "venue": "Nachwuchsfeld, Hard",
+    "home": "Dornbirn Indians",
+    "away": "Wittenbach Panthers",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T12:45:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "af72c2b5deeeeadfe315128b102b4f19"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Wittenbach Panthers",
+    "away": "Feldkirch Falcons",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T11:00:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "351ece82aac1b6d7f86b0751d190389a"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Wittenbach Panthers",
+    "away": "Stuttgart Reds",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T14:30:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "834adcf003163e771a94adb3e34eb752"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Stuttgart Reds",
+    "away": "Dornbirn Indians",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-05T16:15:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "490c78623f9d60e45f785a256f39ce75"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Feldkirch Falcons",
+    "away": "Stuttgart Reds",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T07:30:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "d207a16b69b2bf83a7d906c89b402271"
+  },
+  {
+    "venue": "Leftfield, Hard",
+    "home": "Feldkirch Falcons",
+    "away": "Dornbirn Indians",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-04-06T09:15:00.000Z",
+    "league": "dqc-cup",
+    "season": 2025,
+    "id": "49bac3893473432e506d3dc43c2d8c1b"
+  }
+]

@@ -26,11 +26,11 @@
   {
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls",
-    "away": "Stuttgart Reds",
+    "away": "Rümlang Kobras",
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2025-03-29T11:00:00.000Z",
+    "date": "2025-03-30T09:30:00.000Z",
     "league": "preseason",
     "season": 2025,
     "id": "f940289f21f271cb4dc07c8fb305cddc"
@@ -42,7 +42,7 @@
     "awayScore": 0,
     "homeScore": 0,
     "status": "scheduled",
-    "date": "2025-03-29T14:00:00.000Z",
+    "date": "2025-03-30T12:30:00.000Z",
     "league": "preseason",
     "season": 2025,
     "id": "d5fb767a627d8a23a9ad811127000a34"

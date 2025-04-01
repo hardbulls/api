@@ -183,7 +183,7 @@ export const CONFIG: Config = {
         },
         {
             year: 2025,
-            name: "U12 Preseason",
+            name: "Diamond Queens (U12 Preseason)",
             shortName: "U12 Preseason",
             slug: "u12-preseason",
         },

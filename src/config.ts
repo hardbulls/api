@@ -85,11 +85,11 @@ export const CONFIG: Config = {
             slug: 'bbl',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/standings',
             games: ['https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/calendars?round=&team=34514&date='],
-            statistics: {
-                batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/batting',
-                pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/pitching',
-                fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/fielding'
-            },
+            // statistics: {
+            //     batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/batting',
+            //     pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/pitching',
+            //     fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/fielding'
+            // },
             logo: "bbl.svg"
         },
         {

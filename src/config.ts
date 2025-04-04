@@ -131,9 +131,10 @@ export const CONFIG: Config = {
             slug: 'vsl',
             standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/standings',
             games: [
-                'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/calendars?round=&team=30484&date='
+                'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/schedule-and-results'
             ],
-            logo: "vsl.svg"
+            logo: "vsl.svg",
+            filter: (game: Game) => game.home.toLowerCase().includes('hard barons') || game.away.toLowerCase().includes('hard bulls barons')
         },
         {
             year: 2025,

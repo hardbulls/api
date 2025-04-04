@@ -134,7 +134,7 @@ export const CONFIG: Config = {
                 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/schedule-and-results'
             ],
             logo: "vsl.svg",
-            filter: (game: Game) => game.home.toLowerCase().includes('hard barons') || game.away.toLowerCase().includes('hard bulls barons')
+            filter: (game: Game) => game.home.toLowerCase().includes('hard bulls barons') || game.away.toLowerCase().includes('hard bulls barons')
         },
         {
             year: 2025,

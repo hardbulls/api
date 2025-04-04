@@ -126,6 +126,17 @@ export const CONFIG: Config = {
         },
         {
             year: 2025,
+            name: 'Vorarlberger Slowpitch League',
+            shortName: 'VSL',
+            slug: 'vsl',
+            standings: 'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/standings',
+            games: [
+                'https://www.baseballsoftball.at/de/events/vorarlberger-slowpitch-league-2025/calendars?round=&team=30484&date='
+            ],
+            logo: "vsl.svg"
+        },
+        {
+            year: 2025,
             name: 'Baseball Jugendliga West U16',
             shortName: 'U16',
             slug: 'u16',

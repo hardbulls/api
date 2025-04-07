@@ -201,23 +201,25 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
 
         for (const league of CONFIG.leagues) {
-            const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', nextWeek.getFullYear().toString(), league.slug));
-            const gamesJson = path.resolve(leagueDirectory, 'games.json');
+            if (league.year.toString() === nextWeek.getFullYear().toString()) {
+                const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', nextWeek.getFullYear().toString(), league.slug));
+                const gamesJson = path.resolve(leagueDirectory, 'games.json');
 
-            if (await fileExists(gamesJson)) {
-                const games = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"}));
+                if (await fileExists(gamesJson)) {
+                    const games = JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"}));
 
-                for (const game of games) {
-                    const gameDate = new Date(game.date);
+                    for (const game of games) {
+                        const gameDate = new Date(game.date);
 
-                    if (gameDate > today && gameDate < nextWeek && game.status === GameStatus.SCHEDULED) {
-                        const upcomingGame = {
-                            ...game,
-                            league: league.slug,
-                            season: league.year
-                        };
+                        if (gameDate > today && gameDate < nextWeek && game.status === GameStatus.SCHEDULED) {
+                            const upcomingGame = {
+                                ...game,
+                                league: league.slug,
+                                season: league.year
+                            };
 
-                        upcomingWeekGames.push(upcomingGame);
+                            upcomingWeekGames.push(upcomingGame);
+                        }
                     }
                 }
             }

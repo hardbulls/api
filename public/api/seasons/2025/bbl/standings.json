@@ -3,67 +3,67 @@
     "type": "REGULAR",
     "results": [
       {
-        "position": -1,
+        "position": 1,
+        "team": "Wr. Neustadt Diving Ducks",
+        "wins": 2,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
         "team": "Schwechat Blue Bats",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
-        "position": -1,
-        "team": "Wr. Neustadt Diving Ducks",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
+        "position": 2,
         "team": "Traiskirchen Grasshoppers",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
-        "position": -1,
+        "position": 2,
         "team": "Hard Bulls",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
-        "position": -1,
+        "position": 2,
         "team": "Dornbirn Indians",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 1
       },
       {
-        "position": -1,
-        "team": "Vienna Metrostars",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
+        "position": 2,
         "team": "Vienna Wanderers",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 1
+      },
+      {
+        "position": 7,
+        "team": "Vienna Metrostars",
+        "wins": 0,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 2
       }
     ]
   }

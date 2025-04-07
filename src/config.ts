@@ -193,24 +193,24 @@ export const CONFIG: Config = {
             shortName: "Preseason",
             slug: "preseason",
         },
-        {
-            year: 2025,
-            name: "Diamond Queens (U12 Preseason)",
-            shortName: "U12 Preseason",
-            slug: "u12-preseason",
-        },
-        {
-            year: 2025,
-            name: "Diamond Queens (Außer Wertung)",
-            shortName: "Diamond Queens",
-            slug: "dqc-nc",
-        },
-        {
-            year: 2025,
-            name: "Diamond Queens Cup",
-            shortName: "Diamond Queens",
-            slug: "dqc-cup",
-        },
+        // {
+        //     year: 2025,
+        //     name: "Diamond Queens (U12 Preseason)",
+        //     shortName: "U12 Preseason",
+        //     slug: "u12-preseason",
+        // },
+        // {
+        //     year: 2025,
+        //     name: "Diamond Queens (Außer Wertung)",
+        //     shortName: "Diamond Queens",
+        //     slug: "dqc-nc",
+        // },
+        // {
+        //     year: 2025,
+        //     name: "Diamond Queens Cup",
+        //     shortName: "Diamond Queens",
+        //     slug: "dqc-cup",
+        // },
         {
             year: 2024,
             name: 'Baseball Bundesliga',

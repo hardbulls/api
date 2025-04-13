@@ -20,5 +20,8 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     },
     "873ed2ffdefb5ca55214ef1788fa19fa": {
       "status": GameStatus.CANCELED
+    },
+    "ac02030062e90628ad044054599840a7": {
+       "status": GameStatus.CANCELED
     }
 }

@@ -8,6 +8,7 @@ resize_images() {
 
     cd "$dir" || { echo "❌ Failed to enter $dir"; return; }
 
+    rm -rf _resized/*
     mkdir -p _resized
 
     for file in *; do

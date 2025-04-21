@@ -13,8 +13,6 @@ resize_images() {
     for file in *; do
         [[ -d "$file" || "$file" == _resized/* ]] && continue
 
-        filename="${file%.*}"
-
         # Get original width (ImageMagick required)
         original_width=$(identify -format "%w" "$file" 2>/dev/null)
 
@@ -23,7 +21,7 @@ resize_images() {
             continue
         fi
 
-        output="_resized/${filename}_${width}x.webp"
+        output="_resized/${file}_${width}x.webp"
 
         if (( original_width > width )); then
             convert "$file" -resize "${width}" "$output"

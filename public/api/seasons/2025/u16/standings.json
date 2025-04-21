@@ -3,16 +3,16 @@
     "type": "REGULAR",
     "results": [
       {
-        "position": -1,
+        "position": 1,
         "team": "Hard Bulls U16",
         "wins": 0,
         "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
+        "ties": 1,
+        "winsPercentage": 0.5,
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 1,
         "team": "SG Indians - Cardinals U16",
         "wins": 0,
         "loses": 0,
@@ -21,12 +21,12 @@
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 1,
         "team": "Kufstein Vikings U16",
         "wins": 0,
         "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
+        "ties": 1,
+        "winsPercentage": 0.5,
         "gamesBehind": 0
       }
     ]

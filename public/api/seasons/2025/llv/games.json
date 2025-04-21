@@ -1,12 +1,12 @@
 [
   {
-    "id": "633e3044a529e9d1570ec45ca6e7e491",
+    "id": "026a42b2167c8d4ea21318289ee997b7",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals 2",
     "away": "Hard Bulls Bullets",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 6,
+    "homeScore": 11,
+    "status": "finished",
     "date": "2025-04-13T13:00:00.000Z",
     "note": null,
     "league": "llv",

@@ -79,6 +79,10 @@ export const CONFIG: Config = {
         {
             name: "Jed Downham",
             corrections: ["Jacob Eric Downham"]
+        },
+        {
+            name: "Caleb Topper",
+            corrections: ["Caleb James Topper"]
         }
     ],
     leagues: [

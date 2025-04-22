@@ -38,3 +38,4 @@ resize_images() {
 
 resize_images "public/assets/fields" 640
 resize_images "public/assets/teams" 198
+resize_images "public/assets/events" 640

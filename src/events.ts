@@ -112,7 +112,7 @@ export async function fetchEvents(url: string, imageDir: string): Promise<any> {
             venue: row.venue,
             image: image
         });
-    };
+    }
 
     console.log(transformedRows);
 

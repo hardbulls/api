@@ -4,6 +4,7 @@
 /public/assets/events
 /public/assets/fields/_resized
 /public/assets/teams/_resized
+/public/assets/events/_resized
 /public/api/events.json
 /public/api/leagues.json
 /public/api/weekly-games.json

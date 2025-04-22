@@ -25,9 +25,8 @@ jobs:
     - name: Generate Media
       run: |
         sudo apt update
-        sudo apt install imagemagick -y
+        sudo apt install imagemagick webp -y
         ./convert-media.sh
-        ./resize-assets.sh
 
     - name: Build
       run: |
@@ -37,7 +36,7 @@ jobs:
 
     - name: Resize Images
       run: |
-        ./resize-assets.sh
+        sudo ./resize-assets.sh
 
     - name: Setup Pages
       uses: actions/configure-pages@v5

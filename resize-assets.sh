@@ -15,8 +15,8 @@ install_tools_if_missing() {
         echo "✅ ImageMagick found"
     fi
 
-    if ! command -v webp &> /dev/null; then
-        echo "🔧 webp not found. Installing..."
+    if ! command -v cwebp &> /dev/null; then
+        echo "🔧 cwebp not found. Installing..."
         if [[ "$OSTYPE" == "linux-gnu"* ]]; then
             apt update && apt install -y webp
         elif [[ "$OSTYPE" == "darwin"* ]]; then
@@ -26,7 +26,7 @@ install_tools_if_missing() {
             exit 1
         fi
     else
-        echo "✅ webp found"
+        echo "✅ cwebp found"
     fi
 }
 

@@ -75,6 +75,10 @@ export const CONFIG: Config = {
         {
             name: "Zeke Holt",
             corrections: ["Zachary Noah Tate Holt"],
+        },
+        {
+            name: "Jed Downham",
+            corrections: ["Jacob Eric Downham"]
         }
     ],
     leagues: [

@@ -84,13 +84,16 @@ export const CONFIG: Config = {
             shortName: 'BBL',
             slug: 'bbl',
             standings: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/standings',
-            games: ['https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/calendars?round=&team=34514&date='],
-            // statistics: {
-            //     batting: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/batting',
-            //     pitching: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/pitching',
-            //     fielding: 'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/stats/general/team/34514/all/fielding'
-            // },
-            logo: "bbl.svg"
+            games: [
+                'https://www.baseballsoftball.at/de/events/baseball-bundesliga-2025/schedule-and-results'
+            ],
+            statistics: {
+                fielding: "https://www.baseballsoftball.at/api/v1/stats/events/baseball-bundesliga-2025/index?section=players&stats-section=fielding&team=34514&round=&split=&split=&language=de",
+                batting: "https://www.baseballsoftball.at/api/v1/stats/events/baseball-bundesliga-2025/index?section=players&stats-section=batting&team=34514&round=&split=&split=&language=de",
+                pitching: "https://www.baseballsoftball.at/api/v1/stats/events/baseball-bundesliga-2025/index?section=players&stats-section=pitching&team=34514&round=&split=&split=&language=de",
+            },
+            logo: "bbl.svg",
+            filter: (game: Game) => game.home.toLowerCase().includes('hard bulls') || game.away.toLowerCase().includes('hard bulls')
         },
         {
             year: 2025,

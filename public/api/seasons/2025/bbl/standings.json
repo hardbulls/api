@@ -40,21 +40,21 @@
       },
       {
         "position": 5,
-        "team": "Vienna Metrostars",
-        "wins": 2,
+        "team": "Schwechat Blue Bats",
+        "wins": 1,
         "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.4,
-        "gamesBehind": 3.5
+        "winsPercentage": 0.25,
+        "gamesBehind": 4
       },
       {
-        "position": 6,
-        "team": "Schwechat Blue Bats",
-        "wins": 0,
-        "loses": 3,
+        "position": 5,
+        "team": "Vienna Metrostars",
+        "wins": 2,
+        "loses": 4,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 4.5
+        "winsPercentage": 0.333,
+        "gamesBehind": 4
       },
       {
         "position": 7,

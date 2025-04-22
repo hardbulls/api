@@ -3,40 +3,40 @@
     "type": "REGULAR",
     "results": [
       {
-        "position": -1,
+        "position": 1,
         "team": "Dornbirn Bears",
-        "wins": 0,
+        "wins": 1,
         "loses": 0,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 1,
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 1,
         "team": "Dornbirn Legends",
-        "wins": 0,
+        "wins": 1,
         "loses": 0,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 1,
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 3,
         "team": "Dornbirn Redhawks",
         "wins": 0,
         "loses": 0,
         "ties": 0,
         "winsPercentage": null,
-        "gamesBehind": 0
+        "gamesBehind": 0.5
       },
       {
-        "position": -1,
+        "position": 4,
         "team": "Hard Bulls Barons",
         "wins": 0,
-        "loses": 0,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 1.5
       }
     ]
   }

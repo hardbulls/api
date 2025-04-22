@@ -1,4 +1,4 @@
-import {Game, GameCrawler, GameStatus, Standing, StandingsCrawler, StatisticsCrawler} from "@hardbulls/wbsc-crawler";
+import {Game, GameCrawler, GameStatus, Standing, StandingsCrawler, JsonStatisticsCrawler} from "@hardbulls/wbsc-crawler";
 import {CONFIG, FixNamesConfig, LeagueConfig} from "./config";
 import * as fs from 'fs/promises'
 import * as path from "path";
@@ -97,7 +97,7 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
                 await fs.writeFile(standingsFile, JSON.stringify(standings, null, 2));
 
                 if (league.statistics) {
-                    let statistics = await StatisticsCrawler.crawl(league.statistics)
+                    let statistics = await JsonStatisticsCrawler.crawl(league.statistics)
 
                     if (CONFIG.fixNames) {
                         statistics = correctNames(statistics, CONFIG.fixNames)

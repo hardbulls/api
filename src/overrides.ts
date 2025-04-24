@@ -23,5 +23,8 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     },
     "ac02030062e90628ad044054599840a7": {
        "status": GameStatus.CANCELED
+    },
+    "3db71ddd0a5a71092ffcb4625b8f7f7c": {
+        "venue": "Sportanlage Rohrbach, Dornbirn"
     }
 }

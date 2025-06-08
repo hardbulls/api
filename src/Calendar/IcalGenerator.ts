@@ -14,8 +14,12 @@ const changeTimezone = (date: Date, ianatz: string) => {
     return new Date(date.getTime() - diff)
 }
 
+export interface ICalGame extends Game {
+    league?: string;
+}
+
 export const IcalGenerator = {
-    games: (name: string, games: Game[], timezone: string, gameDurationInMinutes: number) => {
+    games: (name: string, games: ICalGame[], timezone: string, gameDurationInMinutes: number) => {
         const calendar = ical({ name })
         calendar.timezone({
             name: timezone,
@@ -28,7 +32,12 @@ export const IcalGenerator = {
             end.setTime(game.date.getTime() + gameDurationInMinutes * 60 * 1000)
 
             const location = game.venue;
-            const description = `${game.away} - ${game.home}`
+            let description = `${game.away} - ${game.home}`
+
+            if (game.league) {
+                description = `${game.league}: ${description}`
+            }
+
             const summary = description
 
             calendar.createEvent({

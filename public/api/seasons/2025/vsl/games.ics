@@ -25,83 +25,83 @@ END:VTIMEZONE
 TIMEZONE-ID:Europe/Vienna
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:40626176-aaf2-4adb-81e0-21892d2e4a56
+UID:d7fa7ffe-f0e5-41c3-be12-311192aca2eb
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250419T140000
 DTEND;TZID=Europe/Vienna:20250419T160000
-SUMMARY:Dornbirn Legends - Hard Bulls Barons
+SUMMARY:vsl: Dornbirn Legends - Hard Bulls Barons
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Dornbirn Legends - Hard Bulls Barons
+DESCRIPTION:vsl: Dornbirn Legends - Hard Bulls Barons
 END:VEVENT
 BEGIN:VEVENT
-UID:2f11356a-bab5-4d18-85f6-9c9be10e79e2
+UID:bcd95f2d-f5fb-4bee-b865-a540eb3b5c84
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250419T160000
 DTEND;TZID=Europe/Vienna:20250419T180000
-SUMMARY:Dornbirn Bears - Hard Bulls Barons
+SUMMARY:vsl: Dornbirn Bears - Hard Bulls Barons
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Dornbirn Bears - Hard Bulls Barons
+DESCRIPTION:vsl: Dornbirn Bears - Hard Bulls Barons
 END:VEVENT
 BEGIN:VEVENT
-UID:3ce4167a-4705-4e9a-97a5-f00ba5ebde0b
+UID:4fb7052e-92d4-4cf9-8937-21a9b17570c4
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250501T130000
 DTEND;TZID=Europe/Vienna:20250501T150000
-SUMMARY:Hard Bulls Barons - Dornbirn Legends
+SUMMARY:vsl: Hard Bulls Barons - Dornbirn Legends
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Hard Bulls Barons - Dornbirn Legends
+DESCRIPTION:vsl: Hard Bulls Barons - Dornbirn Legends
 END:VEVENT
 BEGIN:VEVENT
-UID:69ab2efc-ce34-4941-8e30-29d7cb6dec7b
+UID:460b0c46-6126-441b-8357-8e9d627acea7
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250523T183000
 DTEND;TZID=Europe/Vienna:20250523T203000
-SUMMARY:Hard Bulls Barons - Feldkirch Angry Balls
+SUMMARY:vsl: Hard Bulls Barons - Feldkirch Angry Balls
 LOCATION:Ballpark Feldkirch\, Feldkirch
-DESCRIPTION:Hard Bulls Barons - Feldkirch Angry Balls
+DESCRIPTION:vsl: Hard Bulls Barons - Feldkirch Angry Balls
 END:VEVENT
 BEGIN:VEVENT
-UID:6e392dcb-0e3f-428e-9f62-806fbdcc5c60
+UID:fc67aee0-21d1-42e5-8131-37362d2304e3
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250615T160000
 DTEND;TZID=Europe/Vienna:20250615T180000
-SUMMARY:Hard Bulls Barons - Dornbirn Redhawks
+SUMMARY:vsl: Hard Bulls Barons - Dornbirn Redhawks
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Hard Bulls Barons - Dornbirn Redhawks
+DESCRIPTION:vsl: Hard Bulls Barons - Dornbirn Redhawks
 END:VEVENT
 BEGIN:VEVENT
-UID:0e151e02-e94f-41e7-a0f2-7083b0a6aae8
+UID:53e844e7-2a95-4351-a781-a2134f2a062f
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250712T110000
 DTEND;TZID=Europe/Vienna:20250712T130000
-SUMMARY:Hard Bulls Barons - Dornbirn Bears
+SUMMARY:vsl: Hard Bulls Barons - Dornbirn Bears
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Hard Bulls Barons - Dornbirn Bears
+DESCRIPTION:vsl: Hard Bulls Barons - Dornbirn Bears
 END:VEVENT
 BEGIN:VEVENT
-UID:fcdd2053-0e11-4319-b9ca-8f0a7a573eec
+UID:b81a8cc2-0a68-4d61-8ebc-91d2de908832
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250830T150000
 DTEND;TZID=Europe/Vienna:20250830T170000
-SUMMARY:Dornbirn Redhawks - Hard Bulls Barons
+SUMMARY:vsl: Dornbirn Redhawks - Hard Bulls Barons
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Dornbirn Redhawks - Hard Bulls Barons
+DESCRIPTION:vsl: Dornbirn Redhawks - Hard Bulls Barons
 END:VEVENT
 BEGIN:VEVENT
-UID:9119a2eb-0a36-428b-9387-d9ee8d731462
+UID:630f6a4e-4a1c-40a9-bb52-c5efcc40bf6e
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250907T150000
 DTEND;TZID=Europe/Vienna:20250907T170000
-SUMMARY:Feldkirch Angry Balls - Hard Bulls Barons
+SUMMARY:vsl: Feldkirch Angry Balls - Hard Bulls Barons
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Feldkirch Angry Balls - Hard Bulls Barons
+DESCRIPTION:vsl: Feldkirch Angry Balls - Hard Bulls Barons
 END:VEVENT
 END:VCALENDAR

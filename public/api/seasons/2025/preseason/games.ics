@@ -25,33 +25,33 @@ END:VTIMEZONE
 TIMEZONE-ID:Europe/Vienna
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:581765a7-5629-43af-b8e9-9153534e3c37
+UID:b9a3ff33-3832-452b-bb44-1d128222a71e
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250322T170000
 DTEND;TZID=Europe/Vienna:20250322T190000
-SUMMARY:Hard Bulls - Heidenheim Heideköpfe
+SUMMARY:preseason: Hard Bulls - Heidenheim Heideköpfe
 LOCATION:Ballpark Heidenheim\, Heidenheim an der Brenz
-DESCRIPTION:Hard Bulls - Heidenheim Heideköpfe
+DESCRIPTION:preseason: Hard Bulls - Heidenheim Heideköpfe
 END:VEVENT
 BEGIN:VEVENT
-UID:439adb0b-cff9-4153-9ebf-01ca26d85723
+UID:c17e9a50-ccd6-4d82-8050-cae49821ac15
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250323T103000
 DTEND;TZID=Europe/Vienna:20250323T123000
-SUMMARY:Hard Bulls - Heidenheim Heideköpfe
+SUMMARY:preseason: Hard Bulls - Heidenheim Heideköpfe
 LOCATION:Ballpark Heidenheim\, Heidenheim an der Brenz
-DESCRIPTION:Hard Bulls - Heidenheim Heideköpfe
+DESCRIPTION:preseason: Hard Bulls - Heidenheim Heideköpfe
 END:VEVENT
 BEGIN:VEVENT
-UID:5e5d6f3a-7f26-483c-a588-b3f5350e8939
+UID:b12677bf-9b01-4f14-8f70-38fc7b05db4f
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250330T133000
 DTEND;TZID=Europe/Vienna:20250330T153000
-SUMMARY:Wil Pirates - Hard Bulls
+SUMMARY:preseason: Wil Pirates - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Wil Pirates - Hard Bulls
+DESCRIPTION:preseason: Wil Pirates - Hard Bulls
 END:VEVENT
 END:VCALENDAR

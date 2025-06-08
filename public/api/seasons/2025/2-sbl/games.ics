@@ -25,103 +25,103 @@ END:VTIMEZONE
 TIMEZONE-ID:Europe/Vienna
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:d5aabe62-ff7c-42dc-8ff1-2bf947564f6b
+UID:4e0b6724-9212-4357-a2c0-3676d2c67be7
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250524T110000
 DTEND;TZID=Europe/Vienna:20250524T130000
-SUMMARY:Vienna Wanderers 2 - SG Indians - Bulls
+SUMMARY:2-sbl: Pee Wees St. Pölten - SG Indians - Bulls
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Vienna Wanderers 2 - SG Indians - Bulls
+DESCRIPTION:2-sbl: Pee Wees St. Pölten - SG Indians - Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:6b0fac8c-4bb2-417d-b1ba-56da24baa691
+UID:681103d7-122f-4481-82c6-6b87cf643069
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250524T150000
 DTEND;TZID=Europe/Vienna:20250524T170000
-SUMMARY:Pee Wees St. Pölten - SG Indians - Bulls
+SUMMARY:2-sbl: Vienna Wanderers 2 - SG Indians - Bulls
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Pee Wees St. Pölten - SG Indians - Bulls
+DESCRIPTION:2-sbl: Vienna Wanderers 2 - SG Indians - Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:2049ca5f-bb92-45b1-81b3-bf3332b31d5c
+UID:3ac542f5-e27e-4141-bf37-7db8561fd88a
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250531T130000
 DTEND;TZID=Europe/Vienna:20250531T150000
-SUMMARY:SG Crazy Chicklets - Metrostars - SG Indians - Bulls
+SUMMARY:2-sbl: SG Crazy Chicklets - Metrostars - SG Indians - Bulls
 LOCATION:Ballpark Feldkirch\, Feldkirch
-DESCRIPTION:SG Crazy Chicklets - Metrostars - SG Indians - Bulls
+DESCRIPTION:2-sbl: SG Crazy Chicklets - Metrostars - SG Indians - Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:11047f22-894e-4d78-ab64-be13a9541b91
+UID:6f2b0de7-0091-4208-8a45-7b21d6914fa4
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250531T150000
 DTEND;TZID=Europe/Vienna:20250531T170000
-SUMMARY:SG Indians - Bulls - Feldkirch Falcons
+SUMMARY:2-sbl: SG Indians - Bulls - Feldkirch Falcons
 LOCATION:Ballpark Feldkirch\, Feldkirch
-DESCRIPTION:SG Indians - Bulls - Feldkirch Falcons
+DESCRIPTION:2-sbl: SG Indians - Bulls - Feldkirch Falcons
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd6bddb-8c55-40a0-a209-774ea135d3ea
+UID:cd8fc8e2-0235-4dc0-9326-0984f298e6f1
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250628T110000
 DTEND;TZID=Europe/Vienna:20250628T130000
-SUMMARY:SG Indians - Bulls - SG Crazy Chicklets - Metrostars
+SUMMARY:2-sbl: SG Indians - Bulls - SG Crazy Chicklets - Metrostars
 LOCATION:Ballpark Freudenau\, Vienna
-DESCRIPTION:SG Indians - Bulls - SG Crazy Chicklets - Metrostars
+DESCRIPTION:2-sbl: SG Indians - Bulls - SG Crazy Chicklets - Metrostars
 END:VEVENT
 BEGIN:VEVENT
-UID:aadccb10-05e1-4a47-b371-41e007551f0d
+UID:1657df22-dc3a-4d01-a9dc-d2755329c031
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250628T130000
 DTEND;TZID=Europe/Vienna:20250628T150000
-SUMMARY:SG Indians - Bulls - Pee Wees St. Pölten
+SUMMARY:2-sbl: SG Indians - Bulls - Pee Wees St. Pölten
 LOCATION:Ballpark Freudenau\, Vienna
-DESCRIPTION:SG Indians - Bulls - Pee Wees St. Pölten
+DESCRIPTION:2-sbl: SG Indians - Bulls - Pee Wees St. Pölten
 END:VEVENT
 BEGIN:VEVENT
-UID:83b32dba-f72d-4c91-afba-38b8510ff4e7
+UID:35e656aa-7a4b-4460-bd7f-fd504b6244f6
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250705T130000
 DTEND;TZID=Europe/Vienna:20250705T150000
-SUMMARY:ASAK Athletics - SG Indians - Bulls
+SUMMARY:2-sbl: ASAK Athletics - SG Indians - Bulls
 LOCATION:Ballpark Feldkirch\, Feldkirch
-DESCRIPTION:ASAK Athletics - SG Indians - Bulls
+DESCRIPTION:2-sbl: ASAK Athletics - SG Indians - Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:4a05993b-2491-41a4-ba8c-6b863b1289ac
+UID:3d3ff384-3af9-4cc0-af80-a26cb9575b80
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250705T150000
 DTEND;TZID=Europe/Vienna:20250705T170000
-SUMMARY:Feldkirch Falcons - SG Indians - Bulls
+SUMMARY:2-sbl: Feldkirch Falcons - SG Indians - Bulls
 LOCATION:Ballpark Feldkirch\, Feldkirch
-DESCRIPTION:Feldkirch Falcons - SG Indians - Bulls
+DESCRIPTION:2-sbl: Feldkirch Falcons - SG Indians - Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:c83c7206-76f0-4244-a02f-01a3a9cb742c
+UID:af329fe2-5e5f-4417-9f60-bb90d57de037
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250824T110000
 DTEND;TZID=Europe/Vienna:20250824T130000
-SUMMARY:SG Indians - Bulls - ASAK Athletics
+SUMMARY:2-sbl: SG Indians - Bulls - ASAK Athletics
 LOCATION:Athletics Ballpark\, Attnang-Puchheim
-DESCRIPTION:SG Indians - Bulls - ASAK Athletics
+DESCRIPTION:2-sbl: SG Indians - Bulls - ASAK Athletics
 END:VEVENT
 BEGIN:VEVENT
-UID:79a611a2-c6f6-4cf9-a997-ee7322809e22
+UID:f1923930-b021-4b72-b012-d3321acd2ba2
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250824T130000
 DTEND;TZID=Europe/Vienna:20250824T150000
-SUMMARY:SG Indians - Bulls - Vienna Wanderers 2
+SUMMARY:2-sbl: SG Indians - Bulls - Vienna Wanderers 2
 LOCATION:Athletics Ballpark\, Attnang-Puchheim
-DESCRIPTION:SG Indians - Bulls - Vienna Wanderers 2
+DESCRIPTION:2-sbl: SG Indians - Bulls - Vienna Wanderers 2
 END:VEVENT
 END:VCALENDAR

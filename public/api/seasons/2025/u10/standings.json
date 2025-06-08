@@ -3,31 +3,31 @@
     "type": "REGULAR",
     "results": [
       {
-        "position": -1,
+        "position": 1,
+        "team": "Dornbirn Indians Kids U10",
+        "wins": 7,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.875,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls U10",
+        "wins": 3,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 3
+      },
+      {
+        "position": 3,
         "team": "Feldkirch Cardinals U10",
         "wins": 0,
-        "loses": 0,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Hard Bulls U10",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Dornbirn Indians Kids U10",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 6
       }
     ]
   },
@@ -35,7 +35,7 @@
     "type": "FINAL_TOURNAMENT",
     "results": [
       {
-        "position": -1,
+        "position": 1,
         "team": "Feldkirch Cardinals U10",
         "wins": 0,
         "loses": 0,
@@ -44,7 +44,7 @@
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 1,
         "team": "Hard Bulls U10",
         "wins": 0,
         "loses": 0,
@@ -53,7 +53,7 @@
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 1,
         "team": "Dornbirn Indians Kids U10",
         "wins": 0,
         "loses": 0,

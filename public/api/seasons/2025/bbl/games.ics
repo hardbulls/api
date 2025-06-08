@@ -25,243 +25,233 @@ END:VTIMEZONE
 TIMEZONE-ID:Europe/Vienna
 X-WR-TIMEZONE:Europe/Vienna
 BEGIN:VEVENT
-UID:f1fafa18-0c44-424a-bf49-fae8ea91be38
+UID:1cbaa9f5-948f-40dd-a064-1cf375be3e4a
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250412T120000
 DTEND;TZID=Europe/Vienna:20250412T140000
-SUMMARY:Hard Bulls - Dornbirn Indians
+SUMMARY:bbl: Hard Bulls - Dornbirn Indians
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Hard Bulls - Dornbirn Indians
+DESCRIPTION:bbl: Hard Bulls - Dornbirn Indians
 END:VEVENT
 BEGIN:VEVENT
-UID:bfe67792-fc9a-4620-a54b-52bf7b0a2310
+UID:5d40590e-704a-4a31-a8cd-230be4a4ddf7
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250412T143000
 DTEND;TZID=Europe/Vienna:20250412T163000
-SUMMARY:Hard Bulls - Dornbirn Indians
+SUMMARY:bbl: Hard Bulls - Dornbirn Indians
 LOCATION:Sportanlage Rohrbach\, Dornbirn
-DESCRIPTION:Hard Bulls - Dornbirn Indians
+DESCRIPTION:bbl: Hard Bulls - Dornbirn Indians
 END:VEVENT
 BEGIN:VEVENT
-UID:7d8179c9-a69c-48ae-8b0f-06b2823447d0
+UID:15b43719-1937-45ac-9fe5-a3df2b92311d
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250419T140000
 DTEND;TZID=Europe/Vienna:20250419T160000
-SUMMARY:Hard Bulls - Wr. Neustadt Diving Ducks
+SUMMARY:bbl: Hard Bulls - Wr. Neustadt Diving Ducks
 LOCATION:Ducksfield\, Wiener Neustadt
-DESCRIPTION:Hard Bulls - Wr. Neustadt Diving Ducks
+DESCRIPTION:bbl: Hard Bulls - Wr. Neustadt Diving Ducks
 END:VEVENT
 BEGIN:VEVENT
-UID:cc14c173-6c17-4104-9404-7e3c9ad21164
+UID:1654842a-e91b-4e8d-adb9-9eee68afbaf6
 SEQUENCE:0
-DTSTAMP:20250422T111625
-DTSTART;TZID=Europe/Vienna:20250419T163000
-DTEND;TZID=Europe/Vienna:20250419T183000
-SUMMARY:Hard Bulls - Wr. Neustadt Diving Ducks
-LOCATION:Ducksfield\, Wiener Neustadt
-DESCRIPTION:Hard Bulls - Wr. Neustadt Diving Ducks
-END:VEVENT
-BEGIN:VEVENT
-UID:7f8c9796-dc16-48a5-a137-1da7ffd65a86
-SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250427T110000
 DTEND;TZID=Europe/Vienna:20250427T130000
-SUMMARY:Vienna Wanderers - Hard Bulls
+SUMMARY:bbl: Vienna Wanderers - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Vienna Wanderers - Hard Bulls
+DESCRIPTION:bbl: Vienna Wanderers - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:19713004-2a8a-4f40-ae7f-4b050abe786f
+UID:34c0288a-a662-43f0-bc72-86ad73db4b67
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250427T133000
 DTEND;TZID=Europe/Vienna:20250427T153000
-SUMMARY:Vienna Wanderers - Hard Bulls
+SUMMARY:bbl: Vienna Wanderers - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Vienna Wanderers - Hard Bulls
+DESCRIPTION:bbl: Vienna Wanderers - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:70894e3e-a3fe-4fbe-abf3-84178a3c034b
+UID:92ccaf90-4459-454c-96ad-97e12cf2931a
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250503T130000
 DTEND;TZID=Europe/Vienna:20250503T150000
-SUMMARY:Vienna Metrostars - Hard Bulls
+SUMMARY:bbl: Vienna Metrostars - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Vienna Metrostars - Hard Bulls
+DESCRIPTION:bbl: Vienna Metrostars - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:58a930b9-ba11-4b1e-b879-6eb2780bdd03
+UID:da34f83c-9992-48ba-946a-9fe01f9bdcb4
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250503T153000
 DTEND;TZID=Europe/Vienna:20250503T173000
-SUMMARY:Vienna Metrostars - Hard Bulls
+SUMMARY:bbl: Vienna Metrostars - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Vienna Metrostars - Hard Bulls
+DESCRIPTION:bbl: Vienna Metrostars - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:5194bc9c-35de-4548-8f95-3a4349474d47
+UID:4b77db35-fc38-4f1a-84a4-66ad700139c9
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250511T110000
 DTEND;TZID=Europe/Vienna:20250511T130000
-SUMMARY:Hard Bulls - Schwechat Blue Bats
+SUMMARY:bbl: Hard Bulls - Schwechat Blue Bats
 LOCATION:Batsfield\, Schwechat
-DESCRIPTION:Hard Bulls - Schwechat Blue Bats
+DESCRIPTION:bbl: Hard Bulls - Schwechat Blue Bats
 END:VEVENT
 BEGIN:VEVENT
-UID:b0d5a40d-97fc-41fa-b054-8214dc3f6181
+UID:faf39dae-1337-4d9f-9cf7-98e5db95289d
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250511T133000
 DTEND;TZID=Europe/Vienna:20250511T153000
-SUMMARY:Hard Bulls - Schwechat Blue Bats
+SUMMARY:bbl: Hard Bulls - Schwechat Blue Bats
 LOCATION:Batsfield\, Schwechat
-DESCRIPTION:Hard Bulls - Schwechat Blue Bats
+DESCRIPTION:bbl: Hard Bulls - Schwechat Blue Bats
 END:VEVENT
 BEGIN:VEVENT
-UID:e073a5d5-2586-4efe-9b56-bc6204e75da6
+UID:3a54000f-639f-4e7e-8e30-3b819e7db58e
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250517T130000
 DTEND;TZID=Europe/Vienna:20250517T150000
-SUMMARY:Wr. Neustadt Diving Ducks - Hard Bulls
+SUMMARY:bbl: Wr. Neustadt Diving Ducks - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Wr. Neustadt Diving Ducks - Hard Bulls
+DESCRIPTION:bbl: Wr. Neustadt Diving Ducks - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:ac25475d-1388-4682-8ea9-819ad48f866f
+UID:7561620d-abdd-4499-a362-f5ab71257871
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250517T153000
 DTEND;TZID=Europe/Vienna:20250517T173000
-SUMMARY:Wr. Neustadt Diving Ducks - Hard Bulls
+SUMMARY:bbl: Wr. Neustadt Diving Ducks - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Wr. Neustadt Diving Ducks - Hard Bulls
+DESCRIPTION:bbl: Wr. Neustadt Diving Ducks - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:b651cf61-0feb-4e3b-ae06-683bb1f52a70
+UID:cfc55a6e-b54b-4f1f-a509-934827296bd1
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250524T140000
 DTEND;TZID=Europe/Vienna:20250524T160000
-SUMMARY:Hard Bulls - Vienna Wanderers
+SUMMARY:bbl: Hard Bulls - Vienna Wanderers
 LOCATION:Ballpark Spenadlwiese\, Vienna
-DESCRIPTION:Hard Bulls - Vienna Wanderers
+DESCRIPTION:bbl: Hard Bulls - Vienna Wanderers
 END:VEVENT
 BEGIN:VEVENT
-UID:bf824cdd-e65f-4e93-8fc7-ec3f8a02bfe5
+UID:af30b60f-8e8e-403e-9647-1a2226652c8c
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250524T163000
 DTEND;TZID=Europe/Vienna:20250524T183000
-SUMMARY:Hard Bulls - Vienna Wanderers
+SUMMARY:bbl: Hard Bulls - Vienna Wanderers
 LOCATION:Ballpark Spenadlwiese\, Vienna
-DESCRIPTION:Hard Bulls - Vienna Wanderers
+DESCRIPTION:bbl: Hard Bulls - Vienna Wanderers
 END:VEVENT
 BEGIN:VEVENT
-UID:8c54205e-5cec-4109-8cd5-78ea12841326
+UID:21256277-28db-4a35-b8ac-669329259d9c
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250531T130000
 DTEND;TZID=Europe/Vienna:20250531T150000
-SUMMARY:Dornbirn Indians - Hard Bulls
+SUMMARY:bbl: Dornbirn Indians - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Dornbirn Indians - Hard Bulls
+DESCRIPTION:bbl: Dornbirn Indians - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:3349395f-896e-4368-817c-d9e786a1ad9f
+UID:fac6b74d-01b7-4a9e-b197-506d6b214045
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250531T153000
 DTEND;TZID=Europe/Vienna:20250531T173000
-SUMMARY:Dornbirn Indians - Hard Bulls
+SUMMARY:bbl: Dornbirn Indians - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Dornbirn Indians - Hard Bulls
+DESCRIPTION:bbl: Dornbirn Indians - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:0d163529-0672-459a-8486-88ddf3486ef3
+UID:f9176e19-78e4-41d2-b466-9e1595de572a
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250607T130000
 DTEND;TZID=Europe/Vienna:20250607T150000
-SUMMARY:Schwechat Blue Bats - Hard Bulls
+SUMMARY:bbl: Schwechat Blue Bats - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Schwechat Blue Bats - Hard Bulls
+DESCRIPTION:bbl: Schwechat Blue Bats - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:ec56237d-7a1f-42cf-97a8-ac624c2b6aa9
+UID:b05ea1c2-00b7-4bc6-a4de-c39da0fc92b3
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250607T153000
 DTEND;TZID=Europe/Vienna:20250607T173000
-SUMMARY:Schwechat Blue Bats - Hard Bulls
+SUMMARY:bbl: Schwechat Blue Bats - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Schwechat Blue Bats - Hard Bulls
+DESCRIPTION:bbl: Schwechat Blue Bats - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:61880f65-b8e4-48bd-b514-2f4454d43b2d
+UID:67397c4d-4a48-4cf1-bfb7-cd1544137bfc
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250621T110000
 DTEND;TZID=Europe/Vienna:20250621T130000
-SUMMARY:Hard Bulls - Traiskirchen Grasshoppers
+SUMMARY:bbl: Hard Bulls - Traiskirchen Grasshoppers
 LOCATION:Hoppersfield\, Traiskirchen
-DESCRIPTION:Hard Bulls - Traiskirchen Grasshoppers
+DESCRIPTION:bbl: Hard Bulls - Traiskirchen Grasshoppers
 END:VEVENT
 BEGIN:VEVENT
-UID:d6ffb1aa-6b05-4345-a04b-351d07ed305f
+UID:b1a55e1a-f574-46f7-acff-8cc8e093fc7a
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250621T133000
 DTEND;TZID=Europe/Vienna:20250621T153000
-SUMMARY:Hard Bulls - Traiskirchen Grasshoppers
+SUMMARY:bbl: Hard Bulls - Traiskirchen Grasshoppers
 LOCATION:Hoppersfield\, Traiskirchen
-DESCRIPTION:Hard Bulls - Traiskirchen Grasshoppers
+DESCRIPTION:bbl: Hard Bulls - Traiskirchen Grasshoppers
 END:VEVENT
 BEGIN:VEVENT
-UID:cf9afdeb-faff-4840-a00a-adc6083973c0
+UID:e521f280-09a7-417c-9c8d-324fde3acf9b
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250706T110000
 DTEND;TZID=Europe/Vienna:20250706T130000
-SUMMARY:Traiskirchen Grasshoppers - Hard Bulls
+SUMMARY:bbl: Traiskirchen Grasshoppers - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Traiskirchen Grasshoppers - Hard Bulls
+DESCRIPTION:bbl: Traiskirchen Grasshoppers - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:7389eff0-6fac-4a4d-882b-acda5fab5d86
+UID:a5e06971-b37a-4386-b7a4-d1d6762a3aa1
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250706T133000
 DTEND;TZID=Europe/Vienna:20250706T153000
-SUMMARY:Traiskirchen Grasshoppers - Hard Bulls
+SUMMARY:bbl: Traiskirchen Grasshoppers - Hard Bulls
 LOCATION:Ballpark am See\, Hard
-DESCRIPTION:Traiskirchen Grasshoppers - Hard Bulls
+DESCRIPTION:bbl: Traiskirchen Grasshoppers - Hard Bulls
 END:VEVENT
 BEGIN:VEVENT
-UID:a05e774b-f188-4b3e-9d21-f7e37c835a61
+UID:761804cc-4aac-45b5-bd32-101e844f6a72
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250712T130000
 DTEND;TZID=Europe/Vienna:20250712T150000
-SUMMARY:Hard Bulls - Vienna Metrostars
+SUMMARY:bbl: Hard Bulls - Vienna Metrostars
 LOCATION:Ballpark Freudenau\, Vienna
-DESCRIPTION:Hard Bulls - Vienna Metrostars
+DESCRIPTION:bbl: Hard Bulls - Vienna Metrostars
 END:VEVENT
 BEGIN:VEVENT
-UID:d820fa29-0aef-4a43-8c01-6c60f42876b1
+UID:7f611097-6c8e-4b30-a256-3b936cfd3f87
 SEQUENCE:0
-DTSTAMP:20250422T111625
+DTSTAMP:20250608T173112
 DTSTART;TZID=Europe/Vienna:20250712T153000
 DTEND;TZID=Europe/Vienna:20250712T173000
-SUMMARY:Hard Bulls - Vienna Metrostars
+SUMMARY:bbl: Hard Bulls - Vienna Metrostars
 LOCATION:Ballpark Freudenau\, Vienna
-DESCRIPTION:Hard Bulls - Vienna Metrostars
+DESCRIPTION:bbl: Hard Bulls - Vienna Metrostars
 END:VEVENT
 END:VCALENDAR

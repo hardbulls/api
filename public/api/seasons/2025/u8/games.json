@@ -1,6 +1,6 @@
 [
   {
-    "id": "ac02030062e90628ad044054599840a7",
+    "id": "d2dece9c1ed91839f22df3ff10df7bfc",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls U8",
     "away": "Dornbirn Indians Minis U8",
@@ -13,26 +13,26 @@
     "season": 2025
   },
   {
-    "id": "03a62d68de8df95d2d8b20e04208037a",
+    "id": "2d24215abee55243622124b67d10d72b",
     "venue": "Ballpark Feldkirch, Feldkirch",
     "home": "Feldkirch Cardinals U8",
     "away": "Hard Bulls U8",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 11,
+    "homeScore": 18,
+    "status": "finished",
     "date": "2025-05-10T09:30:00.000Z",
     "note": null,
     "league": "u8",
     "season": 2025
   },
   {
-    "id": "6ff2e9c10d26f792ac19cff6cdd373cf",
+    "id": "067e43864a3ead8243c870ce4edcc043",
     "venue": "Sportanlage Rohrbach, Dornbirn",
     "home": "Dornbirn Indians Minis U8",
     "away": "Hard Bulls U8",
     "awayScore": 0,
     "homeScore": 0,
-    "status": "scheduled",
+    "status": "canceled",
     "date": "2025-05-25T08:00:00.000Z",
     "note": null,
     "league": "u8",

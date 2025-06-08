@@ -5,65 +5,65 @@
       {
         "position": 1,
         "team": "Wr. Neustadt Diving Ducks",
-        "wins": 6,
-        "loses": 0,
+        "wins": 15,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": 1,
+        "winsPercentage": 0.938,
         "gamesBehind": 0
       },
       {
         "position": 2,
-        "team": "Dornbirn Indians",
-        "wins": 2,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": 1,
-        "gamesBehind": 2
-      },
-      {
-        "position": 3,
-        "team": "Traiskirchen Grasshoppers",
-        "wins": 1,
-        "loses": 1,
-        "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 3
-      },
-      {
-        "position": 3,
         "team": "Vienna Wanderers",
-        "wins": 2,
-        "loses": 2,
+        "wins": 9,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 3
+        "winsPercentage": 0.643,
+        "gamesBehind": 5
       },
       {
-        "position": 5,
-        "team": "Schwechat Blue Bats",
-        "wins": 1,
-        "loses": 3,
+        "position": 3,
+        "team": "Dornbirn Indians",
+        "wins": 8,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.25,
-        "gamesBehind": 4
+        "winsPercentage": 0.571,
+        "gamesBehind": 6
       },
       {
-        "position": 5,
+        "position": 4,
         "team": "Vienna Metrostars",
-        "wins": 2,
-        "loses": 4,
+        "wins": 9,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.333,
-        "gamesBehind": 4
+        "winsPercentage": 0.563,
+        "gamesBehind": 6
+      },
+      {
+        "position": 5,
+        "team": "Hard Bulls",
+        "wins": 5,
+        "loses": 12,
+        "ties": 0,
+        "winsPercentage": 0.294,
+        "gamesBehind": 10.5
+      },
+      {
+        "position": 6,
+        "team": "Traiskirchen Grasshoppers",
+        "wins": 4,
+        "loses": 10,
+        "ties": 0,
+        "winsPercentage": 0.286,
+        "gamesBehind": 10
       },
       {
         "position": 7,
-        "team": "Hard Bulls",
-        "wins": 0,
-        "loses": 4,
+        "team": "Schwechat Blue Bats",
+        "wins": 3,
+        "loses": 12,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 5
+        "winsPercentage": 0.2,
+        "gamesBehind": 11.5
       }
     ]
   }

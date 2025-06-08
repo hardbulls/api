@@ -26,13 +26,13 @@
     "season": 2025
   },
   {
-    "id": "3db71ddd0a5a71092ffcb4625b8f7f7c",
+    "id": "f075378033b32bfca1f6b2eaf099bdd0",
     "venue": "Ballpark am See, Hard",
     "home": "Dornbirn Legends",
     "away": "Hard Bulls Barons",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
+    "awayScore": 5,
+    "homeScore": 11,
+    "status": "finished",
     "date": "2025-05-01T11:00:00.000Z",
     "note": null,
     "league": "vsl",

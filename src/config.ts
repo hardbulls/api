@@ -20,6 +20,7 @@ export interface Config {
     output: string;
     aggregateYears: number;
     defaultGameDuration: number;
+    combinedCalendarName: string;
     eventsUrl?: string;
     leagues: Array<LeagueConfig>,
     fixNames?: Array<FixNamesConfig>,
@@ -36,6 +37,7 @@ export const CONFIG: Config = {
     output: '../public/',
     eventsUrl: 'https://www.hardbulls.com/events/data',
     crawlYears: [2025],
+    combinedCalendarName: 'Bulls - Alle Mannschaften',
     aggregateYears: 3,
     timezone: 'Europe/Vienna',
     defaultGameDuration: 120,

@@ -196,6 +196,37 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         }
     }
 
+    const generateCombinedCalendar = async (leagues: LeagueConfig[]) => {
+        const currentSeason = today.getFullYear().toString();
+        const games: Game[] = [];
+
+        for (const league of leagues) {
+            if (league.year.toString() === currentSeason) {
+                const leagueDirectory = path.resolve(path.join(baseOutputDir, 'seasons', currentSeason, league.slug));
+                const gamesJson = path.resolve(leagueDirectory, 'games.json');
+
+                if (await fileExists(gamesJson)) {
+                    games.push(...JSON.parse(await fs.readFile(gamesJson, {encoding: "utf8"})).map((game: any) => {
+                        return {
+                            ...game,
+                            league: league.shortName.toUpperCase(),
+                            date: new Date(game.date)
+                        }
+                    }));
+                }
+            }
+        }
+        const combinedCalendar = IcalGenerator.games(
+            CONFIG.combinedCalendarName,
+            games.filter((v: any) => v.status === GameStatus.SCHEDULED || v.status === GameStatus.FINISHED),
+            CONFIG.timezone,
+            CONFIG.defaultGameDuration,
+        )
+
+        await fs.writeFile(path.resolve(path.join(baseOutputDir, 'all-games.ics')), combinedCalendar);
+    }
+
+
     const weeklyGames = async () => {
         const upcomingWeekGames: ApiGame[] = [];
         const nextWeek = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 7, 0, 0, 0);
@@ -235,6 +266,8 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
         }
 
     }
+
+    await generateCombinedCalendar(CONFIG.leagues)
 
     let leagueData = CONFIG.leagues.map((league: LeagueConfig) => {
         return {

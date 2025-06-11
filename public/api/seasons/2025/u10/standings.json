@@ -14,20 +14,20 @@
       {
         "position": 2,
         "team": "Hard Bulls U10",
-        "wins": 3,
+        "wins": 5,
         "loses": 3,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 3
+        "winsPercentage": 0.625,
+        "gamesBehind": 2
       },
       {
         "position": 3,
         "team": "Feldkirch Cardinals U10",
         "wins": 0,
-        "loses": 6,
+        "loses": 8,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 6
+        "gamesBehind": 7
       }
     ]
   },

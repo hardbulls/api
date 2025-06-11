@@ -1,4 +1,4 @@
-import {GameStatus} from "@hardbulls/wbsc-crawler";
+import {Game, GameStatus} from "@hardbulls/wbsc-crawler";
 
 export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, date?: Date } } = {
     "e3b3d2919520a2fea14a14a405020831": {
@@ -26,5 +26,22 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     },
     "3db71ddd0a5a71092ffcb4625b8f7f7c": {
         "venue": "Sportanlage Rohrbach, Dornbirn"
+    }
+}
+
+export const MANUAL_GAMES: { [key: string]: { [key: string]: Game[] }} = {
+    "2025": {
+        "u14": [
+            {
+                "venue": "Ballpark am See, Hard",
+                "home": "Hard Bulls U14",
+                "away": "Feldkirch Cardinals U14",
+                "awayScore": 0,
+                "homeScore": 0,
+                "status": GameStatus.SCHEDULED,
+                "date": new Date("2025-06-11T16:30:00.000Z"),
+                "note": null,
+            },
+        ]
     }
 }

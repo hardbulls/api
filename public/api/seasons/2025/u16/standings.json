@@ -5,10 +5,10 @@
       {
         "position": 1,
         "team": "Hard Bulls U16",
-        "wins": 4,
+        "wins": 6,
         "loses": 1,
         "ties": 0,
-        "winsPercentage": 0.8,
+        "winsPercentage": 0.857,
         "gamesBehind": 0
       },
       {
@@ -18,16 +18,16 @@
         "loses": 1,
         "ties": 0,
         "winsPercentage": 0.667,
-        "gamesBehind": 1
+        "gamesBehind": 2
       },
       {
         "position": 3,
         "team": "SG Indians - Cardinals U16",
         "wins": 0,
-        "loses": 4,
+        "loses": 6,
         "ties": 0,
         "winsPercentage": 0,
-        "gamesBehind": 3.5
+        "gamesBehind": 5.5
       }
     ]
   }

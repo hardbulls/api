@@ -6,7 +6,7 @@ import {IcalGenerator} from "./Calendar/IcalGenerator";
 import {PlayerStatistics} from "@hardbulls/wbsc-crawler/dist/Model/PlayerStatistics";
 import {fileExists} from "./files";
 import {createHash} from 'crypto';
-import {OVERRIDES} from './overrides';
+import {OVERRIDES, MANUAL_GAMES} from './overrides';
 import {fetchEvents} from "./events";
 
 const now = new Date();
@@ -79,6 +79,25 @@ const correctNames = (statistics: PlayerStatistics[], fixNames: FixNamesConfig[]
 
                 if (league.filter) {
                     games = games.filter(league.filter);
+                }
+
+                const manualGames = MANUAL_GAMES?.[league.year]?.[league.slug] ?? []
+
+                if (manualGames.length > 0) {
+                    games.push(...manualGames.map((game: Game): ApiGame => {
+                        const gameData = {
+                            ...game,
+                            league: league.slug,
+                            season: league.year
+                        }
+
+                        const gameId = createHash('md5').update(JSON.stringify(gameData)).digest('hex');
+
+                        return {
+                            id: gameId,
+                            ...gameData
+                        }
+                    }))
                 }
 
                 games.sort((a, b) => a.date.getTime() - b.date.getTime());

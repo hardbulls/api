@@ -208,27 +208,14 @@
     "season": 2025
   },
   {
-    "id": "6a1772803d3a3234c3400397ca17fe11",
+    "id": "03014b513d84cb93181c6a8195d77059",
     "venue": "Ballpark am See, Hard",
     "home": "Hard Bulls",
     "away": "Schwechat Blue Bats",
     "awayScore": 4,
     "homeScore": 11,
-    "status": "scheduled",
+    "status": "finished",
     "date": "2025-06-07T11:00:00.000Z",
-    "note": null,
-    "league": "bbl",
-    "season": 2025
-  },
-  {
-    "id": "66ecb7bff276dc56709bb81e4d9972bb",
-    "venue": "Ballpark am See, Hard",
-    "home": "Hard Bulls",
-    "away": "Schwechat Blue Bats",
-    "awayScore": 0,
-    "homeScore": 0,
-    "status": "scheduled",
-    "date": "2025-06-07T13:30:00.000Z",
     "note": null,
     "league": "bbl",
     "season": 2025
@@ -307,6 +294,19 @@
     "homeScore": 0,
     "status": "scheduled",
     "date": "2025-07-12T13:30:00.000Z",
+    "note": null,
+    "league": "bbl",
+    "season": 2025
+  },
+  {
+    "id": "b9b7f4a6c3069c074a6bc70375c988d7",
+    "venue": "Ballpark am See, Hard",
+    "home": "Hard Bulls",
+    "away": "Schwechat Blue Bats",
+    "awayScore": 0,
+    "homeScore": 0,
+    "status": "scheduled",
+    "date": "2025-07-20T09:00:00.000Z",
     "note": null,
     "league": "bbl",
     "season": 2025

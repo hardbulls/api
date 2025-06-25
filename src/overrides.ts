@@ -26,6 +26,9 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     },
     "3db71ddd0a5a71092ffcb4625b8f7f7c": {
         "venue": "Sportanlage Rohrbach, Dornbirn"
+    },
+    "db35f42afd8bd39491b22bc23fb7af49": {
+        "venue": "Ballpark am See, Hard"
     }
 }
 

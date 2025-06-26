@@ -33,7 +33,7 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     "16b20c3cca44638608b7f9c790104017": {
 "venue": "Ballpark am See, Hard"
     }
-
+}
 export const MANUAL_GAMES: { [key: string]: { [key: string]: Game[] }} = {
     // "2025": {
     //     "u14": [

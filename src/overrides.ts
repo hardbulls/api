@@ -38,18 +38,18 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
     }
 }
 export const MANUAL_GAMES: { [key: string]: { [key: string]: Game[] }} = {
-    "2025": {
-        "vsl": [
-              {
-                "venue": "Ballpark Feldkirch, Feldkirch",
-                "home": "Dornbirn Bears",
-                "away": "Hard Bulls Barons",
-                "awayScore": 0,
-                "homeScore": 0,
-                "status": GameStatus.SCHEDULED,
-                "date": new Date("2025-09-21T08:00:00.000Z"),
-                "note": null,
-              }
-        ]
-    }
+    // "2025": {
+    //     "vsl": [
+    //           {
+    //             "venue": "Ballpark Feldkirch, Feldkirch",
+    //             "home": "Dornbirn Bears",
+    //             "away": "Hard Bulls Barons",
+    //             "awayScore": 0,
+    //             "homeScore": 0,
+    //             "status": GameStatus.SCHEDULED,
+    //             "date": new Date("2025-09-21T08:00:00.000Z"),
+    //             "note": null,
+    //           }
+    //     ]
+    // }
 }

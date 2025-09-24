@@ -90,6 +90,28 @@ export const CONFIG: Config = {
     leagues: [
         {
             year: 2025,
+            name: "Baseball ÖM Junioren U18",
+            shortName: "U18 ÖM",
+            slug: "u18-oem",
+            standings: "https://www.baseballsoftball.at/de/events/2025-baseball-sterreichische-meisterschaft-junioren-u18-2025/standings",
+            games: [
+                "https://www.baseballsoftball.at/de/events/2025-baseball-sterreichische-meisterschaft-junioren-u18-2025/schedule-and-results"
+            ],
+            logo: "oem_u18.svg"
+        },
+        {
+            year: 2025,
+            name: "Baseball ÖM Jugend U16",
+            shortName: "U16 ÖM",
+            slug: "u16-oem",
+            standings: "https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2025/standings",
+            games: [
+                "https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-jugend-u16-2025/schedule-and-results"
+            ],
+            logo: "oem_u16.svg"
+        },
+        {
+            year: 2025,
             name: 'Baseball Bundesliga',
             shortName: 'BBL',
             slug: 'bbl',

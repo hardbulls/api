@@ -112,6 +112,17 @@ export const CONFIG: Config = {
         },
         {
             year: 2025,
+            name: "Baseball ÖM Schüler U12",
+            shortName: "U12 ÖM",
+            slug: "u12-oem",
+            standings: "https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-schueler-u12-2025/standings",
+            games: [
+                "https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-schueler-u12-2025/schedule-and-results"
+            ],
+            logo: "oem_u12.svg"
+        },
+        {
+            year: 2025,
             name: 'Baseball Bundesliga',
             shortName: 'BBL',
             slug: 'bbl',

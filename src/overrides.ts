@@ -1,6 +1,6 @@
 import {Game, GameStatus} from "@hardbulls/wbsc-crawler";
 
-export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, date?: Date } } = {
+export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, date?: Date, homeScore?: number, awayScore?: number } } = {
     "e3b3d2919520a2fea14a14a405020831": {
         "venue": "Ballpark am See, Hard"
     },

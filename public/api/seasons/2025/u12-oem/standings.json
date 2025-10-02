@@ -1,0 +1,84 @@
+[
+  {
+    "type": "GROUP_A",
+    "results": [
+      {
+        "position": -1,
+        "team": "ASAK Firebirds U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Schwechat Blue Bats U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Wr. Neustadt Diving Ducks U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Hard Bulls U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      }
+    ]
+  },
+  {
+    "type": "GROUP_B",
+    "results": [
+      {
+        "position": -1,
+        "team": "Traiskirchen Grasshoppers U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Dornbirn Little Indians U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Vienna Hurricanes U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Vienna Wanderers U12",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      }
+    ]
+  }
+]

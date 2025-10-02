@@ -5,29 +5,29 @@
       {
         "position": 1,
         "team": "Centurions Wels",
-        "wins": 5,
-        "loses": 1,
+        "wins": 10,
+        "loses": 7,
         "ties": 0,
-        "winsPercentage": 0.833,
+        "winsPercentage": 0.588,
         "gamesBehind": 0
       },
       {
         "position": 2,
         "team": "ASAK Athletics",
-        "wins": 5,
-        "loses": 5,
+        "wins": 8,
+        "loses": 10,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 2
+        "winsPercentage": 0.444,
+        "gamesBehind": 2.5
       },
       {
         "position": 3,
         "team": "Kufstein Vikings",
-        "wins": 1,
-        "loses": 7,
+        "wins": 7,
+        "loses": 11,
         "ties": 0,
-        "winsPercentage": 0.125,
-        "gamesBehind": 5
+        "winsPercentage": 0.389,
+        "gamesBehind": 3.5
       }
     ]
   },
@@ -36,39 +36,39 @@
     "results": [
       {
         "position": 1,
-        "team": "Feldkirch Cardinals",
-        "wins": 6,
-        "loses": 2,
+        "team": "Schwaz Tigers",
+        "wins": 13,
+        "loses": 5,
         "ties": 0,
-        "winsPercentage": 0.75,
+        "winsPercentage": 0.722,
         "gamesBehind": 0
       },
       {
-        "position": 1,
-        "team": "Schwaz Tigers",
-        "wins": 6,
-        "loses": 2,
+        "position": 2,
+        "team": "Feldkirch Cardinals",
+        "wins": 12,
+        "loses": 6,
         "ties": 0,
-        "winsPercentage": 0.75,
-        "gamesBehind": 0
+        "winsPercentage": 0.667,
+        "gamesBehind": 1
       },
       {
         "position": 3,
         "team": "Dornbirn Indians 2",
-        "wins": 3,
-        "loses": 3,
+        "wins": 4,
+        "loses": 8,
         "ties": 0,
-        "winsPercentage": 0.5,
-        "gamesBehind": 2
+        "winsPercentage": 0.333,
+        "gamesBehind": 6
       },
       {
         "position": 4,
         "team": "Hard Bulls Bandidos",
-        "wins": 0,
-        "loses": 6,
+        "wins": 5,
+        "loses": 12,
         "ties": 0,
-        "winsPercentage": 0,
-        "gamesBehind": 5
+        "winsPercentage": 0.294,
+        "gamesBehind": 7.5
       }
     ]
   }

@@ -1,0 +1,52 @@
+[
+  {
+    "type": "UNKNOWN",
+    "results": [
+      {
+        "position": -1,
+        "team": "Feldkirch Cardinals U18",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Wr. Neustadt Diving Ducks U18",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Hard Bulls U18",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Vienna Metrostars U18",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      },
+      {
+        "position": -1,
+        "team": "Vienna Wanderers U18",
+        "wins": 0,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": null,
+        "gamesBehind": 0
+      }
+    ]
+  }
+]

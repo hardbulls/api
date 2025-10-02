@@ -31,25 +31,30 @@ export const OVERRIDES: { [key: string]: { status?: GameStatus, venue?: string, 
         "venue": "Ballpark am See, Hard"
     },
     "16b20c3cca44638608b7f9c790104017": {
-"venue": "Ballpark am See, Hard"
+        "venue": "Ballpark am See, Hard"
     },
     "72bb168c655604538520e9873c5483c7": {
         "date": new Date("2025-09-05T16:00:00.000Z")
+    },
+    "8d0d7f94d936ea1e2f7534921fc7b8d5": {
+        "status": GameStatus.FINISHED,
+        "awayScore": 15,
+        "homeScore": 4
     }
 }
 export const MANUAL_GAMES: { [key: string]: { [key: string]: Game[] }} = {
-    // "2025": {
-    //     "vsl": [
-    //           {
-    //             "venue": "Ballpark Feldkirch, Feldkirch",
-    //             "home": "Dornbirn Bears",
-    //             "away": "Hard Bulls Barons",
-    //             "awayScore": 0,
-    //             "homeScore": 0,
-    //             "status": GameStatus.SCHEDULED,
-    //             "date": new Date("2025-09-21T08:00:00.000Z"),
-    //             "note": null,
-    //           }
-    //     ]
-    // }
+    "2025": {
+        "vsl": [
+              {
+                "venue": "Ballpark Feldkirch, Feldkirch",
+                "home": "Dornbirn Redhawks",
+                "away": "Hard Bulls Barons",
+                "awayScore": 11,
+                "homeScore": 5,
+                "status": GameStatus.FINISHED,
+                "date": new Date("2025-09-21T10:00:00.000Z"),
+                "note": null,
+              }
+        ]
+    }
 }

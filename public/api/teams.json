@@ -317,6 +317,13 @@
     "country": "at"
   },
   {
+    "id": "vh_1",
+    "name": "Vienna Hurricanes",
+    "nameShort": "Hurricanes",
+    "logo": "logo_vienna-hurricanes.png",
+    "country": "at"
+  },
+  {
     "id": "bb_gh_1",
     "name": "SG Bats/Hoppers",
     "nameShort": "Bats/Hoppers",

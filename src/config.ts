@@ -119,7 +119,8 @@ export const CONFIG: Config = {
             games: [
                 "https://www.baseballsoftball.at/de/events/baseball-oesterreichische-meisterschaften-schueler-u12-2025/schedule-and-results"
             ],
-            logo: "oem_u12.svg"
+            logo: "oem_u12.svg",
+            filter: (game: Game) => game.home.toLowerCase().includes('hard bulls') || game.away.toLowerCase().includes('hard bulls')
         },
         {
             year: 2025,

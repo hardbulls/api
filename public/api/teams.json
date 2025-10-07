@@ -308,5 +308,19 @@
     "name": "SG Haar/Füssen",
     "shortName": "Haar/Füssen",
     "logo": "logo_de_haar+fussen.png"
+  },
+  {
+    "id": "vm_vh_1",
+    "name": "SG Metrostars/Hurricanes",
+    "nameShort": "Metrostars/Hurricanes",
+    "logo": "logo_metrostars+hurricanes.png",
+    "country": "at"
+  },
+  {
+    "id": "bb_gh_1",
+    "name": "SG Bats/Hoppers",
+    "nameShort": "Bats/Hoppers",
+    "logo": "logo_bb+gh.png",
+    "country": "at"
   }
 ]

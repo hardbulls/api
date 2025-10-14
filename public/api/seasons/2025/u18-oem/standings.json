@@ -1,51 +1,96 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Vienna Metrostars U18",
+        "wins": 4,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1
+      },
+      {
+        "position": 2,
+        "team": "Wr. Neustadt Diving Ducks U18",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 3,
+        "team": "Vienna Wanderers U18",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 4,
+        "team": "Feldkirch Cardinals U18",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 5,
+        "team": "Hard Bulls U18",
+        "wins": 0,
+        "loses": 4,
+        "ties": 0,
+        "winsPercentage": 0
+      }
+    ]
+  },
+  {
     "type": "UNKNOWN",
     "results": [
       {
-        "position": -1,
-        "team": "Feldkirch Cardinals U18",
-        "wins": 0,
+        "position": 1,
+        "team": "Vienna Metrostars U18",
+        "wins": 4,
         "loses": 0,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 1,
         "gamesBehind": 0
       },
       {
-        "position": -1,
+        "position": 2,
         "team": "Wr. Neustadt Diving Ducks U18",
-        "wins": 0,
-        "loses": 0,
+        "wins": 2,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0.5,
+        "gamesBehind": 2
       },
       {
-        "position": -1,
+        "position": 3,
+        "team": "Vienna Wanderers U18",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 2
+      },
+      {
+        "position": 4,
+        "team": "Feldkirch Cardinals U18",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 2
+      },
+      {
+        "position": 5,
         "team": "Hard Bulls U18",
         "wins": 0,
-        "loses": 0,
+        "loses": 4,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Vienna Metrostars U18",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Vienna Wanderers U18",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 4
       }
     ]
   }

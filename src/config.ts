@@ -36,7 +36,7 @@ export type FixNamesConfig = {
 export const CONFIG: Config = {
     output: '../public/',
     eventsUrl: 'https://www.hardbulls.com/events/data',
-    crawlYears: [2025],
+    crawlYears: [],
     combinedCalendarName: 'Bulls - Alle Mannschaften',
     aggregateYears: 3,
     timezone: 'Europe/Vienna',

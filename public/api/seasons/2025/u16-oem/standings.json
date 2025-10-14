@@ -1,33 +1,94 @@
 [
   {
+    "type": "FINAL",
+    "results": [
+      {
+        "position": 1,
+        "team": "Wr. Neustadt Diving Ducks U16",
+        "wins": 4,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.8
+      },
+      {
+        "position": 2,
+        "team": "Vienna Wanderers U16",
+        "wins": 3,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.75
+      },
+      {
+        "position": 3,
+        "team": "SG Metrostars - Hurricanes U16",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 4,
+        "team": "Kufstein Vikings U16",
+        "wins": 2,
+        "loses": 3,
+        "ties": 0,
+        "winsPercentage": 0.4
+      },
+      {
+        "position": 5,
+        "team": "SG Blue Hoppers U16",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 6,
+        "team": "Hard Bulls U16",
+        "wins": 2,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.5
+      },
+      {
+        "position": 7,
+        "team": "SG Indians - Cardinals U16",
+        "wins": 0,
+        "loses": 4,
+        "ties": 0,
+        "winsPercentage": 0
+      }
+    ]
+  },
+  {
     "type": "GROUP_A",
     "results": [
       {
-        "position": -1,
+        "position": 1,
+        "team": "Vienna Wanderers U16",
+        "wins": 2,
+        "loses": 0,
+        "ties": 0,
+        "winsPercentage": 1,
+        "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "SG Metrostars - Hurricanes U16",
+        "wins": 1,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
         "team": "SG Indians - Cardinals U16",
         "wins": 0,
-        "loses": 0,
+        "loses": 2,
         "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "SG Metrostars - Hurricanes U16",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Vienna Wanderers U16",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
+        "winsPercentage": 0,
+        "gamesBehind": 2
       }
     ]
   },
@@ -35,40 +96,72 @@
     "type": "GROUP_B",
     "results": [
       {
-        "position": -1,
+        "position": 1,
         "team": "Wr. Neustadt Diving Ducks U16",
-        "wins": 0,
-        "loses": 0,
+        "wins": 2,
+        "loses": 1,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 0.667,
         "gamesBehind": 0
       },
       {
-        "position": -1,
-        "team": "SG Blue Hoppers U16",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
-        "team": "Hard Bulls U16",
-        "wins": 0,
-        "loses": 0,
-        "ties": 0,
-        "winsPercentage": null,
-        "gamesBehind": 0
-      },
-      {
-        "position": -1,
+        "position": 2,
         "team": "Kufstein Vikings U16",
-        "wins": 0,
+        "wins": 2,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.667,
+        "gamesBehind": 0
+      },
+      {
+        "position": 3,
+        "team": "SG Blue Hoppers U16",
+        "wins": 1,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.333,
+        "gamesBehind": 1
+      },
+      {
+        "position": 4,
+        "team": "Hard Bulls U16",
+        "wins": 1,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0.333,
+        "gamesBehind": 1
+      }
+    ]
+  },
+  {
+    "type": "PLAYOFF",
+    "results": [
+      {
+        "position": 1,
+        "team": "SG Blue Hoppers U16",
+        "wins": 2,
         "loses": 0,
         "ties": 0,
-        "winsPercentage": null,
+        "winsPercentage": 1,
         "gamesBehind": 0
+      },
+      {
+        "position": 2,
+        "team": "Hard Bulls U16",
+        "wins": 1,
+        "loses": 1,
+        "ties": 0,
+        "winsPercentage": 0.5,
+        "gamesBehind": 1
+      },
+      {
+        "position": 3,
+        "team": "SG Indians - Cardinals U16",
+        "wins": 0,
+        "loses": 2,
+        "ties": 0,
+        "winsPercentage": 0,
+        "gamesBehind": 2
       }
     ]
   }

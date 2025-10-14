@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "id": "733515331a50e0d33af967a3a1bb188f",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Hard Bulls U12",
+    "away": "ASAK Firebirds U12",
+    "awayScore": 20,
+    "homeScore": 9,
+    "status": "finished",
+    "date": "2025-10-10T12:00:00.000Z",
+    "note": null,
+    "league": "u12-oem",
+    "season": 2025
+  },
+  {
+    "id": "7eb4d2003624e8d9ae27691d3633815b",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Hard Bulls U12",
+    "away": "Schwechat Blue Bats U12",
+    "awayScore": 19,
+    "homeScore": 3,
+    "status": "finished",
+    "date": "2025-10-11T07:30:00.000Z",
+    "note": null,
+    "league": "u12-oem",
+    "season": 2025
+  },
+  {
+    "id": "bdae40729f8528da35197683a280af13",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Wr. Neustadt Diving Ducks U12",
+    "away": "Hard Bulls U12",
+    "awayScore": 4,
+    "homeScore": 15,
+    "status": "finished",
+    "date": "2025-10-11T13:30:00.000Z",
+    "note": null,
+    "league": "u12-oem",
+    "season": 2025
+  },
+  {
+    "id": "edd5ba0de79632abe95c8fb172ca18d6",
+    "venue": "Sportanlage Rohrbach, Dornbirn",
+    "home": "Hard Bulls U12",
+    "away": "Dornbirn Little Indians U12",
+    "awayScore": 11,
+    "homeScore": 1,
+    "status": "finished",
+    "date": "2025-10-12T10:00:00.000Z",
+    "note": null,
+    "league": "u12-oem",
+    "season": 2025
+  }
+]
